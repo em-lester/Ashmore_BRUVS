@@ -1,0 +1,494 @@
+MaxN
+
+Generated: Friday, January 12, 2018 14:52:36
+
+Filename	Frame	Time (mins)	Period	Period time (mins)	OpCode	TapeReader	Depth	Comment									Family	Genus	Species	Code	MaxN	Has fed
+FP_201_ASH015.avi	  94735	  52.6305			FP_201_ASH015	CWS,BV	12										Carangidae	Carangoides	oblongus	37337069	2	No
+FP_201_ASH015.avi	  90846	  50.4699			FP_201_ASH015	CWS,BV	12										Carangidae	Caranx	melampygus	37337050	9	No
+FP_201_ASH015.avi	  44837	  24.9094			FP_201_ASH015	CWS,BV	12										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	3	Yes
+FP_201_ASH015.avi	  73449	  40.8050			FP_201_ASH015	CWS,BV	12										Carcharhinidae	Carcharhinus	melanopterus	37018036	1	No
+FP_201_ASH015.avi	  48390	  26.8833			FP_201_ASH015	CWS,BV	12										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH015.avi	  14982	   8.3233			FP_201_ASH015	CWS,BV	12										Echeneidae	Echeneis	naucrates	37336001	1	Yes
+FP_201_ASH015.avi	  59679	  33.1550			FP_201_ASH015	CWS,BV	12										Lethrinidae	Lethrinus	microdon	37351011	1	No
+FP_201_ASH015.avi	  11795	   6.5528			FP_201_ASH015	CWS,BV	12										Lethrinidae	Lethrinus	rubrioperculatus	37351012	1	No
+FP_201_ASH015.avi	  45996	  25.5533			FP_201_ASH015	CWS,BV	12										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH015.avi	  41842	  23.2455			FP_201_ASH015	CWS,BV	12										Lutjanidae	Lutjanus	gibbus	37346028	1	No
+FP_201_ASH015.avi	  26717	  14.8428			FP_201_ASH015	CWS,BV	12										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH015.avi	  37651	  20.9172			FP_201_ASH015	CWS,BV	12										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH002.avi	  12601	   7.0005	start	   5.4700	FP_201_ASH002	CWS											Carangidae	Carangoides	ferdau	37337068	2	No
+FP_201_ASH002.avi	  11054	   6.1411	start	   4.6106	FP_201_ASH002	CWS											Carangidae	Carangoides	orthogrammus	37337057	5	No
+FP_201_ASH002.avi	  16279	   9.0439	start	   7.5133	FP_201_ASH002	CWS											Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH002.avi	  11054	   6.1411	start	   4.6106	FP_201_ASH002	CWS											Carangidae	Caranx	melampygus	37337050	19	No
+FP_201_ASH002.avi	  63529	  35.2939	start	  33.7633	FP_201_ASH002	CWS											Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH002.avi	  74286	  41.2700	start	  39.7394	FP_201_ASH002	CWS											Lethrinidae	Lethrinus	amboinensis	37351024	1	No
+FP_201_ASH002.avi	  12408	   6.8933	start	   5.3628	FP_201_ASH002	CWS											Lethrinidae	Lethrinus	olivaceus	37351004	3	No
+FP_201_ASH002.avi	  18424	  10.2355	start	   8.7050	FP_201_ASH002	CWS											Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	No
+FP_201_ASH002.avi	  49189	  27.3272	start	  25.7966	FP_201_ASH002	CWS											Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH003.avi	  25990	  14.4389			FP_201_ASH003	CWS	20										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH003.avi	  55779	  30.9883			FP_201_ASH003	CWS	20										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH003.avi	  43151	  23.9728			FP_201_ASH003	CWS	20										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH003.avi	  28264	  15.7022			FP_201_ASH003	CWS	20										Lethrinidae	Gymnocranius	grandoculis	37351005	2	No
+FP_201_ASH003.avi	  58129	  32.2939			FP_201_ASH003	CWS	20										Lethrinidae	Lethrinus	microdon	37351011	2	Yes
+FP_201_ASH003.avi	  12128	   6.7378			FP_201_ASH003	CWS	20										Lethrinidae	Lethrinus	olivaceus	37351004	1	Yes
+FP_201_ASH003.avi	  55484	  30.8244			FP_201_ASH003	CWS	20										Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	No
+FP_201_ASH003.avi	  42527	  23.6261			FP_201_ASH003	CWS	20										Lutjanidae	Aprion	virescens	37346027	1	Yes
+FP_201_ASH004.avi	  42010	  23.3389			FP_201_ASH004	CWS	40										Balistidae	Abalistes	stellatus	37465011	1	No
+FP_201_ASH004.avi	  48744	  27.0800			FP_201_ASH004	CWS	40										Balistidae	Sufflamen	fraenatum	37465014	2	No
+FP_201_ASH004.avi	  21108	  11.7267			FP_201_ASH004	CWS	40										Carangidae	Carangoides	caeruleopinnatus	37337021	1	No
+FP_201_ASH004.avi	  88746	  49.3033			FP_201_ASH004	CWS	40										Carangidae	Carangoides	orthogrammus	37337057	2	No
+FP_201_ASH004.avi	  97835	  54.3527			FP_201_ASH004	CWS	40										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH004.avi	  51548	  28.6377			FP_201_ASH004	CWS	40										Carangidae	Caranx	melampygus	37337050	4	No
+FP_201_ASH004.avi	   2926	   1.6256			FP_201_ASH004	CWS	40										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH004.avi	   8962	   4.9789			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	amboinensis	37351024	1	No
+FP_201_ASH004.avi	  56889	  31.6050			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	nebulosus	37351008	1	No
+FP_201_ASH004.avi	  57053	  31.6961			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	olivaceus	37351004	2	No
+FP_201_ASH004.avi	  10970	   6.0944			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	ravus	37351031	1	No
+FP_201_ASH004.avi	  58207	  32.3372			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	No
+FP_201_ASH004.avi	  16082	   8.9344			FP_201_ASH004	CWS	40										Lethrinidae	Lethrinus	semicinctus	37351016	1	No
+FP_201_ASH004.avi	   7983	   4.4350			FP_201_ASH004	CWS	40										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH004.avi	 107829	  59.9049			FP_201_ASH004	CWS	40										Myliobatidae	Aetobatus	narinari	37039003	1	No
+FP_201_ASH004.avi	 108757	  60.4205			FP_201_ASH004	CWS	40										Nemipteridae	Pentapodus	emeryii	37347027	2	No
+FP_201_ASH004.avi	  77193	  42.8850			FP_201_ASH004	CWS	40										Rhynchobatidae	Rhynchobatus	laevis	37026003	1	No
+FP_201_ASH029.avi	  33873	  18.8372			FP_201_ASH029	CWS, BV	26										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH029.avi	  81230	  45.1730			FP_201_ASH029	CWS, BV	26										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	No
+FP_201_ASH029.avi	  38605	  21.4687			FP_201_ASH029	CWS, BV	26										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH029.avi	  45035	  25.0445			FP_201_ASH029	CWS, BV	26										Cheloniidae		sp		1	No
+FP_201_ASH029.avi	  94885	  52.7667			FP_201_ASH029	CWS, BV	26										Lethrinidae	Lethrinus	xanthochilus	37351020	3	No
+FP_201_ASH029.avi	   8072	   4.4889			FP_201_ASH029	CWS, BV	26										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH029.avi	  37242	  20.7107			FP_201_ASH029	CWS, BV	26										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH029.avi	  92938	  51.6839			FP_201_ASH029	CWS, BV	26										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH029.avi	   6343	   3.5274			FP_201_ASH029	CWS, BV	26										Lutjanidae	Lutjanus	gibbus	37346028	2	No
+FP_201_ASH029.avi	  37737	  20.9860			FP_201_ASH029	CWS, BV	26										Muraenidae	Gymnothorax	fimbriatus	37060035	1	Yes
+FP_201_ASH029.avi	 104312	  58.0091			FP_201_ASH029	CWS, BV	26										Serranidae		sp		1	No
+FP_201_ASH029.avi	  13868	   7.7122			FP_201_ASH029	CWS, BV	26										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH022.avi	   4285	   2.3829			FP_201_ASH022	CWS, BV	18.2										Carangidae	Caranx	melampygus	37337050	1	Yes
+FP_201_ASH022.avi	  14821	   8.2421			FP_201_ASH022	CWS, BV	18.2										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	Yes
+FP_201_ASH022.avi	  15287	   8.5013			FP_201_ASH022	CWS, BV	18.2										Carcharhinidae	Triaenodon	obesus	37018038	1	Yes
+FP_201_ASH022.avi	  11871	   6.6016			FP_201_ASH022	CWS, BV	18.2										Lethrinidae	Lethrinus	atkinsoni	37351013	2	No
+FP_201_ASH022.avi	  21182	  11.7796			FP_201_ASH022	CWS, BV	18.2										Lethrinidae	Lethrinus	xanthochilus	37351020	1	No
+FP_201_ASH022.avi	  30473	  16.9464			FP_201_ASH022	CWS, BV	18.2										Lutjanidae	Lutjanus	bohar	37346029	2	Yes
+FP_201_ASH022.avi	  22353	  12.4308			FP_201_ASH022	CWS, BV	18.2										Lutjanidae	Lutjanus	gibbus	37346028	8	No
+FP_201_ASH022.avi	   4723	   2.6265			FP_201_ASH022	CWS, BV	18.2										Lutjanidae	Macolor	macularis	37346047	3	No
+FP_201_ASH022.avi	  19494	  10.8408			FP_201_ASH022	CWS, BV	18.2										Serranidae	Cephalopholis	argus	37311082	2	No
+FP_201_ASH022.avi	  38057	  21.1639			FP_201_ASH022	CWS, BV	18.2										Serranidae	Cephalopholis	urodeta	37311142	2	Yes
+FP_201_ASH022.avi	  15903	   8.8438			FP_201_ASH022	CWS, BV	18.2										Serranidae	Variola	louti	37311166	2	No
+FP_201_ASH023.avi	  40634	  22.5970			FP_201_ASH023	CWS	20.6										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	No
+FP_201_ASH023.avi	  31497	  17.5158			FP_201_ASH023	CWS	20.6										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH025.avi	  74051	  41.1806			FP_201_ASH025	CWS, BV	5.3										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH025.avi	  57005	  31.7011			FP_201_ASH025	CWS, BV	5.3										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH025.avi	  86429	  48.0642			FP_201_ASH025	CWS, BV	5.3										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH025.avi	  37782	  21.0110			FP_201_ASH025	CWS, BV	5.3										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH025.avi	  65547	  36.4515			FP_201_ASH025	CWS, BV	5.3										Lutjanidae	Lutjanus	rivulatus	37346016	1	Yes
+FP_201_ASH025.avi	  83021	  46.1689			FP_201_ASH025	CWS, BV	5.3										Rhynchobatidae	Rhynchobatus	laevis	37026003	1	No
+FP_201_ASH025.avi	  59462	  33.0675			FP_201_ASH025	CWS, BV	5.3										Serranidae	Plectropomus	laevis	37311079	1	No
+FP_201_ASH025.avi	  21271	  11.8291			FP_201_ASH025	CWS, BV	5.3										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH012.avi	  63943	  35.5239			FP_201_ASH012	CWS	26.6										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH012.avi	  55223	  30.6794			FP_201_ASH012	CWS	26.6										Carangidae	Caranx	melampygus	37337050	3	No
+FP_201_ASH012.avi	  75438	  41.9100			FP_201_ASH012	CWS	26.6										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	4	No
+FP_201_ASH012.avi	 105191	  58.4394			FP_201_ASH012	CWS	26.6										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH012.avi	  49982	  27.7678			FP_201_ASH012	CWS	26.6										Lethrinidae	Gymnocranius	grandoculis	37351005	10	No
+FP_201_ASH012.avi	  49397	  27.4428			FP_201_ASH012	CWS	26.6										Lethrinidae	Lethrinus	microdon	37351011	1	No
+FP_201_ASH012.avi	  57696	  32.0533			FP_201_ASH012	CWS	26.6										Lethrinidae	Lethrinus	olivaceus	37351004	3	No
+FP_201_ASH012.avi	  49475	  27.4861			FP_201_ASH012	CWS	26.6										Lethrinidae	Lethrinus	rubrioperculatus	37351012	4	No
+FP_201_ASH013.avi	  39442	  21.9122			FP_201_ASH013	CWS	25.2														1	No
+FP_201_ASH013.avi	  71216	  39.5644			FP_201_ASH013	CWS	25.2										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	No
+FP_201_ASH013.avi	 102660	  57.0333			FP_201_ASH013	CWS	25.2										Cheloniidae	Chelonia	mydas	11111113	1	No
+FP_201_ASH013.avi	 100573	  55.8738			FP_201_ASH013	CWS	25.2										Lethrinidae	Lethrinus	rubrioperculatus	37351012	30	No
+FP_201_ASH013.avi	   9139	   5.0772			FP_201_ASH013	CWS	25.2										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH013.avi	  40743	  22.6350			FP_201_ASH013	CWS	25.2										Sphyraenidae	Sphyraena	barracuda	37382008	1	No
+FP_201_ASH014.avi	  74081	  41.1561			FP_201_ASH014	CWS,BV	22.8										Carangidae	Carangoides	caeruleopinnatus	37337021	1	No
+FP_201_ASH014.avi	  74373	  41.3183			FP_201_ASH014	CWS,BV	22.8										Echeneidae	Echeneis	naucrates	37336001	2	No
+FP_201_ASH014.avi	  51945	  28.8583			FP_201_ASH014	CWS,BV	22.8										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH014.avi	  74081	  41.1561			FP_201_ASH014	CWS,BV	22.8										Rhynchobatidae	Rhynchobatus	laevis	37026003	2	No
+FP_201_ASH017.avi	  23810	  13.2410			FP_201_ASH017	CWS,BV	15.1										Carangidae	Caranx	melampygus	37337050	2	No
+FP_201_ASH017.avi	  50249	  27.9441			FP_201_ASH017	CWS,BV	15.1										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	3	Yes
+FP_201_ASH017.avi	  26649	  14.8198			FP_201_ASH017	CWS,BV	15.1										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH017.avi	  35467	  19.7236			FP_201_ASH017	CWS,BV	15.1										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH017.avi	  11579	   6.4392			FP_201_ASH017	CWS,BV	15.1										Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	Yes
+FP_201_ASH017.avi	  17623	   9.8004			FP_201_ASH017	CWS,BV	15.1										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH017.avi	   6827	   3.7966			FP_201_ASH017	CWS,BV	15.1										Lutjanidae	Lutjanus	bohar	37346029	2	No
+FP_201_ASH017.avi	  17134	   9.5284			FP_201_ASH017	CWS,BV	15.1										Serranidae	Variola	albimarginata	37311026	2	No
+FP_201_ASH006.avi	  32849	  18.2677			FP_201_ASH006	CWS	38										Carangidae	Carangoides	caeruleopinnatus	37337021	1	No
+FP_201_ASH006.avi	  77944	  43.3456			FP_201_ASH006	CWS	38										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH006.avi	  18086	  10.0578			FP_201_ASH006	CWS	38										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH006.avi	  51956	  28.8933			FP_201_ASH006	CWS	38										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH006.avi	  99364	  55.2575			FP_201_ASH006	CWS	38										Congridae	Gorgasia			1	No
+FP_201_ASH006.avi	 107438	  59.7475			FP_201_ASH006	CWS	38										Dasyatidae	Dasyatis	kuhlii	37035004	1	No
+FP_201_ASH006.avi	 104161	  57.9251			FP_201_ASH006	CWS	38										Echeneidae	Echeneis	naucrates	37336001	2	No
+FP_201_ASH006.avi	  19365	  10.7691			FP_201_ASH006	CWS	38										Lethrinidae	Gymnocranius	sp		1	No
+FP_201_ASH006.avi	  28220	  15.6935			FP_201_ASH006	CWS	38										Lethrinidae	Lethrinus	amboinensis	37351024	2	No
+FP_201_ASH006.avi	  32395	  18.0152			FP_201_ASH006	CWS	38										Lethrinidae	Lethrinus	olivaceus	37351004	2	No
+FP_201_ASH006.avi	  91624	  50.9532			FP_201_ASH006	CWS	38										Lethrinidae	Lethrinus	ravus	37351031	3	No
+FP_201_ASH006.avi	  55236	  30.7174			FP_201_ASH006	CWS	38										Lethrinidae	Lethrinus	rubrioperculatus	37351012	1	No
+FP_201_ASH006.avi	  41918	  23.3111			FP_201_ASH006	CWS	38										Nemipteridae	Pentapodus	emeryii	37347027	2	No
+FP_201_ASH006.avi	 101208	  56.2829			FP_201_ASH006	CWS	38										Rachycentridae	Rachycentron	canadum	37335001	1	No
+FP_201_ASH006.avi	 101528	  56.4609			FP_201_ASH006	CWS	38										Rhinidae	Rhynchobatus			1	No
+FP_201_ASH006.avi	  59117	  32.8757			FP_201_ASH006	CWS	38										Scombridae	Gymnosarda	unicolor	37441029	2	No
+FP_201_ASH007.avi	   8894	   4.9461			FP_201_ASH007	CWS	27										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH007.avi	  34879	  19.3966			FP_201_ASH007	CWS	27										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	No
+FP_201_ASH007.avi	  43261	  24.0579			FP_201_ASH007	CWS	27										Cheloniidae	Chelonia	mydas	39020002	1	No
+FP_201_ASH007.avi	   7893	   4.3894			FP_201_ASH007	CWS	27										Lethrinidae	Lethrinus	amboinensis	37351024	2	No
+FP_201_ASH007.avi	  46184	  25.6835			FP_201_ASH007	CWS	27										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH007.avi	  19155	  10.6523			FP_201_ASH007	CWS	27										Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	No
+FP_201_ASH007.avi	  14099	   7.8406			FP_201_ASH007	CWS	27										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH007.avi	  12039	   6.6950			FP_201_ASH007	CWS	27										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH007.avi	  13492	   7.5031			FP_201_ASH007	CWS	27										Nemipteridae	Pentapodus	emeryii	37347027	3	No
+FP_201_ASH007.avi	  13823	   7.6871			FP_201_ASH007	CWS	27										Serranidae	Variola	louti	37311166	1	No
+FP_201_ASH041.avi	  24794	  13.7882			FP_201_ASH041	CWS, BV	39.5										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH041.avi	  11348	   6.3108			FP_201_ASH041	CWS, BV	39.5										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	Yes
+FP_201_ASH041.avi	 119423	  66.4125			FP_201_ASH041	CWS, BV	39.5										Dasyatidae	Dasyatis	sp		1	No
+FP_201_ASH041.avi	  29103	  16.1845			FP_201_ASH041	CWS, BV	39.5										Lethrinidae	Lethrinus	amboinensis	37351024	2	Yes
+FP_201_ASH041.avi	  34071	  18.9473			FP_201_ASH041	CWS, BV	39.5										Lethrinidae	Lethrinus	rubrioperculatus	37351012	12	Yes
+FP_201_ASH041.avi	   6502	   3.6158			FP_201_ASH041	CWS, BV	39.5										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH041.avi	  24075	  13.3884			FP_201_ASH041	CWS, BV	39.5										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH032.avi	 108945	  60.5856			FP_201_ASH032	CWS, BV	29										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH032.avi	  61744	  34.3366			FP_201_ASH032	CWS, BV	29										Carangidae	Caranx	melampygus	37337050	4	No
+FP_201_ASH032.avi	  58201	  32.3663			FP_201_ASH032	CWS, BV	29										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH032.avi	  71897	  39.9828			FP_201_ASH032	CWS, BV	29										Dasyatidae	Dasyatis	kuhlii	37035004	1	No
+FP_201_ASH032.avi	 115346	  64.1453			FP_201_ASH032	CWS, BV	29										Dasyatidae	Himantura	fai	37035024	1	No
+FP_201_ASH032.avi	 103672	  57.6532			FP_201_ASH032	CWS, BV	29										Lethrinidae	Lethrinus	microdon	37351011	3	Yes
+FP_201_ASH032.avi	   6152	   3.4212			FP_201_ASH032	CWS, BV	29										Lethrinidae	Lethrinus	ravus	37351031	4	Yes
+FP_201_ASH032.avi	  16071	   8.9373			FP_201_ASH032	CWS, BV	29										Lethrinidae	Lethrinus	rubrioperculatus	37351012	5	No
+FP_201_ASH032.avi	  97319	  54.1202			FP_201_ASH032	CWS, BV	29										Lethrinidae	Lethrinus	xanthochilus	37351020	1	No
+FP_201_ASH032.avi	  63981	  35.5806			FP_201_ASH032	CWS, BV	29										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH032.avi	  93296	  51.8830			FP_201_ASH032	CWS, BV	29										Scombridae	Scomberomorus	commerson	37441007	3	No
+FP_201_ASH032.avi	  16153	   8.9829			FP_201_ASH032	CWS, BV	29										Serranidae	Variola	albimarginata	37311026	3	No
+FP_201_ASH033.avi	  84081	  46.7584			FP_201_ASH033	CWS	25										Carangidae	Carangoides	ferdau	37337068	2	No
+FP_201_ASH033.avi	  30636	  17.0370			FP_201_ASH033	CWS	25										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH033.avi	  28647	  15.9309			FP_201_ASH033	CWS	25										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH033.avi	  15001	   8.3422			FP_201_ASH033	CWS	25										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	Yes
+FP_201_ASH033.avi	  32739	  18.2065			FP_201_ASH033	CWS	25										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH033.avi	  22614	  12.5759			FP_201_ASH033	CWS	25										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH033.avi	  51073	  28.4023			FP_201_ASH033	CWS	25										Lethrinidae	Lethrinus	amboinensis	37351024	3	No
+FP_201_ASH033.avi	  28564	  15.8848			FP_201_ASH033	CWS	25										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH033.avi	  10315	   5.7363			FP_201_ASH033	CWS	25										Lethrinidae	Lethrinus	ravus	37351031	3	Yes
+FP_201_ASH033.avi	  18968	  10.5483			FP_201_ASH033	CWS	25										Lethrinidae	Lethrinus	rubrioperculatus	37351012	9	Yes
+FP_201_ASH033.avi	  21627	  12.0270			FP_201_ASH033	CWS	25										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH033.avi	  44018	  24.4789			FP_201_ASH033	CWS	25										Scombridae	Scomberomorus	commerson	37441007	1	No
+FP_201_ASH026.avi	  42048	  23.3834			FP_201_ASH026	CWS	25										Carangidae	Carangoides	caeruleopinnatus	37337021	1	No
+FP_201_ASH026.avi	  60553	  33.6742			FP_201_ASH026	CWS	25										Carangidae	Carangoides	orthogrammus	37337057	3	No
+FP_201_ASH026.avi	  91457	  50.8603			FP_201_ASH026	CWS	25										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	4	Yes
+FP_201_ASH026.avi	  11979	   6.6617			FP_201_ASH026	CWS	25										Dasyatidae	Pastinachus	sephen	37035011	1	No
+FP_201_ASH026.avi	  50552	  28.1126			FP_201_ASH026	CWS	25										Echeneidae	Echeneis	naucrates	37336001	2	Yes
+FP_201_ASH026.avi	  10488	   5.8325			FP_201_ASH026	CWS	25										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH026.avi	  88160	  49.0268			FP_201_ASH026	CWS	25										Lethrinidae	Lethrinus	amboinensis	37351024	2	No
+FP_201_ASH026.avi	  73167	  40.6890			FP_201_ASH026	CWS	25										Lethrinidae	Lethrinus	rubrioperculatus	37351012	10	Yes
+FP_201_ASH026.avi	   6944	   3.8616			FP_201_ASH026	CWS	25										Lutjanidae	Aprion	virescens	37346027	2	No
+FP_201_ASH026.avi	  53691	  29.8582			FP_201_ASH026	CWS	25										Myliobatidae	Aetobatus	narinari	37039003	1	No
+FP_201_ASH026.avi	   8700	   4.8382			FP_201_ASH026	CWS	25										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH027.avi	  22201	  12.3462			FP_201_ASH027	CWS	34										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH027.avi	  25169	  13.9968			FP_201_ASH027	CWS	34										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH027.avi	  82125	  45.6707			FP_201_ASH027	CWS	34										Carangidae	Scomberoides	lysan	37337046	1	No
+FP_201_ASH027.avi	  36175	  20.1173			FP_201_ASH027	CWS	34										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	3	Yes
+FP_201_ASH027.avi	  85393	  47.4880			FP_201_ASH027	CWS	34										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH027.avi	  39577	  22.0092			FP_201_ASH027	CWS	34										Cheloniidae	Chelonia	mydas	39020002	1	No
+FP_201_ASH027.avi	  36681	  20.3987			FP_201_ASH027	CWS	34										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH027.avi	  49226	  27.3752			FP_201_ASH027	CWS	34										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH027.avi	  64835	  36.0555			FP_201_ASH027	CWS	34										Lethrinidae	Lethrinus	atkinsoni	37351013	1	No
+FP_201_ASH027.avi	  34761	  19.3310			FP_201_ASH027	CWS	34										Lethrinidae	Lethrinus	xanthochilus	37351020	3	No
+FP_201_ASH027.avi	  22066	  12.2712			FP_201_ASH027	CWS	34										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH027.avi	  43699	  24.3015			FP_201_ASH027	CWS	34										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH027.avi	 102913	  57.2311			FP_201_ASH027	CWS	34										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH027.avi	  68159	  37.9040			FP_201_ASH027	CWS	34										Lutjanidae	Lutjanus	gibbus	37346028	3	No
+FP_201_ASH027.avi	  57731	  32.1049			FP_201_ASH027	CWS	34										Scombridae	Gymnosarda	unicolor	37441029	1	No
+FP_201_ASH027.avi	   7620	   4.2376			FP_201_ASH027	CWS	34										Scombridae	Scomberomorus	commerson	37441007	1	No
+FP_201_ASH027.avi	  56572	  31.4603			FP_201_ASH027	CWS	34										Serranidae		sp		1	No
+FP_201_ASH027.avi	  48564	  27.0070			FP_201_ASH027	CWS	34										Serranidae	Variola	albimarginata	37311026	4	No
+FP_201_ASH028.avi	  57009	  31.7034			FP_201_ASH028	CWS, BV	37										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH028.avi	  21660	  12.0454			FP_201_ASH028	CWS, BV	37										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH028.avi	 105491	  58.6648			FP_201_ASH028	CWS, BV	37										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	Yes
+FP_201_ASH028.avi	  79037	  43.9534			FP_201_ASH028	CWS, BV	37										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH028.avi	  97786	  54.3799			FP_201_ASH028	CWS, BV	37										Lethrinidae	Lethrinus	amboinensis	37351024	9	No
+FP_201_ASH028.avi	 111496	  62.0042			FP_201_ASH028	CWS, BV	37										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH028.avi	  97041	  53.9656			FP_201_ASH028	CWS, BV	37										Scombridae	Scomberomorus	queenslandicus	37441014	1	No
+FP_201_ASH037.avi	  22389	  12.4508			FP_201_ASH037	CWS, BV	7										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	No
+FP_201_ASH037.avi	 105922	  58.9045			FP_201_ASH037	CWS, BV	7										Dasyatidae	Taeniurops	meyeni	37035017	1	Yes
+FP_201_ASH037.avi	  65068	  36.1851			FP_201_ASH037	CWS, BV	7										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH037.avi	  22018	  12.2445			FP_201_ASH037	CWS, BV	7										Haemulidae	Plectorhinchus	chaetodonoides	37350014	1	No
+FP_201_ASH037.avi	  94264	  52.4213			FP_201_ASH037	CWS, BV	7										Lethrinidae	Lethrinus	microdon	37351011	1	No
+FP_201_ASH037.avi	  32690	  18.1793			FP_201_ASH037	CWS, BV	7										Lethrinidae	Monotaxis	grandoculis	37351026	1	No
+FP_201_ASH037.avi	   3781	   2.1027			FP_201_ASH037	CWS, BV	7										Lutjanidae	Aprion	virescens	37346027	2	No
+FP_201_ASH037.avi	  27638	  15.3698			FP_201_ASH037	CWS, BV	7										Lutjanidae	Lutjanus	bohar	37346029	3	No
+FP_201_ASH037.avi	  65016	  36.1562			FP_201_ASH037	CWS, BV	7										Rhinidae	Rhynchobatus	australiae	37026001	1	No
+FP_201_ASH037.avi	   3461	   1.9247			FP_201_ASH037	CWS, BV	7										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH037.avi	  64663	  35.9598			FP_201_ASH037	CWS, BV	7										Serranidae	Cephalopholis	argus	37311082	1	No
+FP_201_ASH037.avi	  28025	  15.5850			FP_201_ASH037	CWS, BV	7										Serranidae	Cephalopholis	urodeta	37311142	4	No
+FP_201_ASH037.avi	  73947	  41.1228			FP_201_ASH037	CWS, BV	7										Serranidae	Plectropomus	laevis	37311079	2	No
+FP_201_ASH037.avi	  79528	  44.2264			FP_201_ASH037	CWS, BV	7										Serranidae	Variola	louti	37311166	1	No
+FP_201_ASH038.avi	   5131	   2.8534			FP_201_ASH038	CWS, BV	11										Carangidae	Atule	mate	37337024	2	No
+FP_201_ASH038.avi	  61017	  33.9323			FP_201_ASH038	CWS, BV	11										Carangidae	Carangoides	orthogrammus	37337057	10	No
+FP_201_ASH038.avi	  43315	  24.0880			FP_201_ASH038	CWS, BV	11										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH038.avi	   7827	   4.3527			FP_201_ASH038	CWS, BV	11										Carangidae	Caranx	melampygus	37337050	3	No
+FP_201_ASH038.avi	 113145	  62.9213			FP_201_ASH038	CWS, BV	11										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH038.avi	  94480	  52.5414			FP_201_ASH038	CWS, BV	11										Dasyatidae	Himantura	granulata	37035019	1	No
+FP_201_ASH038.avi	  68762	  38.2394			FP_201_ASH038	CWS, BV	11										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	Yes
+FP_201_ASH038.avi	  37876	  21.0633			FP_201_ASH038	CWS, BV	11										Lethrinidae	Monotaxis	grandoculis	37351026	1	No
+FP_201_ASH038.avi	   6144	   3.4168			FP_201_ASH038	CWS, BV	11										Lutjanidae	Lutjanus	bohar	37346029	5	Yes
+FP_201_ASH038.avi	   4900	   2.7249			FP_201_ASH038	CWS, BV	11										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH038.avi	   5468	   3.0408			FP_201_ASH038	CWS, BV	11										Lutjanidae	Lutjanus	gibbus	37346028	4	No
+FP_201_ASH038.avi	   2535	   1.4097			FP_201_ASH038	CWS, BV	11										Lutjanidae	Macolor	sp		3	No
+FP_201_ASH038.avi	   5051	   2.8089			FP_201_ASH038	CWS, BV	11										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH038.avi	  12431	   6.9130			FP_201_ASH038	CWS, BV	11										Serranidae	Cephalopholis	argus	37311082	1	No
+FP_201_ASH038.avi	  15251	   8.4813			FP_201_ASH038	CWS, BV	11										Serranidae	Cephalopholis	urodeta	37311142	1	No
+FP_201_ASH038.avi	  37529	  20.8703			FP_201_ASH038	CWS, BV	11										Serranidae	Plectropomus	sp		1	No
+FP_201_ASH038.avi	  81489	  45.3170			FP_201_ASH038	CWS, BV	11										Sphyraenidae	Sphyraena	barracuda	37382008	1	No
+FP_201_ASH045.avi	  41433	  23.0414			FP_201_ASH045	CWS, BV	12.8										Carangidae	Carangoides	fulvoguttatus	37337037	2	No
+FP_201_ASH045.avi	  72054	  40.0701			FP_201_ASH045	CWS, BV	12.8										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH045.avi	  34564	  19.2214			FP_201_ASH045	CWS, BV	12.8										Carangidae	Caranx	melampygus	37337050	4	No
+FP_201_ASH045.avi	  22181	  12.3351			FP_201_ASH045	CWS, BV	12.8										Carangidae	Gnathanodon	speciosus	37337012	1	No
+FP_201_ASH045.avi	  29303	  16.2957			FP_201_ASH045	CWS, BV	12.8										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH045.avi	  24394	  13.5658			FP_201_ASH045	CWS, BV	12.8										Ginglymostomatidae	Nebrius	ferrugineus	37013010	1	Yes
+FP_201_ASH045.avi	  22047	  12.2606			FP_201_ASH045	CWS, BV	12.8										Lethrinidae	Lethrinus	microdon	37351011	1	Yes
+FP_201_ASH045.avi	 104031	  57.8529			FP_201_ASH045	CWS, BV	12.8										Lethrinidae	Lethrinus	obsoletus	37351019	1	No
+FP_201_ASH045.avi	  36244	  20.1557			FP_201_ASH045	CWS, BV	12.8										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	No
+FP_201_ASH045.avi	   5181	   2.8812			FP_201_ASH045	CWS, BV	12.8										Lethrinidae	Monotaxis	grandoculis	37351026	1	No
+FP_201_ASH045.avi	  59703	  33.2015			FP_201_ASH045	CWS, BV	12.8										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH045.avi	  14682	   8.1648			FP_201_ASH045	CWS, BV	12.8										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH045.avi	  15953	   8.8716			FP_201_ASH045	CWS, BV	12.8										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH045.avi	  43485	  24.1825			FP_201_ASH045	CWS, BV	12.8										Lutjanidae	Lutjanus	vitta	37346003	1	No
+FP_201_ASH045.avi	  27417	  15.2469			FP_201_ASH045	CWS, BV	12.8										Serranidae	Cephalopholis	urodeta	37311142	1	No
+FP_201_ASH045.avi	  24304	  13.5157			FP_201_ASH045	CWS, BV	12.8										Serranidae	Epinephelus	fuscoguttatus	37311021	1	No
+FP_201_ASH045.avi	  27885	  15.5072			FP_201_ASH045	CWS, BV	12.8										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH045.avi	  22107	  12.2940			FP_201_ASH045	CWS, BV	12.8										Stegostomatidae	Stegostoma	fasciatum	37013006	1	Yes
+FP_201_ASH040.avi	  10237	   5.6929			FP_201_ASH040	CWS	39.7										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH040.avi	  13133	   7.3034			FP_201_ASH040	CWS	39.7										Carangidae	Caranx	melampygus	37337050	2	No
+FP_201_ASH040.avi	   8247	   4.5863			FP_201_ASH040	CWS	39.7										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH040.avi	  44409	  24.6964			FP_201_ASH040	CWS	39.7										Lethrinidae	Lethrinus	amboinensis	37351024	3	Yes
+FP_201_ASH040.avi	  31642	  17.5965			FP_201_ASH040	CWS	39.7										Lethrinidae	Lethrinus	rubrioperculatus	37351012	10	Yes
+FP_201_ASH040.avi	  37865	  21.0572			FP_201_ASH040	CWS	39.7										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH047.avi	  80587	  44.8154			FP_201_ASH047	CWS, BV	6.1										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH047.avi	  81197	  45.1546			FP_201_ASH047	CWS, BV	6.1										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH047.avi	   9274	   5.1574			FP_201_ASH047	CWS, BV	6.1										Carangidae	Scomberoides	lysan	37337046	1	No
+FP_201_ASH047.avi	  92398	  51.3836			FP_201_ASH047	CWS, BV	6.1										Dasyatidae	Dasyatis	sp		1	No
+FP_201_ASH047.avi	  53920	  29.9855			FP_201_ASH047	CWS, BV	6.1										Dasyatidae	Pastinachus	sephen	37035011	1	No
+FP_201_ASH047.avi	 112371	  62.4908			FP_201_ASH047	CWS, BV	6.1										Sphyraenidae	Sphyraena	barracuda	37382008	2	No
+FP_201_ASH035.avi	   4531	   2.5197			FP_201_ASH035	CWS, BV	4										Carangidae	Carangoides	orthogrammus	37337057	4	No
+FP_201_ASH035.avi	  13645	   7.5881			FP_201_ASH035	CWS, BV	4										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH035.avi	  19481	  10.8336			FP_201_ASH035	CWS, BV	4										Carangidae	Caranx	melampygus	37337050	3	Yes
+FP_201_ASH035.avi	  14985	   8.3333			FP_201_ASH035	CWS, BV	4										Carangidae	Scomberoides	lysan	37337046	1	No
+FP_201_ASH035.avi	  47038	  26.1584			FP_201_ASH035	CWS, BV	4										Cheloniidae		sp		1	No
+FP_201_ASH035.avi	  81869	  45.5283			FP_201_ASH035	CWS, BV	4										Lethrinidae	Lethrinus	rubrioperculatus	37351012	4	No
+FP_201_ASH035.avi	  33271	  18.5024			FP_201_ASH035	CWS, BV	4										Lutjanidae	Lutjanus	bohar	37346029	2	No
+FP_201_ASH035.avi	  15791	   8.7816			FP_201_ASH035	CWS, BV	4										Lutjanidae	Lutjanus	decussatus	37346041	3	No
+FP_201_ASH035.avi	  49024	  27.2628			FP_201_ASH035	CWS, BV	4										Serranidae	Cephalopholis	sp		1	No
+FP_201_ASH035.avi	  12640	   7.0293			FP_201_ASH035	CWS, BV	4										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH036.avi	  99977	  55.5984			FP_201_ASH036	CWS	7														1	Yes
+FP_201_ASH036.avi	  17709	   9.8482			FP_201_ASH036	CWS	7										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH036.avi	  24159	  13.4351			FP_201_ASH036	CWS	7										Carangidae	Caranx	melampygus	37337050	5	No
+FP_201_ASH036.avi	  75246	  41.8452			FP_201_ASH036	CWS	7										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	2	Yes
+FP_201_ASH036.avi	  40344	  22.4358			FP_201_ASH036	CWS	7										Carcharhinidae	Triaenodon	obesus	37018038	2	No
+FP_201_ASH036.avi	  99977	  55.5984			FP_201_ASH036	CWS	7										Cheloniidae	Eretmochelys	imbricata	39020003	1	No
+FP_201_ASH036.avi	  22028	  12.2500			FP_201_ASH036	CWS	7										Lethrinidae	Lethrinus	atkinsoni	37351013	1	Yes
+FP_201_ASH036.avi	   9454	   5.2575			FP_201_ASH036	CWS	7										Lethrinidae	Lethrinus	microdon	37351011	10	No
+FP_201_ASH036.avi	  59058	  32.8428			FP_201_ASH036	CWS	7										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH036.avi	  30514	  16.9692			FP_201_ASH036	CWS	7										Lutjanidae	Lutjanus	bohar	37346029	18	Yes
+FP_201_ASH036.avi	  36913	  20.5277			FP_201_ASH036	CWS	7										Lutjanidae	Lutjanus	decussatus	37346041	2	No
+FP_201_ASH036.avi	  50187	  27.9096			FP_201_ASH036	CWS	7										Lutjanidae	Lutjanus	rivulatus	37346016	2	No
+FP_201_ASH036.avi	   5840	   3.2477			FP_201_ASH036	CWS	7										Lutjanidae	Macolor	sp		1	No
+FP_201_ASH036.avi	  68241	  37.9496			FP_201_ASH036	CWS	7										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH036.avi	  13258	   7.3729			FP_201_ASH036	CWS	7										Serranidae	Cephalopholis	argus	37311082	2	No
+FP_201_ASH036.avi	  93023	  51.7312			FP_201_ASH036	CWS	7										Serranidae	Cephalopholis	urodeta	37311142	2	No
+FP_201_ASH036.avi	  23840	  13.2577			FP_201_ASH036	CWS	7										Serranidae	Epinephelus	fasciatus	37311014	1	No
+FP_201_ASH036.avi	  13167	   7.3223			FP_201_ASH036	CWS	7										Serranidae	Variola	louti	37311166	1	No
+FP_201_ASH036.avi	  16821	   9.3544			FP_201_ASH036	CWS	7										Stegostomatidae	Stegostoma	fasciatum	37013006	1	No
+FP_201_ASH056.avi	  61740	  34.3343			FP_201_ASH056	CWS	18										Carangidae	Carangoides	orthogrammus	37337057	3	No
+FP_201_ASH056.avi	  12889	   7.1677			FP_201_ASH056	CWS	18										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH056.avi	  61871	  34.4072			FP_201_ASH056	CWS	18										Carangidae	Gnathanodon	speciosus	37337012	3	No
+FP_201_ASH056.avi	  64487	  35.8620			FP_201_ASH056	CWS	18										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH056.avi	   5788	   3.2188			FP_201_ASH056	CWS	18										Cheloniidae		sp		1	No
+FP_201_ASH056.avi	  84358	  46.9125			FP_201_ASH056	CWS	18										Dasyatidae	Himantura	fai	37035024	1	No
+FP_201_ASH056.avi	  42154	  23.4423			FP_201_ASH056	CWS	18										Lethrinidae	Lethrinus	microdon	37351011	3	Yes
+FP_201_ASH056.avi	  11742	   6.5299			FP_201_ASH056	CWS	18										Lethrinidae	Monotaxis	grandoculis	37351026	1	No
+FP_201_ASH056.avi	  38089	  21.1817			FP_201_ASH056	CWS	18										Lutjanidae	Lutjanus	bohar	37346029	3	No
+FP_201_ASH056.avi	  30718	  17.0826			FP_201_ASH056	CWS	18										Lutjanidae	Lutjanus	decussatus	37346041	3	Yes
+FP_201_ASH056.avi	   3750	   2.0854			FP_201_ASH056	CWS	18										Lutjanidae	Lutjanus	quinquelineatus	37346006	2	No
+FP_201_ASH056.avi	 111410	  61.9564			FP_201_ASH056	CWS	18										Muraenidae	Gymnothorax	sp		1	No
+FP_201_ASH056.avi	  28511	  15.8553			FP_201_ASH056	CWS	18										Serranidae	Cephalopholis	urodeta	37311142	1	No
+FP_201_ASH056.avi	  82477	  45.8664			FP_201_ASH056	CWS	18										Serranidae	Plectropomus	laevis	37311079	1	No
+FP_201_ASH056.avi	 101645	  56.5260			FP_201_ASH056	CWS	18										Serranidae	Plectropomus	maculatus	37311012	2	No
+FP_201_ASH065.avi	   4915	   2.7333			FP_201_ASH065	CWS, BV	18.9										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH065.avi	  32156	  17.8823			FP_201_ASH065	CWS, BV	18.9										Carangidae	Carangoides	orthogrammus	37337057	2	No
+FP_201_ASH065.avi	  36187	  20.1240			FP_201_ASH065	CWS, BV	18.9										Carangidae	Carangoides	plagiotaenia	37337070	2	No
+FP_201_ASH065.avi	 109405	  60.8414			FP_201_ASH065	CWS, BV	18.9										Carangidae	Caranx	melampygus	37337050	7	No
+FP_201_ASH065.avi	  90009	  50.0551			FP_201_ASH065	CWS, BV	18.9										Carangidae	Gnathanodon	speciosus	37337012	1	No
+FP_201_ASH065.avi	  96329	  53.5697			FP_201_ASH065	CWS, BV	18.9										Carangidae	Scomberoides	lysan	37337046	1	No
+FP_201_ASH065.avi	  29274	  16.2796			FP_201_ASH065	CWS, BV	18.9										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH065.avi	  96648	  53.7471			FP_201_ASH065	CWS, BV	18.9										Dasyatidae	Dasyatis	kuhlii	37035004	1	No
+FP_201_ASH065.avi	  29275	  16.2802			FP_201_ASH065	CWS, BV	18.9										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH065.avi	  74535	  41.4498			FP_201_ASH065	CWS, BV	18.9										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH065.avi	  47960	  26.6711			FP_201_ASH065	CWS, BV	18.9										Lethrinidae	Lethrinus	microdon	37351011	1	Yes
+FP_201_ASH065.avi	  15195	   8.4501			FP_201_ASH065	CWS, BV	18.9										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	No
+FP_201_ASH065.avi	  10888	   6.0549			FP_201_ASH065	CWS, BV	18.9										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH065.avi	  74594	  41.4826			FP_201_ASH065	CWS, BV	18.9										Lutjanidae	Lutjanus	bohar	37346029	3	Yes
+FP_201_ASH065.avi	  89440	  49.7386			FP_201_ASH065	CWS, BV	18.9										Serranidae	Plectropomus	laevis	37311079	1	No
+FP_201_ASH088.avi	  88059	  48.9706			FP_201_ASH088	CWS	32										Carangidae	Caranx	ignobilis	37337027	6	No
+FP_201_ASH088.avi	  88300	  49.1047			FP_201_ASH088	CWS	32										Carangidae	Gnathanodon	speciosus	37337012	2	No
+FP_201_ASH088.avi	  73467	  40.8559			FP_201_ASH088	CWS	32										Carcharhinidae	Galeocerdo	cuvier	37018022	1	Yes
+FP_201_ASH088.avi	  89106	  49.5529			FP_201_ASH088	CWS	32										Echeneidae	Echeneis	naucrates	37336001	2	Yes
+FP_201_ASH088.avi	  53039	  29.4956			FP_201_ASH088	CWS	32										Rachycentridae	Rachycentron	canadum	37335001	1	No
+FP_201_ASH088.avi	  52931	  29.4355			FP_201_ASH088	CWS	32										Rhinidae	Rhynchobatus			1	No
+FP_201_ASH088.avi	  83534	  46.4542			FP_201_ASH088	CWS	32										Stegostomatidae	Stegostoma	fasciatum	37013006	1	Yes
+FP_201_ASH085.avi	  88028	  48.9534			FP_201_ASH085	CWS	31.2														1	No
+FP_201_ASH085.avi	  23910	  13.2966			FP_201_ASH085	CWS	31.2										Carangidae	Atule	mate	37337024	1	No
+FP_201_ASH085.avi	  66401	  36.9264			FP_201_ASH085	CWS	31.2										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH085.avi	 112230	  62.4124			FP_201_ASH085	CWS	31.2										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH085.avi	  66620	  37.0482			FP_201_ASH085	CWS	31.2										Hemigaleidae	Hemipristis	elongata	37018011	1	No
+FP_201_ASH085.avi	  23243	  12.9257			FP_201_ASH085	CWS	31.2										Lethrinidae	Gymnocranius	grandoculis	37351005	6	No
+FP_201_ASH085.avi	  37845	  21.0460			FP_201_ASH085	CWS	31.2										Lutjanidae	Symphorus	nematophorus	37346017	1	No
+FP_201_ASH085.avi	  89111	  49.5557			FP_201_ASH085	CWS	31.2										Sphyraenidae	Sphyraena	barracuda	37382008	1	No
+FP_201_ASH112.avi	 106339	  59.1364			FP_201_ASH112	CWS	25.9										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH112.avi	  99335	  55.2414			FP_201_ASH112	CWS	25.9										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	Yes
+FP_201_ASH112.avi	  12527	   6.9664			FP_201_ASH112	CWS	25.9										Lethrinidae	Gymnocranius	grandoculis	37351005	2	No
+FP_201_ASH112.avi	  58795	  32.6966			FP_201_ASH112	CWS	25.9										Lethrinidae	Lethrinus	microdon	37351011	2	Yes
+FP_201_ASH112.avi	  41736	  23.2099			FP_201_ASH112	CWS	25.9										Lethrinidae	Lethrinus	olivaceus	37351004	2	Yes
+FP_201_ASH112.avi	  23029	  12.8067			FP_201_ASH112	CWS	25.9										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	Yes
+FP_201_ASH112.avi	  64200	  35.7024			FP_201_ASH112	CWS	25.9										Lutjanidae	Aprion	virescens	37346027	2	No
+FP_201_ASH112.avi	  82894	  46.0983			FP_201_ASH112	CWS	25.9										Lutjanidae	Lutjanus	bohar	37346029	1	Yes
+FP_201_ASH105.avi	  59494	  33.0853			FP_201_ASH105	CWS, BV	32.6										Echeneidae	Echeneis	naucrates	37336001	1	Yes
+FP_201_ASH105.avi	  18732	  10.4171			FP_201_ASH105	CWS, BV	32.6										Lutjanidae	Lutjanus	vitta	37346003	9	No
+FP_201_ASH108.avi	  65181	  36.2479			FP_201_ASH108	CWS	27										Carangidae	Carangoides	gymnostethus	37337022	2	No
+FP_201_ASH108.avi	 103801	  57.7249			FP_201_ASH108	CWS	27										Carangidae	Carangoides	orthogrammus	37337057	2	No
+FP_201_ASH108.avi	  43867	  24.3950			FP_201_ASH108	CWS	27										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH108.avi	  35323	  19.6435			FP_201_ASH108	CWS	27										Lethrinidae	Gymnocranius	grandoculis	37351005	8	No
+FP_201_ASH108.avi	  83763	  46.5816			FP_201_ASH108	CWS	27										Lethrinidae	Lethrinus	microdon	37351011	3	Yes
+FP_201_ASH108.avi	  24959	  13.8800			FP_201_ASH108	CWS	27										Lethrinidae	Lethrinus	rubrioperculatus	37351012	3	Yes
+FP_201_ASH108.avi	  43273	  24.0646			FP_201_ASH108	CWS	27										Lutjanidae	Aprion	virescens	37346027	2	No
+FP_201_ASH108.avi	  28336	  15.7580			FP_201_ASH108	CWS	27										Scombridae	Scomberomorus	commerson	37441007	1	No
+FP_201_ASH064.avi	  37126	  20.6462			FP_201_ASH064	CWS	7.9										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH064.avi	  47718	  26.5365			FP_201_ASH064	CWS	7.9										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH064.avi	  86834	  48.2894			FP_201_ASH064	CWS	7.9										Carcharhinidae	Triaenodon	obesus	37018038	1	Yes
+FP_201_ASH064.avi	  44453	  24.7208			FP_201_ASH064	CWS	7.9										Cirrhitidae	Paracirrhites	forsteri	37374010	1	No
+FP_201_ASH064.avi	   2958	   1.6450			FP_201_ASH064	CWS	7.9										Labridae	Halichoeres	hortulanus	37384112	3	No
+FP_201_ASH064.avi	  47718	  26.5365			FP_201_ASH064	CWS	7.9										Lethrinidae	Lethrinus	microdon	37351011	1	No
+FP_201_ASH064.avi	  75507	  41.9903			FP_201_ASH064	CWS	7.9										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH064.avi	  15934	   8.8611			FP_201_ASH064	CWS	7.9										Lethrinidae	Lethrinus	ravus	37351031	2	No
+FP_201_ASH064.avi	  92307	  51.3330			FP_201_ASH064	CWS	7.9										Lutjanidae	Lutjanus	bohar	37346029	3	No
+FP_201_ASH064.avi	  83975	  46.6995			FP_201_ASH064	CWS	7.9										Lutjanidae	Lutjanus	decussatus	37346041	4	No
+FP_201_ASH064.avi	  80537	  44.7876			FP_201_ASH064	CWS	7.9										Lutjanidae	Lutjanus	gibbus	37346028	1	No
+FP_201_ASH064.avi	  18313	  10.1841			FP_201_ASH064	CWS	7.9										Lutjanidae	Lutjanus	rivulatus	37346016	1	No
+FP_201_ASH064.avi	  56684	  31.5226			FP_201_ASH064	CWS	7.9										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH064.avi	  16106	   8.9567			FP_201_ASH064	CWS	7.9										Serranidae	Cephalopholis	argus	37311082	2	No
+FP_201_ASH064.avi	   7803	   4.3393			FP_201_ASH064	CWS	7.9										Serranidae	Cephalopholis	urodeta	37311142	2	No
+FP_201_ASH064.avi	  69366	  38.5752			FP_201_ASH064	CWS	7.9										Serranidae	Epinephelus	fuscoguttatus	37311021	1	Yes
+FP_201_ASH064.avi	  91341	  50.7958			FP_201_ASH064	CWS	7.9										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH062.avi	   1466	   0.8153			FP_201_ASH062	CWS, BV	14.1										Carangidae	Carangoides	orthogrammus	37337057	12	No
+FP_201_ASH062.avi	  13167	   7.3223			FP_201_ASH062	CWS, BV	14.1										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	Yes
+FP_201_ASH062.avi	  64666	  35.9615			FP_201_ASH062	CWS, BV	14.1										Dasyatidae	Pastinachus	sephen	37035011	1	No
+FP_201_ASH062.avi	   3137	   1.7445			FP_201_ASH062	CWS, BV	14.1										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH062.avi	  19530	  10.8609			FP_201_ASH062	CWS, BV	14.1										Lethrinidae	Lethrinus	microdon	37351011	1	No
+FP_201_ASH062.avi	  28502	  15.8503			FP_201_ASH062	CWS, BV	14.1										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	No
+FP_201_ASH062.avi	  14030	   7.8022			FP_201_ASH062	CWS, BV	14.1										Lutjanidae	Lutjanus	bohar	37346029	4	Yes
+FP_201_ASH062.avi	  41330	  22.9841			FP_201_ASH062	CWS, BV	14.1										Rhinidae	Rhynchobatus			1	No
+FP_201_ASH062.avi	  20668	  11.4937			FP_201_ASH062	CWS, BV	14.1										Rhinidae	Rhynchobatus	australiae	37026001	1	No
+FP_201_ASH062.avi	  43201	  24.0246			FP_201_ASH062	CWS, BV	14.1										Rhynchobatidae	Rhynchobatus	laevis	37026003	1	No
+FP_201_ASH062.avi	  13546	   7.5331			FP_201_ASH062	CWS, BV	14.1										Serranidae	Epinephelus	polyphekadion	37311047	1	No
+FP_201_ASH051.avi	  59469	  33.0714			FP_201_ASH051	CWS, BV	5										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH051.avi	  89921	  50.0061			FP_201_ASH051	CWS, BV	5										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH051.avi	  16101	   8.9540			FP_201_ASH051	CWS, BV	5										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH051.avi	 108882	  60.5506			FP_201_ASH051	CWS, BV	5										Ginglymostomatidae	Nebrius	ferrugineus	37013010	1	Yes
+FP_201_ASH051.avi	  58562	  32.5670			FP_201_ASH051	CWS, BV	5										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH051.avi	  15879	   8.8305			FP_201_ASH051	CWS, BV	5										Lethrinidae	Lethrinus	rubrioperculatus	37351012	1	No
+FP_201_ASH061.avi	  31951	  17.7683			FP_201_ASH061	CWS	7										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH061.avi	  91092	  50.6573			FP_201_ASH061	CWS	7										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH061.avi	  32722	  18.1971			FP_201_ASH061	CWS	7										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH061.avi	  14734	   8.1937			FP_201_ASH061	CWS	7										Carangidae	Caranx	melampygus	37337050	4	Yes
+FP_201_ASH061.avi	 103323	  57.4591			FP_201_ASH061	CWS	7										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH061.avi	  69117	  38.4368			FP_201_ASH061	CWS	7										Cirrhitidae	Paracirrhites	forsteri	37374010	1	No
+FP_201_ASH061.avi	  96760	  53.8094			FP_201_ASH061	CWS	7										Dasyatidae	Neotrygon	kuhlii	37035004	1	No
+FP_201_ASH061.avi	  65616	  36.4898			FP_201_ASH061	CWS	7										Ginglymostomatidae	Nebrius	ferrugineus	37013010	2	Yes
+FP_201_ASH061.avi	  29464	  16.3853			FP_201_ASH061	CWS	7										Lethrinidae	Lethrinus	microdon	37351011	3	No
+FP_201_ASH061.avi	  45209	  25.1413			FP_201_ASH061	CWS	7										Muraenidae	Gymnothorax	javanicus	37060039	1	Yes
+FP_201_ASH061.avi	   6074	   3.3778			FP_201_ASH061	CWS	7										Serranidae	Aethaloperca	rogaa	37311134	1	No
+FP_201_ASH061.avi	   8287	   4.6085			FP_201_ASH061	CWS	7										Serranidae	Cephalopholis	argus	37311082	1	No
+FP_201_ASH061.avi	 112040	  62.3068			FP_201_ASH061	CWS	7										Serranidae	Cephalopholis	urodeta	37311142	2	No
+FP_201_ASH061.avi	 103594	  57.6098			FP_201_ASH061	CWS	7										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH061.avi	  30367	  16.8874			FP_201_ASH061	CWS	7										Sphyraenidae	Sphyraena	barracuda	37382008	1	No
+FP_201_ASH068.avi	  30657	  17.0487			FP_201_ASH068	CWS	27.1										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH068.avi	  62909	  34.9844			FP_201_ASH068	CWS	27.1										Carangidae	Carangoides	orthogrammus	37337057	2	No
+FP_201_ASH068.avi	  37154	  20.6618			FP_201_ASH068	CWS	27.1										Carangidae	Carangoides	plagiotaenia	37337070	1	No
+FP_201_ASH068.avi	  57533	  31.9948			FP_201_ASH068	CWS	27.1										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH068.avi	  74081	  41.1973			FP_201_ASH068	CWS	27.1										Dasyatidae	Dasyatis	kuhlii	37035004	1	No
+FP_201_ASH068.avi	  21390	  11.8952			FP_201_ASH068	CWS	27.1										Lethrinidae	Gymnocranius	grandoculis	37351005	1	Yes
+FP_201_ASH068.avi	  18763	  10.4343			FP_201_ASH068	CWS	27.1										Lethrinidae	Lethrinus	olivaceus	37351004	2	Yes
+FP_201_ASH068.avi	  41097	  22.8545			FP_201_ASH068	CWS	27.1										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH068.avi	  16006	   8.9011			FP_201_ASH068	CWS	27.1										Myliobatidae	Aetobatus	narinari	37039003	11	No
+FP_201_ASH068.avi	  88391	  49.1553			FP_201_ASH068	CWS	27.1										Rhynchobatidae	Rhynchobatus	laevis	37026003	1	No
+FP_201_ASH052.avi	  36473	  20.2831			FP_201_ASH052	CWS, BV	23										Carangidae	Carangoides	ferdau	37337068	1	No
+FP_201_ASH052.avi	 113439	  63.0848			FP_201_ASH052	CWS, BV	23										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH052.avi	  88047	  48.9640			FP_201_ASH052	CWS, BV	23										Dasyatidae	Himantura	granulata	37035019	1	No
+FP_201_ASH052.avi	 107879	  59.9928			FP_201_ASH052	CWS, BV	23										Dasyatidae	Pastinachus	sephen	37035011	1	No
+FP_201_ASH052.avi	  41287	  22.9602			FP_201_ASH052	CWS, BV	23										Lethrinidae	Gymnocranius	grandoculis	37351005	7	Yes
+FP_201_ASH052.avi	  91777	  51.0383			FP_201_ASH052	CWS, BV	23										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH052.avi	  67480	  37.5264			FP_201_ASH052	CWS, BV	23										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH053.avi	  61856	  34.3988			FP_201_ASH053	CWS, BV	8										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH053.avi	  59518	  33.0987			FP_201_ASH053	CWS, BV	8										Carangidae	Caranx	melampygus	37337050	2	Yes
+FP_201_ASH053.avi	  57784	  32.1344			FP_201_ASH053	CWS, BV	8										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH053.avi	   7549	   4.1981			FP_201_ASH053	CWS, BV	8										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH053.avi	   8595	   4.7798			FP_201_ASH053	CWS, BV	8										Lutjanidae	Lutjanus	bohar	37346029	2	No
+FP_201_ASH053.avi	   5878	   3.2688			FP_201_ASH053	CWS, BV	8										Lutjanidae	Lutjanus	decussatus	37346041	4	No
+FP_201_ASH053.avi	   6472	   3.5992			FP_201_ASH053	CWS, BV	8										Serranidae	Cephalopholis	argus	37311082	2	No
+FP_201_ASH053.avi	   9708	   5.3987			FP_201_ASH053	CWS, BV	8										Serranidae	Cephalopholis	urodeta	37311142	2	No
+FP_201_ASH053.avi	  86913	  48.3333			FP_201_ASH053	CWS, BV	8										Serranidae	Plectropomus	laevis	37311079	1	No
+FP_201_ASH054.avi	  35903	  19.9661			FP_201_ASH054	CWS	20										Carangidae	Carangoides	fulvoguttatus	37337037	2	No
+FP_201_ASH054.avi	  37351	  20.7713			FP_201_ASH054	CWS	20										Carangidae	Carangoides	orthogrammus	37337057	7	No
+FP_201_ASH054.avi	  50985	  28.3534			FP_201_ASH054	CWS	20										Carangidae	Caranx	ignobilis	37337027	1	No
+FP_201_ASH054.avi	  34313	  19.0819			FP_201_ASH054	CWS	20										Carangidae	Gnathanodon	speciosus	37337012	4	No
+FP_201_ASH054.avi	 103527	  57.5726			FP_201_ASH054	CWS	20										Carangidae	Scomberoides	lysan	37337046	1	No
+FP_201_ASH054.avi	  64756	  36.0116			FP_201_ASH054	CWS	20										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	Yes
+FP_201_ASH054.avi	  88168	  49.0313			FP_201_ASH054	CWS	20										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH054.avi	  36936	  20.5405			FP_201_ASH054	CWS	20										Dasyatidae	Dasyatis	kuhlii	37035004	1	No
+FP_201_ASH054.avi	 133824	  74.4211			FP_201_ASH054	CWS	20										Dasyatidae	Himantura	fai	37035024	1	No
+FP_201_ASH054.avi	  64809	  36.0410			FP_201_ASH054	CWS	20										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH054.avi	  72562	  40.3526			FP_201_ASH054	CWS	20										Lethrinidae	Gymnocranius	grandoculis	37351005	2	No
+FP_201_ASH054.avi	  92414	  51.3925			FP_201_ASH054	CWS	20										Lethrinidae	Lethrinus	olivaceus	37351004	1	No
+FP_201_ASH054.avi	  72461	  40.2964			FP_201_ASH054	CWS	20										Lethrinidae	Lethrinus	rubrioperculatus	37351012	1	No
+FP_201_ASH054.avi	  61719	  34.3227			FP_201_ASH054	CWS	20										Rhinidae	Rhynchobatus	australiae	37026001	1	No
+FP_201_ASH055.avi	  18083	  10.0562			FP_201_ASH055	CWS, BV	25 m										Carangidae	Carangoides	oblongus	37337069	1	No
+FP_201_ASH055.avi	  18238	  10.1424			FP_201_ASH055	CWS, BV	25 m										Carangidae	Carangoides	orthogrammus	37337057	3	No
+FP_201_ASH055.avi	  18211	  10.1273			FP_201_ASH055	CWS, BV	25 m										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH055.avi	  11613	   6.4581			FP_201_ASH055	CWS, BV	25 m										Lethrinidae	Lethrinus	atkinsoni	37351013	1	No
+FP_201_ASH055.avi	 111238	  61.8607			FP_201_ASH055	CWS, BV	25 m										Lethrinidae	Lethrinus	olivaceus	37351004	1	Yes
+FP_201_ASH055.avi	  23376	  12.9997			FP_201_ASH055	CWS, BV	25 m										Lethrinidae	Lethrinus	rubrioperculatus	37351012	6	Yes
+FP_201_ASH055.avi	  34045	  18.9328			FP_201_ASH055	CWS, BV	25 m										Lethrinidae	Lethrinus	semicinctus	37351016	24	Yes
+FP_201_ASH055.avi	  29627	  16.4759			FP_201_ASH055	CWS, BV	25 m										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH055.avi	  24124	  13.4156			FP_201_ASH055	CWS, BV	25 m										Serranidae	Epinephelus	maculatus	37311011	2	No
+FP_201_ASH060.avi	  61373	  34.1302			FP_201_ASH060	CWS, BV	24										Carangidae	Carangoides	gymnostethus	37337022	1	No
+FP_201_ASH060.avi	  23581	  13.1137			FP_201_ASH060	CWS, BV	24										Carangidae	Carangoides	oblongus	37337069	1	No
+FP_201_ASH060.avi	  10162	   5.6512			FP_201_ASH060	CWS, BV	24										Carangidae	Carangoides	orthogrammus	37337057	1	No
+FP_201_ASH060.avi	  21066	  11.7150			FP_201_ASH060	CWS, BV	24										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH060.avi	  44618	  24.8126			FP_201_ASH060	CWS, BV	24										Carcharhinidae	Carcharhinus	amblyrhynchos	37018030	1	No
+FP_201_ASH060.avi	  72768	  40.4671			FP_201_ASH060	CWS, BV	24										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH060.avi	  22796	  12.6771			FP_201_ASH060	CWS, BV	24										Echeneidae	Echeneis	naucrates	37336001	3	No
+FP_201_ASH060.avi	   6407	   3.5630			FP_201_ASH060	CWS, BV	24										Lethrinidae	Gymnocranius	grandoculis	37351005	1	No
+FP_201_ASH060.avi	  10449	   5.8108			FP_201_ASH060	CWS, BV	24										Lethrinidae	Lethrinus	microdon	37351011	3	No
+FP_201_ASH060.avi	  51260	  28.5063			FP_201_ASH060	CWS, BV	24										Lethrinidae	Lethrinus	olivaceus	37351004	8	Yes
+FP_201_ASH060.avi	   8362	   4.6502			FP_201_ASH060	CWS, BV	24										Lethrinidae	Lethrinus	ravus	37351031	2	Yes
+FP_201_ASH060.avi	  13789	   7.6682			FP_201_ASH060	CWS, BV	24										Lethrinidae	Lethrinus	rubrioperculatus	37351012	1	Yes
+FP_201_ASH060.avi	  33981	  18.8972			FP_201_ASH060	CWS, BV	24										Lethrinidae	Monotaxis	grandoculis	37351026	1	No
+FP_201_ASH060.avi	   9955	   5.5361			FP_201_ASH060	CWS, BV	24										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH060.avi	  17090	   9.5039			FP_201_ASH060	CWS, BV	24										Lutjanidae	Lutjanus	kasmira	37346044	1	No
+FP_201_ASH060.avi	  60810	  33.8172			FP_201_ASH060	CWS, BV	24										Lutjanidae	Lutjanus	vitta	37346003	4	No
+FP_201_ASH057.avi	  66375	  36.9119			FP_201_ASH057	CWS, BV	20										Carangidae	Carangoides	orthogrammus	37337057	2	No
+FP_201_ASH057.avi	  49529	  27.5437			FP_201_ASH057	CWS, BV	20										Carangidae	Caranx	melampygus	37337050	1	No
+FP_201_ASH057.avi	  72554	  40.3481			FP_201_ASH057	CWS, BV	20										Carcharhinidae	Triaenodon	obesus	37018038	1	No
+FP_201_ASH057.avi	  44008	  24.4734			FP_201_ASH057	CWS, BV	20										Echeneidae	Echeneis	naucrates	37336001	1	No
+FP_201_ASH057.avi	  44468	  24.7292			FP_201_ASH057	CWS, BV	20										Lethrinidae	Lethrinus	atkinsoni	37351013	1	No
+FP_201_ASH057.avi	  17313	   9.6280			FP_201_ASH057	CWS, BV	20										Lethrinidae	Lethrinus	obsoletus	37351019	3	Yes
+FP_201_ASH057.avi	  13899	   7.7294			FP_201_ASH057	CWS, BV	20										Lethrinidae	Lethrinus	ornatus	37351015	1	No
+FP_201_ASH057.avi	  35223	  19.5879			FP_201_ASH057	CWS, BV	20										Lethrinidae	Lethrinus	rubrioperculatus	37351012	2	Yes
+FP_201_ASH057.avi	  17313	   9.6280			FP_201_ASH057	CWS, BV	20										Lethrinidae	Lethrinus	semicinctus	37351016	1	No
+FP_201_ASH057.avi	  14300	   7.9524			FP_201_ASH057	CWS, BV	20										Lutjanidae	Aprion	virescens	37346027	1	No
+FP_201_ASH057.avi	  55289	  30.7469			FP_201_ASH057	CWS, BV	20										Lutjanidae	Lutjanus	bohar	37346029	1	No
+FP_201_ASH057.avi	  75255	  41.8502			FP_201_ASH057	CWS, BV	20										Lutjanidae	Lutjanus	decussatus	37346041	3	No
+FP_201_ASH057.avi	  44554	  24.7770			FP_201_ASH057	CWS, BV	20										Lutjanidae	Lutjanus	gibbus	37346028	3	No
+FP_201_ASH057.avi	  17623	   9.8004			FP_201_ASH057	CWS, BV	20										Lutjanidae	Lutjanus	quinquelineatus	37346006	5	No
+FP_201_ASH057.avi	  43375	  24.1213			FP_201_ASH057	CWS, BV	20										Rhinidae	Rhynchobatus	sp		1	No
+FP_201_ASH057.avi	  20398	  11.3436			FP_201_ASH057	CWS, BV	20										Serranidae	Cephalopholis	argus	37311082	6	No
+FP_201_ASH057.avi	   6228	   3.4635			FP_201_ASH057	CWS, BV	20										Serranidae	Cephalopholis	urodeta	37311142	1	No
+FP_201_ASH057.avi	  21835	  12.1427			FP_201_ASH057	CWS, BV	20										Serranidae	Epinephelus	merra	37311063	1	No
+FP_201_ASH057.avi	   6051	   3.3650			FP_201_ASH057	CWS, BV	20										Serranidae	Plectropomus	maculatus	37311012	1	No
+FP_201_ASH057.avi	  16897	   9.3966			FP_201_ASH057	CWS, BV	20										Serranidae	Variola	albimarginata	37311026	1	No
+FP_201_ASH059.avi	  46944	  26.1061			FP_201_ASH059	CWS, BV	30										Dasyatidae	Pastinachus	sephen	37035011	1	No
+FP_201_ASH059.avi	  10560	   5.8725			FP_201_ASH059	CWS, BV	30										Lethrinidae	Gymnocranius	grandoculis	37351005	2	No
+FP_201_ASH059.avi	   7467	   4.1525			FP_201_ASH059	CWS, BV	30										Lethrinidae	Lethrinus	rubrioperculatus	37351012	4	Yes
+FP_201_ASH059.avi	   9223	   5.1290			FP_201_ASH059	CWS, BV	30										Lutjanidae	Lutjanus	vitta	37346003	1	No

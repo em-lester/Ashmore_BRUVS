@@ -1,0 +1,222 @@
+﻿OpCode,Frame,Time first seen (mins),TapeReader,Depth,Family,Genus,Species,Code,Stage
+FP_201_ASH002,12364,6.8689,CWS,,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH002,10967,6.0928,CWS,,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH002,16279,9.0439,CWS,,Carangidae,Carangoides,plagiotaenia,37337070,AD
+FP_201_ASH002,10967,6.0928,CWS,,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH002,63529,35.2939,CWS,,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH002,74286,41.27,CWS,,Lethrinidae,Lethrinus,amboinensis,37351024,AD
+FP_201_ASH002,12408,6.8933,CWS,,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH002,12533,6.9628,CWS,,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH002,49189,27.3272,CWS,,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH003,25990,14.4389,CWS,20,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH003,55779,30.9883,CWS,20,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH003,43151,23.9728,CWS,20,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH003,28264,15.7022,CWS,20,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH003,41949,23.305,CWS,20,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH003,12128,6.7378,CWS,20,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH003,9603,5.335,CWS,20,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH003,42527,23.6261,CWS,20,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH006,32849,18.2677,CWS,38,Carangidae,Carangoides,caeruleopinnatus,37337021,AD
+FP_201_ASH006,77944,43.3456,CWS,38,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH006,18086,10.0578,CWS,38,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH006,51956,28.8933,CWS,38,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH006,99364,55.2575,CWS,38,Congridae,Gorgasia,,,AD
+FP_201_ASH006,107438,59.7475,CWS,38,Dasyatidae,Dasyatis,kuhlii,37035004,AD
+FP_201_ASH006,104161,57.9251,CWS,38,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH006,19365,10.7691,CWS,38,Lethrinidae,Gymnocranius,sp,,AD
+FP_201_ASH006,23902,13.2922,CWS,38,Lethrinidae,Lethrinus,amboinensis,37351024,AD
+FP_201_ASH006,19102,10.6228,CWS,38,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH006,55236,30.7174,CWS,38,Lethrinidae,Lethrinus,ravus,37351031,AD
+FP_201_ASH006,55236,30.7174,CWS,38,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH006,30119,16.7495,CWS,38,Nemipteridae,Pentapodus,emeryii,37347027,AD
+FP_201_ASH006,101208,56.2829,CWS,38,Rachycentridae,Rachycentron,canadum,37335001,AD
+FP_201_ASH006,101528,56.4609,CWS,38,Rhinidae,Rhynchobatus,,,AD
+FP_201_ASH006,59117,32.8757,CWS,38,Scombridae,Gymnosarda,unicolor,37441029,AD
+FP_201_ASH012,63943,35.5239,CWS,26.6,Carangidae,Carangoides,plagiotaenia,37337070,AD
+FP_201_ASH012,9710,5.3944,CWS,26.6,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH012,27889,15.4939,CWS,26.6,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH012,105191,58.4394,CWS,26.6,Carcharhinidae,Triaenodon,obesus,37018038,AD
+FP_201_ASH012,6686,3.7144,CWS,26.6,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH012,49397,27.4428,CWS,26.6,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH012,7247,4.0261,CWS,26.6,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH012,32345,17.9694,CWS,26.6,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH014,74081,41.1561,"CWS,BV",22.8,Carangidae,Carangoides,caeruleopinnatus,37337021,AD
+FP_201_ASH014,68257,37.9205,"CWS,BV",22.8,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH014,51945,28.8583,"CWS,BV",22.8,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH014,74081,41.1561,"CWS,BV",22.8,Rhynchobatidae,Rhynchobatus,laevis,37026003,AD
+FP_201_ASH017,2008,1.1167,"CWS,BV",15.1,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH017,26649,14.8198,"CWS,BV",15.1,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH017,26649,14.8198,"CWS,BV",15.1,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH017,35467,19.7236,"CWS,BV",15.1,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH017,2008,1.1167,"CWS,BV",15.1,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH017,17623,9.8004,"CWS,BV",15.1,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH017,6326,3.518,"CWS,BV",15.1,Lutjanidae,Lutjanus,bohar,37346029,J
+FP_201_ASH017,17134,9.5284,"CWS,BV",15.1,Serranidae,Variola,albimarginata,37311026,AD
+FP_201_ASH025,74051,41.1806,"CWS, BV",5.3,Carangidae,Carangoides,plagiotaenia,37337070,AD
+FP_201_ASH025,57005,31.7011,"CWS, BV",5.3,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH025,86429,48.0642,"CWS, BV",5.3,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH025,37782,21.011,"CWS, BV",5.3,Lutjanidae,Lutjanus,bohar,37346029,AD
+FP_201_ASH025,65547,36.4515,"CWS, BV",5.3,Lutjanidae,Lutjanus,rivulatus,37346016,AD
+FP_201_ASH025,83021,46.1689,"CWS, BV",5.3,Rhynchobatidae,Rhynchobatus,laevis,37026003,AD
+FP_201_ASH025,59462,33.0675,"CWS, BV",5.3,Serranidae,Plectropomus,laevis,37311079,AD
+FP_201_ASH025,21271,11.8291,"CWS, BV",5.3,Serranidae,Variola,albimarginata,37311026,AD
+FP_201_ASH028,57009,31.7034,"CWS, BV",37,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH028,21660,12.0454,"CWS, BV",37,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH028,67944,37.7845,"CWS, BV",37,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH028,79037,43.9534,"CWS, BV",37,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH028,71410,39.7119,"CWS, BV",37,Lethrinidae,Lethrinus,amboinensis,37351024,AD
+FP_201_ASH028,111496,62.0042,"CWS, BV",37,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH028,97041,53.9656,"CWS, BV",37,Scombridae,Scomberomorus,queenslandicus,37441014,AD
+FP_201_ASH033,83803,46.6038,CWS,25,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH033,30636,17.037,CWS,25,Carangidae,Caranx,ignobilis,37337027,AD
+FP_201_ASH033,28647,15.9309,CWS,25,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH033,11198,6.2273,CWS,25,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH033,32739,18.2065,CWS,25,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH033,22614,12.5759,CWS,25,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH033,18491,10.2831,CWS,25,Lethrinidae,Lethrinus,amboinensis,37351024,AD
+FP_201_ASH033,28564,15.8848,CWS,25,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH033,6003,3.3383,CWS,25,Lethrinidae,Lethrinus,ravus,37351031,AD
+FP_201_ASH033,11114,6.1806,CWS,25,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH033,21627,12.027,CWS,25,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH033,44018,24.4789,CWS,25,Scombridae,Scomberomorus,commerson,37441007,AD
+FP_201_ASH035,4531,2.5197,"CWS, BV",4,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH035,13645,7.5881,"CWS, BV",4,Carangidae,Caranx,ignobilis,37337027,AD
+FP_201_ASH035,8606,4.7859,"CWS, BV",4,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH035,14985,8.3333,"CWS, BV",4,Carangidae,Scomberoides,lysan,37337046,AD
+FP_201_ASH035,47038,26.1584,"CWS, BV",4,Cheloniidae,,sp,,AD
+FP_201_ASH035,60538,33.6659,"CWS, BV",4,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH035,8702,4.8393,"CWS, BV",4,Lutjanidae,Lutjanus,bohar,37346029,J
+FP_201_ASH035,4128,2.2956,"CWS, BV",4,Lutjanidae,Lutjanus,decussatus,37346041,AD
+FP_201_ASH035,49024,27.2628,"CWS, BV",4,Serranidae,Cephalopholis,sp,,AD
+FP_201_ASH035,12640,7.0293,"CWS, BV",4,Serranidae,Variola,albimarginata,37311026,AD
+FP_201_ASH036,99977,55.5984,CWS,7,,,,,AD
+FP_201_ASH036,17709,9.8482,CWS,7,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH036,8955,4.98,CWS,7,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH036,17921,9.9661,CWS,7,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH036,60905,33.87,CWS,7,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,F
+FP_201_ASH036,13327,7.4113,CWS,7,Carcharhinidae,Triaenodon,obesus,37018038,AD
+FP_201_ASH036,99977,55.5984,CWS,7,Cheloniidae,Eretmochelys,imbricata,39020003,AD
+FP_201_ASH036,22028,12.25,CWS,7,Lethrinidae,Lethrinus,atkinsoni,37351013,AD
+FP_201_ASH036,9012,5.0117,CWS,7,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH036,59058,32.8428,CWS,7,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH036,9038,5.0261,CWS,7,Lutjanidae,Lutjanus,bohar,37346029,AD
+FP_201_ASH036,24621,13.692,CWS,7,Lutjanidae,Lutjanus,decussatus,37346041,AD
+FP_201_ASH036,47673,26.5115,CWS,7,Lutjanidae,Lutjanus,rivulatus,37346016,AD
+FP_201_ASH036,5840,3.2477,CWS,7,Lutjanidae,Macolor,sp,,AD
+FP_201_ASH036,44760,24.8916,CWS,7,Lutjanidae,Macolor,sp,,J
+FP_201_ASH036,68241,37.9496,CWS,7,Serranidae,Aethaloperca,rogaa,37311134,AD
+FP_201_ASH036,10215,5.6807,CWS,7,Serranidae,Cephalopholis,argus,37311082,AD
+FP_201_ASH036,13099,7.2845,CWS,7,Serranidae,Cephalopholis,urodeta,37311142,AD
+FP_201_ASH036,23840,13.2577,CWS,7,Serranidae,Epinephelus,fasciatus,37311014,AD
+FP_201_ASH036,13167,7.3223,CWS,7,Serranidae,Variola,louti,37311166,AD
+FP_201_ASH036,16821,9.3544,CWS,7,Stegostomatidae,Stegostoma,fasciatum,37013006,AD
+FP_201_ASH040,10237,5.6929,CWS,39.7,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH040,10009,5.5661,CWS,39.7,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH040,8247,4.5863,CWS,39.7,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH040,13074,7.2706,CWS,39.7,Lethrinidae,Lethrinus,amboinensis,37351024,AD
+FP_201_ASH040,5828,3.241,CWS,39.7,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH040,37865,21.0572,CWS,39.7,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH047,80587,44.8154,"CWS, BV",6.1,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH047,81197,45.1546,"CWS, BV",6.1,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH047,9274,5.1574,"CWS, BV",6.1,Carangidae,Scomberoides,lysan,37337046,AD
+FP_201_ASH047,92398,51.3836,"CWS, BV",6.1,Dasyatidae,Dasyatis,sp,,AD
+FP_201_ASH047,53920,29.9855,"CWS, BV",6.1,Dasyatidae,Pastinachus,sephen,37035011,AD
+FP_201_ASH047,67288,37.4196,"CWS, BV",6.1,Sphyraenidae,Sphyraena,barracuda,37382008,AD
+FP_201_ASH051,59469,33.0714,"CWS, BV",5,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH051,89921,50.0061,"CWS, BV",5,Carangidae,Caranx,ignobilis,37337027,AD
+FP_201_ASH051,16101,8.954,"CWS, BV",5,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH051,108882,60.5506,"CWS, BV",5,Ginglymostomatidae,Nebrius,ferrugineus,37013010,AD
+FP_201_ASH051,117699,65.4538,"CWS, BV",5,Ginglymostomatidae,Nebrius,ferrugineus,37013010,M
+FP_201_ASH051,58562,32.567,"CWS, BV",5,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH051,15879,8.8305,"CWS, BV",5,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH052,36473,20.2831,"CWS, BV",23,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH052,113439,63.0848,"CWS, BV",23,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH052,88047,48.964,"CWS, BV",23,Dasyatidae,Himantura,granulata,37035019,AD
+FP_201_ASH052,107879,59.9928,"CWS, BV",23,Dasyatidae,Pastinachus,sephen,37035011,AD
+FP_201_ASH052,13247,7.3668,"CWS, BV",23,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH052,91777,51.0383,"CWS, BV",23,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH052,67480,37.5264,"CWS, BV",23,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH055,18083,10.0562,"CWS, BV",25 m,Carangidae,Carangoides,oblongus,37337069,AD
+FP_201_ASH055,18238,10.1424,"CWS, BV",25 m,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH055,18211,10.1273,"CWS, BV",25 m,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH055,11613,6.4581,"CWS, BV",25 m,Lethrinidae,Lethrinus,atkinsoni,37351013,AD
+FP_201_ASH055,49084,27.2962,"CWS, BV",25 m,Lethrinidae,Lethrinus,atkinsoni,37351013,J
+FP_201_ASH055,111238,61.8607,"CWS, BV",25 m,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH055,33716,18.7499,"CWS, BV",25 m,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH055,9319,5.1824,"CWS, BV",25 m,Lethrinidae,Lethrinus,rubrioperculatus,37351012,J
+FP_201_ASH055,13349,7.4235,"CWS, BV",25 m,Lethrinidae,Lethrinus,semicinctus,37351016,J
+FP_201_ASH055,29627,16.4759,"CWS, BV",25 m,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH055,16420,9.1314,"CWS, BV",25 m,Serranidae,Epinephelus,maculatus,37311011,AD
+FP_201_ASH056,61612,34.2632,CWS,18,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH056,12889,7.1677,CWS,18,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH056,61855,34.3983,CWS,18,Carangidae,Gnathanodon,speciosus,37337012,AD
+FP_201_ASH056,64487,35.862,CWS,18,Carcharhinidae,Triaenodon,obesus,37018038,AD
+FP_201_ASH056,5788,3.2188,CWS,18,Cheloniidae,,sp,,AD
+FP_201_ASH056,84358,46.9125,CWS,18,Dasyatidae,Himantura,fai,37035024,AD
+FP_201_ASH056,27476,15.2797,CWS,18,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH056,11742,6.5299,CWS,18,Lethrinidae,Monotaxis,grandoculis,37351026,AD
+FP_201_ASH056,27476,15.2797,CWS,18,Lutjanidae,Lutjanus,bohar,37346029,AD
+FP_201_ASH056,22935,12.7544,CWS,18,Lutjanidae,Lutjanus,bohar,37346029,J
+FP_201_ASH056,5446,3.0286,CWS,18,Lutjanidae,Lutjanus,decussatus,37346041,AD
+FP_201_ASH056,3750,2.0854,CWS,18,Lutjanidae,Lutjanus,quinquelineatus,37346006,AD
+FP_201_ASH056,111410,61.9564,CWS,18,Muraenidae,Gymnothorax,sp,,AD
+FP_201_ASH056,28511,15.8553,CWS,18,Serranidae,Cephalopholis,urodeta,37311142,AD
+FP_201_ASH056,82477,45.8664,CWS,18,Serranidae,Plectropomus,laevis,37311079,AD
+FP_201_ASH056,17126,9.524,CWS,18,Serranidae,Plectropomus,maculatus,37311012,AD
+FP_201_ASH059,46944,26.1061,"CWS, BV",30,Dasyatidae,Pastinachus,sephen,37035011,M
+FP_201_ASH059,10560,5.8725,"CWS, BV",30,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH059,7467,4.1525,"CWS, BV",30,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH059,9223,5.129,"CWS, BV",30,Lutjanidae,Lutjanus,vitta,37346003,J
+FP_201_ASH064,37126,20.6462,CWS,7.9,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH064,47718,26.5365,CWS,7.9,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH064,86834,48.2894,CWS,7.9,Carcharhinidae,Triaenodon,obesus,37018038,AD
+FP_201_ASH064,44453,24.7208,CWS,7.9,Cirrhitidae,Paracirrhites,forsteri,37374010,AD
+FP_201_ASH064,2543,1.4142,CWS,7.9,Labridae,Halichoeres,hortulanus,37384112,AD
+FP_201_ASH064,47718,26.5365,CWS,7.9,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH064,75507,41.9903,CWS,7.9,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH064,15125,8.4112,CWS,7.9,Lethrinidae,Lethrinus,ravus,37351031,AD
+FP_201_ASH064,3134,1.7429,CWS,7.9,Lutjanidae,Lutjanus,bohar,37346029,J
+FP_201_ASH064,2543,1.4142,CWS,7.9,Lutjanidae,Lutjanus,decussatus,37346041,AD
+FP_201_ASH064,80537,44.7876,CWS,7.9,Lutjanidae,Lutjanus,gibbus,37346028,AD
+FP_201_ASH064,18313,10.1841,CWS,7.9,Lutjanidae,Lutjanus,rivulatus,37346016,AD
+FP_201_ASH064,56684,31.5226,CWS,7.9,Serranidae,Aethaloperca,rogaa,37311134,AD
+FP_201_ASH064,3743,2.0815,CWS,7.9,Serranidae,Cephalopholis,argus,37311082,AD
+FP_201_ASH064,3517,1.9558,CWS,7.9,Serranidae,Cephalopholis,urodeta,37311142,AD
+FP_201_ASH064,69366,38.5752,CWS,7.9,Serranidae,Epinephelus,fuscoguttatus,37311021,AD
+FP_201_ASH064,91341,50.7958,CWS,7.9,Serranidae,Variola,albimarginata,37311026,AD
+FP_201_ASH068,30657,17.0487,CWS,27.1,Carangidae,Carangoides,ferdau,37337068,AD
+FP_201_ASH068,25770,14.331,CWS,27.1,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH068,37154,20.6618,CWS,27.1,Carangidae,Carangoides,plagiotaenia,37337070,AD
+FP_201_ASH068,57533,31.9948,CWS,27.1,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH068,74081,41.1973,CWS,27.1,Dasyatidae,Dasyatis,kuhlii,37035004,AD
+FP_201_ASH068,21390,11.8952,CWS,27.1,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH068,18763,10.4343,CWS,27.1,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH068,41097,22.8545,CWS,27.1,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH068,16006,8.9011,CWS,27.1,Myliobatidae,Aetobatus,narinari,37039003,AD
+FP_201_ASH068,88391,49.1553,CWS,27.1,Rhynchobatidae,Rhynchobatus,laevis,37026003,AD
+FP_201_ASH088,85505,47.5503,CWS,32,Carangidae,Caranx,ignobilis,37337027,AD
+FP_201_ASH088,88300,49.1047,CWS,32,Carangidae,Gnathanodon,speciosus,37337012,AD
+FP_201_ASH088,73467,40.8559,CWS,32,Carcharhinidae,Galeocerdo,cuvier,37018022,AD
+FP_201_ASH088,38077,21.1751,CWS,32,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH088,53039,29.4956,CWS,32,Rachycentridae,Rachycentron,canadum,37335001,AD
+FP_201_ASH088,52931,29.4355,CWS,32,Rhinidae,Rhynchobatus,,,AD
+FP_201_ASH088,91374,50.8141,CWS,32,Rhinidae,Rhynchobatus,,,F
+FP_201_ASH088,83534,46.4542,CWS,32,Stegostomatidae,Stegostoma,fasciatum,37013006,AD
+FP_201_ASH105,59494,33.0853,"CWS, BV",32.6,Echeneidae,Echeneis,naucrates,37336001,AD
+FP_201_ASH105,12212,6.7912,"CWS, BV",32.6,Lutjanidae,Lutjanus,vitta,37346003,J
+FP_201_ASH108,65181,36.2479,CWS,27,Carangidae,Carangoides,gymnostethus,37337022,AD
+FP_201_ASH108,38997,21.6867,CWS,27,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH108,43867,24.395,CWS,27,Carangidae,Caranx,melampygus,37337050,AD
+FP_201_ASH108,25495,14.1781,CWS,27,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH108,23642,13.1476,CWS,27,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH108,20687,11.5043,CWS,27,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH108,39003,21.69,CWS,27,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH108,28336,15.758,CWS,27,Scombridae,Scomberomorus,commerson,37441007,AD
+FP_201_ASH112,106339,59.1364,CWS,25.9,Carangidae,Carangoides,orthogrammus,37337057,AD
+FP_201_ASH112,99335,55.2414,CWS,25.9,Carcharhinidae,Carcharhinus,amblyrhynchos,37018030,AD
+FP_201_ASH112,10274,5.7135,CWS,25.9,Lethrinidae,Gymnocranius,grandoculis,37351005,AD
+FP_201_ASH112,19348,10.7596,CWS,25.9,Lethrinidae,Lethrinus,microdon,37351011,AD
+FP_201_ASH112,41122,22.8684,CWS,25.9,Lethrinidae,Lethrinus,olivaceus,37351004,AD
+FP_201_ASH112,19864,11.0466,CWS,25.9,Lethrinidae,Lethrinus,rubrioperculatus,37351012,AD
+FP_201_ASH112,19864,11.0466,CWS,25.9,Lutjanidae,Aprion,virescens,37346027,AD
+FP_201_ASH112,82894,46.0983,CWS,25.9,Lutjanidae,Lutjanus,bohar,37346029,AD
