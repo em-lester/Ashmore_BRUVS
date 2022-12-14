@@ -73,9 +73,30 @@ timefed_2016 <- read.csv(paste(study,"2016_timefed.csv",sep="_"))%>%
   dplyr::rename(TimeFirstFed= Time.first.fed..mins.)%>%
   dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
   dplyr:: mutate(Year=2016) %>%
+  mutate_all(na_if,"")%>%
   dplyr::select(OP_CODE,NAME.ANALYSIS.ZOE, Year, TimeFirstFed, Family, Genus, Species, Scientific) %>%
 glimpse()
 
 ## Import 2016 time first seen data
 
 
+timefirstseen_2016 <- read.csv(paste(study,"2016_timeseen.csv",sep="_"))%>%
+  dplyr::rename(OP_CODE= OpCode)%>%
+  dplyr::rename(TimeFirstSeen= Time.first.seen..mins.)%>%
+  dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
+  dplyr:: mutate(Year=2016) %>%
+  mutate_all(na_if,"")%>%
+  dplyr::select(OP_CODE, TimeFirstSeen, Family, Genus, Species, Scientific, Depth) %>%
+  glimpse()
+
+
+#Combine these dataframes by OP_CODE and Scientific
+
+
+dat_2016 <- full_join(timefed_2016, timefirstseen_2016, by=c("OP_CODE","Scientific", "Family", "Genus", "Species"))%>%
+  glimpse()
+
+## To do: 
+# Add calculate Has fed, delay to feed
+# Add in metadata from Zoe
+# Add in size classes from Fishbase
