@@ -65,6 +65,17 @@ dat_2004 <- left_join(metadata, data, by="OP_CODE")%>%
   glimpse()
 
 
-## Import 2016 metadata
+## Import 2016 time first seen data
+setwd(dr.dir)
+
+timefed_2016 <- read.csv(paste(study,"2016_timefed.csv",sep="_"))%>%
+  dplyr::rename(OP_CODE= OP_CODE.AIMS)%>%
+  dplyr::rename(TimeFirstFed= Time.first.fed..mins.)%>%
+  dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
+  dplyr:: mutate(Year=2016) %>%
+  dplyr::select(OP_CODE,NAME.ANALYSIS.ZOE, Year, TimeFirstFed, Family, Genus, Species, Scientific) %>%
+glimpse()
+
+## Import 2016 time first seen data
 
 
