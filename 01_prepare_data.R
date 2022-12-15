@@ -64,6 +64,23 @@ data <-read_csv(paste(study,"2004_Points.csv",sep="_"))%>%
 dat_2004 <- left_join(metadata, data, by="OP_CODE")%>%
   glimpse()
 
+#Calculate has fed
+
+dat_2004_fed <- dat_2004 %>%
+  dplyr::rename(TimeFirstFed = TIMEFIRSTFEED)%>%
+  mutate(HasFed = ifelse(TimeFirstFed > 0, "1", "0"))%>%
+  dplyr::mutate(HasFed=as.numeric(HasFed))%>%
+  dplyr::mutate(HasFed = replace_na(HasFed, 0)) %>%
+  glimpse()
+
+#Calculate delay to feed
+
+dat_2004_delay <- dat_2004_fed %>%
+  dplyr::rename(TimeFirstSeen = TIMEFIRSTSEEN)%>%
+  dplyr::mutate(TimeFirstFed=as.numeric(TimeFirstFed))%>%
+  dplyr::mutate(TimeFirstFed=as.numeric(TimeFirstFed))%>%
+  mutate(DelayToFeed = TimeFirstFed-TimeFirstSeen)%>%
+  glimpse()
 
 ## Import 2016 time first seen data
 setwd(dr.dir)
@@ -123,7 +140,10 @@ dat_2016_fed <- dat_2016 %>%
 # read in data from Zoe with metadata, MaxN and size class info
 
 metadat <- read.csv("Ashmorebehaviour_zoe_analysis.csv")%>%
-  dplyr::mutate(year=as.numeric(maxn))%>%
+  dplyr::select(Date, Video, Year, Depth, Coral, Habitat, Complexity, 
+                Treatment, Family, Genus_species, Genus, Species., Size_class., 
+                MaxN_species_.standardised_hour.)%>%
+  dplyr::mutate(Year=as.numeric(Year))%>%
   glimpse()
 
 ## To do: 
