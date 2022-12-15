@@ -96,6 +96,36 @@ timefirstseen_2016 <- read.csv(paste(study,"2016_timeseen.csv",sep="_"))%>%
 dat_2016 <- full_join(timefed_2016, timefirstseen_2016, by=c("OP_CODE","Scientific", "Family", "Genus", "Species"))%>%
   glimpse()
 
+#Calculate has fed
+
+dat_2016_fed <- dat_2016 %>%
+  mutate(HasFed = ifelse(TimeFirstFed > 0, "1", "0"))%>%
+  dplyr::mutate(HasFed=as.numeric(HasFed))%>%
+  dplyr::mutate(HasFed = replace_na(HasFed, 0)) %>%
+  glimpse()
+
+#Calculate delay to feed
+
+dat_2016_delay <- dat_2016_fed %>%
+  dplyr::mutate(TimeFirstFed=as.numeric(TimeFirstFed))%>%
+  dplyr::mutate(TimeFirstFed=as.numeric(TimeFirstFed))%>%
+  mutate(DelayToFeed = TimeFirstFed-TimeFirstSeen)%>%
+  glimpse()
+
+
+dat_2016_fed <- dat_2016 %>%
+  mutate(HasFed = ifelse(TimeFirstFed > 0, "1", "0"))%>%
+  dplyr::mutate(HasFed=as.numeric(HasFed))%>%
+  dplyr::mutate(HasFed = replace_na(HasFed, 0)) %>%
+  glimpse()
+
+
+# read in data from Zoe with metadata, MaxN and size class info
+
+metadat <- read.csv("Ashmorebehaviour_zoe_analysis.csv")%>%
+  dplyr::mutate(year=as.numeric(maxn))%>%
+  glimpse()
+
 ## To do: 
 # Add calculate Has fed, delay to feed
 # Add in metadata from Zoe
