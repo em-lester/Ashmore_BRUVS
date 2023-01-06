@@ -169,10 +169,71 @@ metadata_2004_2016 <- left_join(opcodes,metadat, by="NAME.ANALYSIS.ZOE")%>%
 
 
 ## Now add metadata_2004_2016 to dat by OP_CODE and Scientific
+## Filter for families of interest
 
-final_dat <- left_join(dat, metadata_2004_2016, by=c("OP_CODE", "Year"))%>%
+meta_behaviour_dat <- left_join(dat, metadata_2004_2016, by=c("OP_CODE", "Year"))%>%
   glimpse()
 
+# make new df with families zoe analysed
+
+species_analysed <- read.csv("Ashmorebehaviour_zoe_analysis.csv")%>%
+  dplyr::select(Family, Genus_species, Genus, Species.)%>%
+  dplyr::rename(Species=Species.)%>%
+  dplyr::mutate(Scientific=paste(Family,Genus,Species, sep=" "))%>%
+  dplyr::filter(! Family == c("No fish"))%>%
+  unique()%>%
+  glimpse()
+
+summary(as.factor(species_analysed$Scientific))
+
 # To do: 
-#Add in size classes
-#figure out why last join has so many NAs... it will be something silly
+# Add in size classes
+# Use fish base max length and size categories from Speed et al. (2020) 
+# Protection from illegal fishing and shark recovery restructures mesopredatory fish communities on a coral reef
+
+#install.packages("rfishbase")
+library("rfishbase")
+
+# Make a species list with families from meta_behaviour_dat df
+
+head(meta_behaviour_dat)
+
+fish_fams <- meta_behaviour_dat %>%
+  dplyr::select(Family)%>%
+  unique()%>%
+  glimpse()
+
+
+fish <- species_list(Family = fish_fams$Family)
+fish
+
+lengthdat <- species(fish, fields=c("Species", "Length"))%>%
+ # mutate_at(cols, round, 0)%>%
+  glimpse()
+
+lengthdat$Length <- round(lengthdat$Length, 0)
+summary(lengthdat$Length)
+
+# Use ifelse to assign size classes: “small” (≤50 cm TL), “medium” (50–100 cm TL), and “large” (>100 cm TL)
+
+size_classes <- lengthdat %>%
+  mutate(Size_class = ifelse(Length %in% 0:49, "Small",
+                                    ifelse(Length %in% 50:99, "Medium",
+                                           ifelse(Length %in% 100:5000, "Large", "Huge")))) %>%
+  dplyr::rename(Gensp=Species)%>%
+  glimpse()
+
+## Add these size classes to the data
+
+head(size_classes)
+
+# need to make new genus species list to match fishbase data
+
+meta_behaviour_data <- meta_behaviour_dat %>%
+  dplyr::mutate(Gensp=paste(Genus,Species, sep=" "))%>%
+  glimpse()
+  
+head(meta_behaviour_data)
+
+meta_behaviour_size_dat <- left_join(meta_behaviour_data, size_classes, by=c("Gensp"))%>%
+  glimpse()
