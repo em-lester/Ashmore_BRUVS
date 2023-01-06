@@ -208,7 +208,6 @@ fish <- species_list(Family = fish_fams$Family)
 fish
 
 lengthdat <- species(fish, fields=c("Species", "Length"))%>%
- # mutate_at(cols, round, 0)%>%
   glimpse()
 
 lengthdat$Length <- round(lengthdat$Length, 0)
@@ -236,4 +235,28 @@ meta_behaviour_data <- meta_behaviour_dat %>%
 head(meta_behaviour_data)
 
 meta_behaviour_size_dat <- left_join(meta_behaviour_data, size_classes, by=c("Gensp"))%>%
+  glimpse()
+
+
+# To do: add in column whether shark present, MaxN shark, and whether shark fed
+
+#Carcharhinus amblyrhynchos and Triaenodon obesus were the most abundant sharks appearing in videos, alongside some less frequent observations of reef sharks including Nebrius ferrugineus, Sphyrna lewini and Stegostoma fasciatum.
+#Galeocerdo cuvier
+#Carangidae, Lutjanidae, Serranidae and Lethrinidae
+
+meso_meta_behaviour_size_dat <- meta_behaviour_size_dat %>%
+  filter(Family %in% c("Carcharhinidae", "Sphyrnidae", "Ginglymostomatidae", "Carangidae",
+                       "Lutjanidae","Serranidae", "Lethrinidae"))%>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  glimpse()
+
+summary(meso_meta_behaviour_size_dat$OP_CODE)
+
+## Add in Shark present column
+
+shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  group_by(OP_CODE)%>%
+  mutate(Shark_present = ifelse(Family %in% c("Carcharhinidae", "Sphyrnidae", "Ginglymostomatidae"), "Yes","No")) %>%
+  ungroup()%>%
   glimpse()
