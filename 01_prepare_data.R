@@ -256,7 +256,9 @@ summary(meso_meta_behaviour_size_dat$OP_CODE)
 
 shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
   dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
-  group_by(OP_CODE)%>%
-  mutate(Shark_present = ifelse(Family %in% c("Carcharhinidae", "Sphyrnidae", "Ginglymostomatidae"), "Yes","No")) %>%
+  dplyr::group_by(OP_CODE)%>%
+  mutate(Shark_present = any(Family %in% c("Carcharhinidae", "Sphyrnidae", "Ginglymostomatidae"), na.rm = FALSE)) %>%
   ungroup()%>%
+  unique()%>%
   glimpse()
+
