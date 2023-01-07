@@ -1,0 +1,1720 @@
+OpCode,MaxN,Family,Genus,Species
+FP_201_ASH015,2,Carangidae,Carangoides,oblongus
+FP_201_ASH015,9,Carangidae,Caranx,melampygus
+FP_201_ASH015,3,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH015,1,Carcharhinidae,Carcharhinus,melanopterus
+FP_201_ASH015,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH015,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH015,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH015,1,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH015,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH015,1,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH015,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH015,1,Serranidae,Variola,albimarginata
+FP_201_ASH002,2,Carangidae,Carangoides,ferdau
+FP_201_ASH002,5,Carangidae,Carangoides,orthogrammus
+FP_201_ASH002,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH002,19,Carangidae,Caranx,melampygus
+FP_201_ASH002,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH002,1,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH002,3,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH002,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH002,1,Lutjanidae,Aprion,virescens
+FP_201_ASH003,1,Carangidae,Carangoides,ferdau
+FP_201_ASH003,1,Carangidae,Caranx,melampygus
+FP_201_ASH003,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH003,2,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH003,2,Lethrinidae,Lethrinus,microdon
+FP_201_ASH003,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH003,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH003,1,Lutjanidae,Aprion,virescens
+FP_201_ASH004,1,Balistidae,Abalistes,stellatus
+FP_201_ASH004,2,Balistidae,Sufflamen,fraenatum
+FP_201_ASH004,1,Carangidae,Carangoides,caeruleopinnatus
+FP_201_ASH004,2,Carangidae,Carangoides,orthogrammus
+FP_201_ASH004,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH004,4,Carangidae,Caranx,melampygus
+FP_201_ASH004,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH004,1,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH004,1,Lethrinidae,Lethrinus,nebulosus
+FP_201_ASH004,2,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH004,1,Lethrinidae,Lethrinus,ravus
+FP_201_ASH004,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH004,1,Lethrinidae,Lethrinus,semicinctus
+FP_201_ASH004,1,Lutjanidae,Aprion,virescens
+FP_201_ASH004,1,Myliobatidae,Aetobatus,narinari
+FP_201_ASH004,2,Nemipteridae,Pentapodus,emeryii
+FP_201_ASH004,1,Rhynchobatidae,Rhynchobatus,laevis
+FP_201_ASH029,1,Carangidae,Caranx,melampygus
+FP_201_ASH029,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH029,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH029,1,Cheloniidae,,sp
+FP_201_ASH029,3,Lethrinidae,Lethrinus,xanthochilus
+FP_201_ASH029,1,Lutjanidae,Aprion,virescens
+FP_201_ASH029,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH029,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH029,2,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH029,1,Muraenidae,Gymnothorax,fimbriatus
+FP_201_ASH029,1,Serranidae,,sp
+FP_201_ASH029,1,Serranidae,Variola,albimarginata
+FP_201_ASH022,1,Carangidae,Caranx,melampygus
+FP_201_ASH022,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH022,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH022,2,Lethrinidae,Lethrinus,atkinsoni
+FP_201_ASH022,1,Lethrinidae,Lethrinus,xanthochilus
+FP_201_ASH022,2,Lutjanidae,Lutjanus,bohar
+FP_201_ASH022,8,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH022,3,Lutjanidae,Macolor,macularis
+FP_201_ASH022,2,Serranidae,Cephalopholis,argus
+FP_201_ASH022,2,Serranidae,Cephalopholis,urodeta
+FP_201_ASH022,2,Serranidae,Variola,louti
+FP_201_ASH023,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH023,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH025,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH025,1,Carangidae,Caranx,melampygus
+FP_201_ASH025,1,Lutjanidae,Aprion,virescens
+FP_201_ASH025,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH025,1,Lutjanidae,Lutjanus,rivulatus
+FP_201_ASH025,1,Rhynchobatidae,Rhynchobatus,laevis
+FP_201_ASH025,1,Serranidae,Plectropomus,laevis
+FP_201_ASH025,1,Serranidae,Variola,albimarginata
+FP_201_ASH012,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH012,3,Carangidae,Caranx,melampygus
+FP_201_ASH012,4,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH012,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH012,10,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH012,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH012,3,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH012,4,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH013,1,,,
+FP_201_ASH013,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH013,1,Cheloniidae,Chelonia,mydas
+FP_201_ASH013,30,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH013,1,Lutjanidae,Aprion,virescens
+FP_201_ASH013,1,Sphyraenidae,Sphyraena,barracuda
+FP_201_ASH014,1,Carangidae,Carangoides,caeruleopinnatus
+FP_201_ASH014,2,Echeneidae,Echeneis,naucrates
+FP_201_ASH014,1,Lutjanidae,Aprion,virescens
+FP_201_ASH014,2,Rhynchobatidae,Rhynchobatus,laevis
+FP_201_ASH017,2,Carangidae,Caranx,melampygus
+FP_201_ASH017,3,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH017,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH017,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH017,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH017,1,Lutjanidae,Aprion,virescens
+FP_201_ASH017,2,Lutjanidae,Lutjanus,bohar
+FP_201_ASH017,2,Serranidae,Variola,albimarginata
+FP_201_ASH006,1,Carangidae,Carangoides,caeruleopinnatus
+FP_201_ASH006,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH006,1,Carangidae,Caranx,melampygus
+FP_201_ASH006,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH006,1,Congridae,Gorgasia,
+FP_201_ASH006,1,Dasyatidae,Dasyatis,kuhlii
+FP_201_ASH006,2,Echeneidae,Echeneis,naucrates
+FP_201_ASH006,1,Lethrinidae,Gymnocranius,sp
+FP_201_ASH006,2,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH006,2,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH006,3,Lethrinidae,Lethrinus,ravus
+FP_201_ASH006,1,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH006,2,Nemipteridae,Pentapodus,emeryii
+FP_201_ASH006,1,Rachycentridae,Rachycentron,canadum
+FP_201_ASH006,1,Rhinidae,Rhynchobatus,
+FP_201_ASH006,2,Scombridae,Gymnosarda,unicolor
+FP_201_ASH007,1,Carangidae,Caranx,melampygus
+FP_201_ASH007,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH007,1,Cheloniidae,Chelonia,mydas
+FP_201_ASH007,2,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH007,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH007,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH007,1,Lutjanidae,Aprion,virescens
+FP_201_ASH007,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH007,3,Nemipteridae,Pentapodus,emeryii
+FP_201_ASH007,1,Serranidae,Variola,louti
+FP_201_ASH041,1,Carangidae,Caranx,melampygus
+FP_201_ASH041,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH041,1,Dasyatidae,Dasyatis,sp
+FP_201_ASH041,2,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH041,12,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH041,1,Lutjanidae,Aprion,virescens
+FP_201_ASH041,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH032,1,Carangidae,Caranx,ignobilis
+FP_201_ASH032,4,Carangidae,Caranx,melampygus
+FP_201_ASH032,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH032,1,Dasyatidae,Dasyatis,kuhlii
+FP_201_ASH032,1,Dasyatidae,Himantura,fai
+FP_201_ASH032,3,Lethrinidae,Lethrinus,microdon
+FP_201_ASH032,4,Lethrinidae,Lethrinus,ravus
+FP_201_ASH032,5,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH032,1,Lethrinidae,Lethrinus,xanthochilus
+FP_201_ASH032,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH032,3,Scombridae,Scomberomorus,commerson
+FP_201_ASH032,3,Serranidae,Variola,albimarginata
+FP_201_ASH033,2,Carangidae,Carangoides,ferdau
+FP_201_ASH033,1,Carangidae,Caranx,ignobilis
+FP_201_ASH033,1,Carangidae,Caranx,melampygus
+FP_201_ASH033,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH033,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH033,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH033,3,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH033,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH033,3,Lethrinidae,Lethrinus,ravus
+FP_201_ASH033,9,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH033,1,Lutjanidae,Aprion,virescens
+FP_201_ASH033,1,Scombridae,Scomberomorus,commerson
+FP_201_ASH026,1,Carangidae,Carangoides,caeruleopinnatus
+FP_201_ASH026,3,Carangidae,Carangoides,orthogrammus
+FP_201_ASH026,4,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH026,1,Dasyatidae,Pastinachus,sephen
+FP_201_ASH026,2,Echeneidae,Echeneis,naucrates
+FP_201_ASH026,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH026,2,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH026,10,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH026,2,Lutjanidae,Aprion,virescens
+FP_201_ASH026,1,Myliobatidae,Aetobatus,narinari
+FP_201_ASH026,1,Serranidae,Variola,albimarginata
+FP_201_ASH027,1,Carangidae,Caranx,ignobilis
+FP_201_ASH027,1,Carangidae,Caranx,melampygus
+FP_201_ASH027,1,Carangidae,Scomberoides,lysan
+FP_201_ASH027,3,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH027,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH027,1,Cheloniidae,Chelonia,mydas
+FP_201_ASH027,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH027,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH027,1,Lethrinidae,Lethrinus,atkinsoni
+FP_201_ASH027,3,Lethrinidae,Lethrinus,xanthochilus
+FP_201_ASH027,1,Lutjanidae,Aprion,virescens
+FP_201_ASH027,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH027,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH027,3,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH027,1,Scombridae,Gymnosarda,unicolor
+FP_201_ASH027,1,Scombridae,Scomberomorus,commerson
+FP_201_ASH027,1,Serranidae,,sp
+FP_201_ASH027,4,Serranidae,Variola,albimarginata
+FP_201_ASH028,1,Carangidae,Carangoides,ferdau
+FP_201_ASH028,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH028,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH028,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH028,9,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH028,1,Lutjanidae,Aprion,virescens
+FP_201_ASH028,1,Scombridae,Scomberomorus,queenslandicus
+FP_201_ASH037,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH037,1,Dasyatidae,Taeniurops,meyeni
+FP_201_ASH037,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH037,1,Haemulidae,Plectorhinchus,chaetodonoides
+FP_201_ASH037,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH037,1,Lethrinidae,Monotaxis,grandoculis
+FP_201_ASH037,2,Lutjanidae,Aprion,virescens
+FP_201_ASH037,3,Lutjanidae,Lutjanus,bohar
+FP_201_ASH037,1,Rhinidae,Rhynchobatus,australiae
+FP_201_ASH037,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH037,1,Serranidae,Cephalopholis,argus
+FP_201_ASH037,4,Serranidae,Cephalopholis,urodeta
+FP_201_ASH037,2,Serranidae,Plectropomus,laevis
+FP_201_ASH037,1,Serranidae,Variola,louti
+FP_201_ASH038,2,Carangidae,Atule,mate
+FP_201_ASH038,10,Carangidae,Carangoides,orthogrammus
+FP_201_ASH038,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH038,3,Carangidae,Caranx,melampygus
+FP_201_ASH038,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH038,1,Dasyatidae,Himantura,granulata
+FP_201_ASH038,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH038,1,Lethrinidae,Monotaxis,grandoculis
+FP_201_ASH038,5,Lutjanidae,Lutjanus,bohar
+FP_201_ASH038,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH038,4,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH038,3,Lutjanidae,Macolor,sp
+FP_201_ASH038,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH038,1,Serranidae,Cephalopholis,argus
+FP_201_ASH038,1,Serranidae,Cephalopholis,urodeta
+FP_201_ASH038,1,Serranidae,Plectropomus,sp
+FP_201_ASH038,1,Sphyraenidae,Sphyraena,barracuda
+FP_201_ASH045,2,Carangidae,Carangoides,fulvoguttatus
+FP_201_ASH045,1,Carangidae,Caranx,ignobilis
+FP_201_ASH045,4,Carangidae,Caranx,melampygus
+FP_201_ASH045,1,Carangidae,Gnathanodon,speciosus
+FP_201_ASH045,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH045,1,Ginglymostomatidae,Nebrius,ferrugineus
+FP_201_ASH045,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH045,1,Lethrinidae,Lethrinus,obsoletus
+FP_201_ASH045,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH045,1,Lethrinidae,Monotaxis,grandoculis
+FP_201_ASH045,1,Lutjanidae,Aprion,virescens
+FP_201_ASH045,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH045,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH045,1,Lutjanidae,Lutjanus,vitta
+FP_201_ASH045,1,Serranidae,Cephalopholis,urodeta
+FP_201_ASH045,1,Serranidae,Epinephelus,fuscoguttatus
+FP_201_ASH045,1,Serranidae,Variola,albimarginata
+FP_201_ASH045,1,Stegostomatidae,Stegostoma,fasciatum
+FP_201_ASH040,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH040,2,Carangidae,Caranx,melampygus
+FP_201_ASH040,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH040,3,Lethrinidae,Lethrinus,amboinensis
+FP_201_ASH040,10,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH040,1,Lutjanidae,Aprion,virescens
+FP_201_ASH047,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH047,1,Carangidae,Caranx,melampygus
+FP_201_ASH047,1,Carangidae,Scomberoides,lysan
+FP_201_ASH047,1,Dasyatidae,Dasyatis,sp
+FP_201_ASH047,1,Dasyatidae,Pastinachus,sephen
+FP_201_ASH047,2,Sphyraenidae,Sphyraena,barracuda
+FP_201_ASH035,4,Carangidae,Carangoides,orthogrammus
+FP_201_ASH035,1,Carangidae,Caranx,ignobilis
+FP_201_ASH035,3,Carangidae,Caranx,melampygus
+FP_201_ASH035,1,Carangidae,Scomberoides,lysan
+FP_201_ASH035,1,Cheloniidae,,sp
+FP_201_ASH035,4,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH035,2,Lutjanidae,Lutjanus,bohar
+FP_201_ASH035,3,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH035,1,Serranidae,Cephalopholis,sp
+FP_201_ASH035,1,Serranidae,Variola,albimarginata
+FP_201_ASH036,1,,,
+FP_201_ASH036,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH036,5,Carangidae,Caranx,melampygus
+FP_201_ASH036,2,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH036,2,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH036,1,Cheloniidae,Eretmochelys,imbricata
+FP_201_ASH036,1,Lethrinidae,Lethrinus,atkinsoni
+FP_201_ASH036,10,Lethrinidae,Lethrinus,microdon
+FP_201_ASH036,1,Lutjanidae,Aprion,virescens
+FP_201_ASH036,18,Lutjanidae,Lutjanus,bohar
+FP_201_ASH036,2,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH036,2,Lutjanidae,Lutjanus,rivulatus
+FP_201_ASH036,1,Lutjanidae,Macolor,sp
+FP_201_ASH036,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH036,2,Serranidae,Cephalopholis,argus
+FP_201_ASH036,2,Serranidae,Cephalopholis,urodeta
+FP_201_ASH036,1,Serranidae,Epinephelus,fasciatus
+FP_201_ASH036,1,Serranidae,Variola,louti
+FP_201_ASH036,1,Stegostomatidae,Stegostoma,fasciatum
+FP_201_ASH056,3,Carangidae,Carangoides,orthogrammus
+FP_201_ASH056,1,Carangidae,Caranx,melampygus
+FP_201_ASH056,3,Carangidae,Gnathanodon,speciosus
+FP_201_ASH056,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH056,1,Cheloniidae,,sp
+FP_201_ASH056,1,Dasyatidae,Himantura,fai
+FP_201_ASH056,3,Lethrinidae,Lethrinus,microdon
+FP_201_ASH056,1,Lethrinidae,Monotaxis,grandoculis
+FP_201_ASH056,3,Lutjanidae,Lutjanus,bohar
+FP_201_ASH056,3,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH056,2,Lutjanidae,Lutjanus,quinquelineatus
+FP_201_ASH056,1,Muraenidae,Gymnothorax,sp
+FP_201_ASH056,1,Serranidae,Cephalopholis,urodeta
+FP_201_ASH056,1,Serranidae,Plectropomus,laevis
+FP_201_ASH056,2,Serranidae,Plectropomus,maculatus
+FP_201_ASH065,1,Carangidae,Carangoides,ferdau
+FP_201_ASH065,2,Carangidae,Carangoides,orthogrammus
+FP_201_ASH065,2,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH065,7,Carangidae,Caranx,melampygus
+FP_201_ASH065,1,Carangidae,Gnathanodon,speciosus
+FP_201_ASH065,1,Carangidae,Scomberoides,lysan
+FP_201_ASH065,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH065,1,Dasyatidae,Dasyatis,kuhlii
+FP_201_ASH065,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH065,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH065,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH065,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH065,1,Lutjanidae,Aprion,virescens
+FP_201_ASH065,3,Lutjanidae,Lutjanus,bohar
+FP_201_ASH065,1,Serranidae,Plectropomus,laevis
+FP_201_ASH088,6,Carangidae,Caranx,ignobilis
+FP_201_ASH088,2,Carangidae,Gnathanodon,speciosus
+FP_201_ASH088,1,Carcharhinidae,Galeocerdo,cuvier
+FP_201_ASH088,2,Echeneidae,Echeneis,naucrates
+FP_201_ASH088,1,Rachycentridae,Rachycentron,canadum
+FP_201_ASH088,1,Rhinidae,Rhynchobatus,
+FP_201_ASH088,1,Stegostomatidae,Stegostoma,fasciatum
+FP_201_ASH085,1,,,
+FP_201_ASH085,1,Carangidae,Atule,mate
+FP_201_ASH085,1,Carangidae,Caranx,ignobilis
+FP_201_ASH085,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH085,1,Hemigaleidae,Hemipristis,elongata
+FP_201_ASH085,6,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH085,1,Lutjanidae,Symphorus,nematophorus
+FP_201_ASH085,1,Sphyraenidae,Sphyraena,barracuda
+FP_201_ASH112,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH112,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH112,2,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH112,2,Lethrinidae,Lethrinus,microdon
+FP_201_ASH112,2,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH112,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH112,2,Lutjanidae,Aprion,virescens
+FP_201_ASH112,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH105,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH105,9,Lutjanidae,Lutjanus,vitta
+FP_201_ASH108,2,Carangidae,Carangoides,gymnostethus
+FP_201_ASH108,2,Carangidae,Carangoides,orthogrammus
+FP_201_ASH108,1,Carangidae,Caranx,melampygus
+FP_201_ASH108,8,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH108,3,Lethrinidae,Lethrinus,microdon
+FP_201_ASH108,3,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH108,2,Lutjanidae,Aprion,virescens
+FP_201_ASH108,1,Scombridae,Scomberomorus,commerson
+FP_201_ASH064,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH064,1,Carangidae,Caranx,melampygus
+FP_201_ASH064,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH064,1,Cirrhitidae,Paracirrhites,forsteri
+FP_201_ASH064,3,Labridae,Halichoeres,hortulanus
+FP_201_ASH064,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH064,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH064,2,Lethrinidae,Lethrinus,ravus
+FP_201_ASH064,3,Lutjanidae,Lutjanus,bohar
+FP_201_ASH064,4,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH064,1,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH064,1,Lutjanidae,Lutjanus,rivulatus
+FP_201_ASH064,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH064,2,Serranidae,Cephalopholis,argus
+FP_201_ASH064,2,Serranidae,Cephalopholis,urodeta
+FP_201_ASH064,1,Serranidae,Epinephelus,fuscoguttatus
+FP_201_ASH064,1,Serranidae,Variola,albimarginata
+FP_201_ASH062,12,Carangidae,Carangoides,orthogrammus
+FP_201_ASH062,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH062,1,Dasyatidae,Pastinachus,sephen
+FP_201_ASH062,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH062,1,Lethrinidae,Lethrinus,microdon
+FP_201_ASH062,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH062,4,Lutjanidae,Lutjanus,bohar
+FP_201_ASH062,1,Rhinidae,Rhynchobatus,
+FP_201_ASH062,1,Rhinidae,Rhynchobatus,australiae
+FP_201_ASH062,1,Rhynchobatidae,Rhynchobatus,laevis
+FP_201_ASH062,1,Serranidae,Epinephelus,polyphekadion
+FP_201_ASH051,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH051,1,Carangidae,Caranx,ignobilis
+FP_201_ASH051,1,Carangidae,Caranx,melampygus
+FP_201_ASH051,1,Ginglymostomatidae,Nebrius,ferrugineus
+FP_201_ASH051,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH051,1,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH061,1,Carangidae,Carangoides,ferdau
+FP_201_ASH061,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH061,1,Carangidae,Caranx,ignobilis
+FP_201_ASH061,4,Carangidae,Caranx,melampygus
+FP_201_ASH061,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH061,1,Cirrhitidae,Paracirrhites,forsteri
+FP_201_ASH061,1,Dasyatidae,Neotrygon,kuhlii
+FP_201_ASH061,2,Ginglymostomatidae,Nebrius,ferrugineus
+FP_201_ASH061,3,Lethrinidae,Lethrinus,microdon
+FP_201_ASH061,1,Muraenidae,Gymnothorax,javanicus
+FP_201_ASH061,1,Serranidae,Aethaloperca,rogaa
+FP_201_ASH061,1,Serranidae,Cephalopholis,argus
+FP_201_ASH061,2,Serranidae,Cephalopholis,urodeta
+FP_201_ASH061,1,Serranidae,Variola,albimarginata
+FP_201_ASH061,1,Sphyraenidae,Sphyraena,barracuda
+FP_201_ASH068,1,Carangidae,Carangoides,ferdau
+FP_201_ASH068,2,Carangidae,Carangoides,orthogrammus
+FP_201_ASH068,1,Carangidae,Carangoides,plagiotaenia
+FP_201_ASH068,1,Carangidae,Caranx,melampygus
+FP_201_ASH068,1,Dasyatidae,Dasyatis,kuhlii
+FP_201_ASH068,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH068,2,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH068,1,Lutjanidae,Aprion,virescens
+FP_201_ASH068,11,Myliobatidae,Aetobatus,narinari
+FP_201_ASH068,1,Rhynchobatidae,Rhynchobatus,laevis
+FP_201_ASH052,1,Carangidae,Carangoides,ferdau
+FP_201_ASH052,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH052,1,Dasyatidae,Himantura,granulata
+FP_201_ASH052,1,Dasyatidae,Pastinachus,sephen
+FP_201_ASH052,7,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH052,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH052,1,Lutjanidae,Aprion,virescens
+FP_201_ASH053,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH053,2,Carangidae,Caranx,melampygus
+FP_201_ASH053,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH053,1,Lutjanidae,Aprion,virescens
+FP_201_ASH053,2,Lutjanidae,Lutjanus,bohar
+FP_201_ASH053,4,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH053,2,Serranidae,Cephalopholis,argus
+FP_201_ASH053,2,Serranidae,Cephalopholis,urodeta
+FP_201_ASH053,1,Serranidae,Plectropomus,laevis
+FP_201_ASH054,2,Carangidae,Carangoides,fulvoguttatus
+FP_201_ASH054,7,Carangidae,Carangoides,orthogrammus
+FP_201_ASH054,1,Carangidae,Caranx,ignobilis
+FP_201_ASH054,4,Carangidae,Gnathanodon,speciosus
+FP_201_ASH054,1,Carangidae,Scomberoides,lysan
+FP_201_ASH054,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH054,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH054,1,Dasyatidae,Dasyatis,kuhlii
+FP_201_ASH054,1,Dasyatidae,Himantura,fai
+FP_201_ASH054,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH054,2,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH054,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH054,1,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH054,1,Rhinidae,Rhynchobatus,australiae
+FP_201_ASH055,1,Carangidae,Carangoides,oblongus
+FP_201_ASH055,3,Carangidae,Carangoides,orthogrammus
+FP_201_ASH055,1,Carangidae,Caranx,melampygus
+FP_201_ASH055,1,Lethrinidae,Lethrinus,atkinsoni
+FP_201_ASH055,1,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH055,6,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH055,24,Lethrinidae,Lethrinus,semicinctus
+FP_201_ASH055,1,Lutjanidae,Aprion,virescens
+FP_201_ASH055,2,Serranidae,Epinephelus,maculatus
+FP_201_ASH060,1,Carangidae,Carangoides,gymnostethus
+FP_201_ASH060,1,Carangidae,Carangoides,oblongus
+FP_201_ASH060,1,Carangidae,Carangoides,orthogrammus
+FP_201_ASH060,1,Carangidae,Caranx,melampygus
+FP_201_ASH060,1,Carcharhinidae,Carcharhinus,amblyrhynchos
+FP_201_ASH060,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH060,3,Echeneidae,Echeneis,naucrates
+FP_201_ASH060,1,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH060,3,Lethrinidae,Lethrinus,microdon
+FP_201_ASH060,8,Lethrinidae,Lethrinus,olivaceus
+FP_201_ASH060,2,Lethrinidae,Lethrinus,ravus
+FP_201_ASH060,1,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH060,1,Lethrinidae,Monotaxis,grandoculis
+FP_201_ASH060,1,Lutjanidae,Aprion,virescens
+FP_201_ASH060,1,Lutjanidae,Lutjanus,kasmira
+FP_201_ASH060,4,Lutjanidae,Lutjanus,vitta
+FP_201_ASH057,2,Carangidae,Carangoides,orthogrammus
+FP_201_ASH057,1,Carangidae,Caranx,melampygus
+FP_201_ASH057,1,Carcharhinidae,Triaenodon,obesus
+FP_201_ASH057,1,Echeneidae,Echeneis,naucrates
+FP_201_ASH057,1,Lethrinidae,Lethrinus,atkinsoni
+FP_201_ASH057,3,Lethrinidae,Lethrinus,obsoletus
+FP_201_ASH057,1,Lethrinidae,Lethrinus,ornatus
+FP_201_ASH057,2,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH057,1,Lethrinidae,Lethrinus,semicinctus
+FP_201_ASH057,1,Lutjanidae,Aprion,virescens
+FP_201_ASH057,1,Lutjanidae,Lutjanus,bohar
+FP_201_ASH057,3,Lutjanidae,Lutjanus,decussatus
+FP_201_ASH057,3,Lutjanidae,Lutjanus,gibbus
+FP_201_ASH057,5,Lutjanidae,Lutjanus,quinquelineatus
+FP_201_ASH057,1,Rhinidae,Rhynchobatus,sp
+FP_201_ASH057,6,Serranidae,Cephalopholis,argus
+FP_201_ASH057,1,Serranidae,Cephalopholis,urodeta
+FP_201_ASH057,1,Serranidae,Epinephelus,merra
+FP_201_ASH057,1,Serranidae,Plectropomus,maculatus
+FP_201_ASH057,1,Serranidae,Variola,albimarginata
+FP_201_ASH059,1,Dasyatidae,Pastinachus,sephen
+FP_201_ASH059,2,Lethrinidae,Gymnocranius,grandoculis
+FP_201_ASH059,4,Lethrinidae,Lethrinus,rubrioperculatus
+FP_201_ASH059,1,Lutjanidae,Lutjanus,vitta
+"DEH_16, 4",1,Balistidae,Abalistes,stellatus
+"DEH_16, 4",1,Hydrophiidae,Unknown,sp8
+"DEH_16, 3",1,Siganidae,Siganus,argenteus
+"DEH_16, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_16, 3",1,Carcharhinidae,Triaenodon,obesus
+"DEH_16, 3",1,Scaridae,Unknown,sp15
+"DEH_16, 3",1,Muraenidae,Unknown,sp2
+"DEH_16, 3",2,Mullidae,Unknown,sp3
+"DEH_16, 3",1,Serranidae,Pseudanthias,sp
+"DEH_16, 3",3,Zanclidae,Zanclus,cornutus
+"DEH_16, 3",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_16, 4",1,Lutjanidae,Aprion,virescens
+"DEH_16, 4",2,Labridae,Iniistius,pavo
+"DEH_16, 4",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_16, 4",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_16, 4",1,Mullidae,Parupeneus,heptacanthus
+"DEH_16, 4",1,Dasyatidae,Taeniurops,meyeni
+"DEH_3, 1",2,Nemipteridae,Pentapodus,emeryii
+"DEH_16, 3",2,Serranidae,Variola,albimarginata
+"DEH_16, 3",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_16, 3",1,Lutjanidae,Aprion,virescens
+"DEH_16, 3",10,Carangidae,Carangoides,ferdau
+"DEH_16, 3",1,Carangidae,Caranx,lugubris
+"DEH_16, 3",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_16, 3",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_16, 3",1,Chaetodontidae,Chaetodon,auriga
+"DEH_16, 3",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_16, 3",1,Balistidae,Pseudobalistes,fuscus
+"DEH_16, 3",3,Lethrinidae,Lethrinus,amboinensis
+"DEH_16, 5",1,Balistidae,Abalistes,stellatus
+"DEH_16, 3",13,Lethrinidae,Lethrinus,ravus
+"DEH_16, 3",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_16, 3",4,Acanthuridae,Naso,brevirostris
+"DEH_16, 3",30,Acanthuridae,Naso,caesius
+"DEH_16, 3",2,Mullidae,Parupeneus,barberinus
+"DEH_16, 3",2,Mullidae,Parupeneus,heptacanthus
+"DEH_16, 3",2,Nemipteridae,Pentapodus,emeryii
+"DEH_16, 3",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_2, 1",1,Lethrinidae,Lethrinus,ravus
+"DEH_16, 4",1,Tetraodontidae,Unknown,sp3
+"DEH_2, 1",1,Fistulariidae,Fistularia,sp
+"DEH_2, 1",2,Chaetodontidae,Forcipiger,longirostris
+"DEH_2, 1",1,Labridae,Halichoeres,hortulanus
+"DEH_2, 1",1,Labridae,Hemigymnus,melapterus
+"DEH_2, 1",1,Labridae,Labroides,dimidiatus
+"DEH_2, 1",2,Lethrinidae,Lethrinus,atkinsoni
+"DEH_2, 1",2,Chaetodontidae,Chaetodon,speculum
+"DEH_2, 1",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_2, 1",1,Chaetodontidae,Chaetodon,ornatissimus
+"DEH_2, 1",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 1",1,Lutjanidae,Lutjanus,bohar
+"DEH_2, 1",2,Lutjanidae,Lutjanus,bohar
+"DEH_2, 1",2,Lutjanidae,Lutjanus,decussatus
+"DEH_2, 1",7,Lutjanidae,Lutjanus,gibbus
+"DEH_2, 1",25,Lutjanidae,Lutjanus,kasmira
+"DEH_2, 1",1,Lutjanidae,Lutjanus,semicinctus
+"DEH_2, 1",1,Lethrinidae,Lethrinus,obsoletus
+"DEH_2, 1",1,Balistidae,Balistoides,conspicillum
+"DEH_16, 5",11,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_16, 5",2,Pinguipedidae,Parapercis,nebulosa
+"DEH_2, 1",1,Acanthuridae,Acanthurus,albipectoralis
+"DEH_2, 1",4,Acanthuridae,Acanthurus,auranticavus
+"DEH_2, 1",1,Acanthuridae,Acanthurus,nigricans
+"DEH_2, 1",2,Acanthuridae,Acanthurus,pyroferus
+"DEH_2, 1",1,Labridae,Anampses,caeruleopunctatus
+"DEH_2, 1",2,Chaetodontidae,Chaetodon,ulietensis
+"DEH_2, 1",1,Lutjanidae,Aprion,virescens
+"DEH_16, 3",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_2, 1",1,Balistidae,Balistoides,viridescens
+"DEH_2, 1",2,Pomacanthidae,Centropyge,bicolor
+"DEH_2, 1",1,Serranidae,Cephalopholis,urodeta
+"DEH_2, 1",1,Chaetodontidae,Chaetodon,ephippium
+"DEH_2, 1",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_2, 1",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_2, 1",1,Chaetodontidae,Chaetodon,lunula
+"DEH_2, 1",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_13, 3",1,Labridae,Halichoeres,hortulanus
+"DEH_16, 3",2,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_13, 3",2,Chaetodontidae,Chaetodon,oxycephalus
+"DEH_13, 3",2,Labridae,Cheilinus,trilobatus
+"DEH_13, 3",1,Scaridae,Chlorurus,sordidus
+"DEH_13, 3",1,Pomacentridae,Chromis,amboinensis
+"DEH_13, 3",1,Labridae,Cirrhilabrus,exquisitus
+"DEH_13, 3",3,Acanthuridae,Ctenochaetus,striatus
+"DEH_13, 3",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_13, 3",1,Labridae,Halichoeres,chrysus
+"DEH_13, 3",2,Chaetodontidae,Chaetodon,ephippium
+"DEH_13, 3",1,Labridae,Hemigymnus,melapterus
+"DEH_13, 3",1,Labridae,Leptojulis,cyanopleura
+"DEH_13, 3",1,Lutjanidae,Lutjanus,decussatus
+"DEH_13, 3",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_13, 3",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_13, 3",1,Dasyatidae,Neotrygon,australiae
+"DEH_13, 3",1,Labridae,Oxycheilinus,digrammus
+"DEH_13, 3",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_13, 2",1,Labridae,Unknown,sp12
+"DEH_13, 2",1,Labridae,Oxycheilinus,digrammus
+"DEH_13, 2",3,Pinguipedidae,Parapercis,nebulosa
+"DEH_13, 2",3,Mullidae,Parupeneus,multifasciatus
+"DEH_13, 2",15,Pomacentridae,Pomacentrus,coelestis
+"DEH_13, 2",1,Scaridae,Scarus,rubroviolaceus
+"DEH_13, 2",1,Carcharhinidae,Triaenodon,obesus
+"DEH_13, 2",1,Hydrophiidae,Unknown,sp1
+"DEH_13, 3",1,Chaetodontidae,Chaetodon,lunula
+"DEH_13, 2",3,Labridae,Unknown,sp11
+"DEH_13, 3",4,Mullidae,Parupeneus,multifasciatus
+"DEH_13, 2",1,Labridae,Unknown,sp13
+"DEH_13, 2",1,Hydrophiidae,Unknown,sp2
+"DEH_13, 3",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_13, 3",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_13, 3",2,Pomacentridae,Amblyglyphidodon,aureus
+"DEH_13, 3",3,Serranidae,Cephalopholis,argus
+"DEH_13, 3",2,Chaetodontidae,Chaetodon,auriga
+"DEH_13, 2",1,Monacanthidae,Unknown,sp1
+"DEH_16, 2",5,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_16, 1",1,Mobulidae,Manta,birostris
+"DEH_16, 1",1,Carangidae,Unknown,sp2
+"DEH_16, 2",2,Lutjanidae,Aprion,virescens
+"DEH_16, 2",9,Carangidae,Carangoides,ferdau
+"DEH_16, 2",3,Carangidae,Elagatis,bipinnulata
+"DEH_16, 2",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_16, 2",1,Labridae,Iniistius,pavo
+"DEH_13, 3",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_16, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_16, 1",1,Labridae,Iniistius,pavo
+"DEH_16, 2",2,Malacanthidae,Malacanthus,latovittatus
+"DEH_16, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_16, 2",1,Muraenidae,Unknown,sp1
+"DEH_16, 2",1,Ostraciidae,Unknown,sp1
+"DEH_16, 2",1,Hydrophiidae,Unknown,sp7
+"DEH_16, 3",1,Balistidae,Abalistes,stellatus
+"DEH_2, 1",1,Acanthuridae,Naso,caesius
+"DEH_16, 2",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_13, 3",1,Haemulidae,Unknown,sp1
+"DEH_16, 3",1,Monacanthidae,Aluterus,scriptus
+"DEH_13, 3",2,Mullidae,Parupeneus,trifasciatus
+"DEH_13, 3",1,Pomacentridae,Pomacentrus,coelestis
+"DEH_13, 3",1,Microdesmidae,Ptereleotris,evides
+"DEH_13, 3",2,Scaridae,Scarus,sp
+"DEH_13, 3",1,Balistidae,Sufflamen,chrysopterum
+"DEH_13, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_16, 1",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_13, 3",6,Labridae,Thalassoma,lunare
+"DEH_16, 1",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_13, 3",1,Labridae,Unknown,sp14
+"DEH_13, 3",2,Scaridae,Unknown,sp6
+"DEH_13, 3",1,Scaridae,Unknown,sp7
+"DEH_16, 1",1,Lutjanidae,Aprion,virescens
+"DEH_16, 1",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_16, 1",3,Lethrinidae,Gymnocranius,grandoculis
+"DEH_16, 1",1,Scombridae,Gymnosarda,unicolor
+"DEH_13, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_13, 3",1,Labridae,Thalassoma,amblycephalum
+"DEH_2, 5",2,Pomacentridae,Pomacentrus,coelestis
+"DEH_2, 4",4,Labridae,Cirrhilabrus,exquisitus
+"DEH_2, 5",2,Balistidae,Melichthys,vidua
+"DEH_2, 5",2,Acanthuridae,Naso,annulatus
+"DEH_2, 5",2,Acanthuridae,Naso,brevirostris
+"DEH_2, 5",1,Acanthuridae,Naso,lituratus
+"DEH_2, 5",1,Labridae,Oxycheilinus,unifasciatus
+"DEH_2, 5",1,Mullidae,Parupeneus,multifasciatus
+"DEH_2, 5",15,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 5",4,Pomacentridae,Pomacentrus,bankanensis
+"DEH_2, 5",1,Echeneidae,Echeneis,naucrates
+"DEH_2, 5",3,Nemipteridae,Scolopsis,xenochrous
+"DEH_2, 5",2,Balistidae,Sufflamen,chrysopterum
+"DEH_2, 5",1,Carcharhinidae,Triaenodon,obesus
+"DEH_2, 5",1,Serranidae,Variola,albimarginata
+"DEH_2, 6",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_2, 6",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_2, 6",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_2, 5",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_2, 4",1,Serranidae,Variola,albimarginata
+"DEH_2, 1",1,Balistidae,Melichthys,vidua
+"DEH_2, 4",10,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 4",2,Acanthuridae,Naso,annulatus
+"DEH_2, 4",2,Acanthuridae,Naso,lituratus
+"DEH_2, 4",10,Pomacentridae,Pomacentrus,coelestis
+"DEH_2, 4",10,Siganidae,Siganus,argenteus
+"DEH_2, 4",1,Balistidae,Sufflamen,fraenatum
+"DEH_2, 5",1,Lutjanidae,Lutjanus,bohar
+"DEH_2, 4",1,Muraenidae,Unknown,sp5
+"DEH_2, 6",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_2, 5",4,Acanthuridae,Acanthurus,auranticavus
+"DEH_2, 5",2,Acanthuridae,Acanthurus,olivaceus
+"DEH_2, 5",2,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_2, 5",1,Serranidae,Cephalopholis,urodeta
+"DEH_2, 5",2,Chaetodontidae,Chaetodon,auriga
+"DEH_2, 5",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_2, 5",1,Labridae,Cheilinus,chlorourus
+"DEH_2, 4",1,Gobiidae,Unknown,sp1
+"DEH_3, 1",1,Lutjanidae,Lutjanus,bohar
+"DEH_3, 1",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_3, 1",2,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 1",5,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 1",1,Acanthuridae,Acanthurus,pyroferus
+"DEH_3, 1",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_3, 1",3,Pomacanthidae,Centropyge,bicolor
+"DEH_3, 1",2,Chaetodontidae,Chaetodon,ephippium
+"DEH_2, 6",1,Serranidae,Cephalopholis,sp1
+"DEH_3, 1",4,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 6",1,Scaridae,Unknown,sp17
+"DEH_3, 1",2,Lutjanidae,Lutjanus,decussatus
+"DEH_3, 1",1,Lutjanidae,Lutjanus,gibbus
+"DEH_3, 1",2,Malacanthidae,Malacanthus,latovittatus
+"DEH_3, 1",30,Acanthuridae,Naso,annulatus
+"DEH_3, 1",1,Acanthuridae,Naso,lituratus
+"DEH_3, 1",1,Mullidae,Parupeneus,barberinus
+"DEH_1, 1",1,Lutjanidae,Aprion,virescens
+"DEH_3, 1",1,Labridae,Hologymnosus,doliatus
+"DEH_2, 6",1,Balistidae,Melichthys,vidua
+"DEH_2, 4",2,Pomacentridae,Chrysiptera,tricincta
+"DEH_2, 6",1,Chaetodontidae,Chaetodon,ulietensis
+"DEH_2, 6",1,Labridae,Cirrhilabrus,sp
+"DEH_2, 6",1,Echeneidae,Echeneis,naucrates
+"DEH_2, 6",1,Labridae,Hologymnosus,doliatus
+"DEH_2, 6",5,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 6",1,Lutjanidae,Lutjanus,bohar
+"DEH_2, 6",3,Zanclidae,Zanclus,cornutus
+"DEH_2, 6",3,Lutjanidae,Lutjanus,gibbus
+"DEH_2, 6",2,Serranidae,Variola,albimarginata
+"DEH_2, 6",1,Mullidae,Parupeneus,multifasciatus
+"DEH_2, 6",1,Nemipteridae,Pentapodus,emeryii
+"DEH_2, 6",2,Pomacentridae,Pomacentrus,coelestis
+"DEH_2, 6",2,Pomacentridae,Pomacentrus,imitator
+"DEH_2, 6",1,Siganidae,Siganus,argenteus
+"DEH_2, 6",2,Balistidae,Sufflamen,fraenatum
+"DEH_2, 6",1,Carcharhinidae,Triaenodon,obesus
+"DEH_2, 6",1,Serranidae,Cephalopholis,urodeta
+"DEH_2, 6",3,Lutjanidae,Lutjanus,decussatus
+"DEH_2, 2",1,Lutjanidae,Lutjanus,bohar
+"DEH_2, 4",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_2, 2",1,Carangidae,Caranx,lugubris
+"DEH_2, 2",1,Carangidae,Caranx,melampygus
+"DEH_2, 2",1,Chaetodontidae,Chaetodon,auriga
+"DEH_2, 2",1,Chaetodontidae,Chaetodon,lunula
+"DEH_2, 2",3,Pomacentridae,Chromis,sp2
+"DEH_2, 2",1,Lethrinidae,Lethrinus,atkinsoni
+"DEH_2, 2",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_2, 2",7,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 2",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_2, 2",2,Lutjanidae,Lutjanus,decussatus
+"DEH_2, 2",1,Balistidae,Melichthys,vidua
+"DEH_2, 2",1,Acanthuridae,Naso,annulatus
+"DEH_2, 2",5,Acanthuridae,Naso,brevirostris
+"DEH_2, 2",1,Acanthuridae,Naso,lituratus
+"DEH_2, 2",1,Mullidae,Parupeneus,barberinoides
+"DEH_2, 2",1,Mullidae,Parupeneus,multifasciatus
+"DEH_2, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_2, 1",1,Siganidae,Siganus,virgatus
+"DEH_13, 2",1,Acanthuridae,Naso,brachycentron
+"DEH_2, 1",1,Dasyatidae,Neotrygon,australiae
+"DEH_2, 1",1,Mullidae,Parupeneus,multifasciatus
+"DEH_2, 1",1,Nemipteridae,Pentapodus,emeryii
+"DEH_2, 1",3,Ephippidae,Platax,orbicularis
+"DEH_2, 1",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_2, 1",2,Pomacentridae,Pomacentrus,bankanensis
+"DEH_2, 2",2,Lutjanidae,Aprion,virescens
+"DEH_2, 1",5,Siganidae,Siganus,argenteus
+"DEH_2, 2",20,Pomacentridae,Pomacentrus,coelestis
+"DEH_2, 1",1,Labridae,Thalassoma,lunare
+"DEH_2, 1",1,Carcharhinidae,Triaenodon,obesus
+"DEH_2, 1",1,Muraenidae,Unknown,sp3
+"DEH_2, 1",1,Serranidae,Variola,albimarginata
+"DEH_2, 1",2,Zanclidae,Zanclus,cornutus
+"DEH_2, 2",2,Acanthuridae,Acanthurus,auranticavus
+"DEH_2, 2",1,Acanthuridae,Acanthurus,nigricans
+"DEH_2, 1",1,Nemipteridae,Scolopsis,bilineata
+"DEH_2, 4",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_2, 3",3,Mullidae,Parupeneus,multifasciatus
+"DEH_2, 3",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_2, 3",3,Pomacentridae,Pomacentrus,bankanensis
+"DEH_2, 3",35,Pomacentridae,Pomacentrus,coelestis
+"DEH_2, 3",4,Nemipteridae,Scolopsis,xenochrous
+"DEH_2, 3",2,Balistidae,Sufflamen,fraenatum
+"DEH_2, 3",1,Hydrophiidae,Unknown,sp
+"DEH_2, 2",1,Nemipteridae,Pentapodus,emeryii
+"DEH_2, 3",1,Serranidae,Variola,albimarginata
+"DEH_2, 3",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_2, 4",2,Acanthuridae,Acanthurus,olivaceus
+"DEH_2, 4",2,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_2, 4",1,Lutjanidae,Aprion,virescens
+"DEH_2, 4",1,Carangidae,Carangoides,plagiotaenia
+"DEH_2, 4",1,Carangidae,Caranx,melampygus
+"DEH_2, 4",1,Chaetodontidae,Chaetodon,auriga
+"DEH_2, 4",2,Chaetodontidae,Chaetodon,lunula
+"DEH_2, 3",1,Pomacentridae,Unknown,sp3
+"DEH_2, 3",1,Lutjanidae,Aprion,virescens
+"DEH_2, 1",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_2, 2",1,Pseudochromidae,Pseudochromis,sp3
+"DEH_2, 2",15,Siganidae,Siganus,argenteus
+"DEH_2, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_2, 2",1,Scaridae,Unknown,sp16
+"DEH_2, 2",15,Pomacentridae,Unknown,sp3
+"DEH_2, 2",1,Serranidae,Variola,albimarginata
+"DEH_2, 3",9,Acanthuridae,Naso,annulatus
+"DEH_2, 3",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_2, 3",5,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_2, 3",1,Carangidae,Caranx,lugubris
+"DEH_2, 3",3,Chaetodontidae,Chaetodon,auriga
+"DEH_2, 3",1,Chaetodontidae,Chaetodon,ephippium
+"DEH_2, 3",3,Chaetodontidae,Chaetodon,kleinii
+"DEH_2, 3",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_2, 3",1,Chaetodontidae,Chaetodon,ornatissimus
+"DEH_2, 3",1,Fistulariidae,Fistularia,sp
+"DEH_2, 2",1,Ephippidae,Platax,orbicularis
+"DEH_2, 3",15,Acanthuridae,Acanthurus,olivaceus
+"DEH_1, 6",1,Hydrophiidae,Unknown,sp13
+"DEH_1, 5",1,Carangidae,Carangoides,fulvoguttatus
+"DEH_1, 6",3,Mullidae,Parupeneus,multifasciatus
+"DEH_1, 6",1,Mullidae,Parupeneus,pleurostigma
+"DEH_1, 6",1,Nemipteridae,Pentapodus,emeryii
+"DEH_1, 6",1,Serranidae,Plectropomus,laevis
+"DEH_1, 6",1,Pomacanthidae,Pomacanthus,semicirculatus
+"DEH_1, 6",5,Nemipteridae,Scolopsis,xenochrous
+"DEH_1, 6",1,Acanthuridae,Naso,vlamingii
+"DEH_1, 6",1,Balistidae,Sufflamen,fraenatum
+"DEH_1, 6",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_1, 6",1,Scaridae,Unknown,sp22
+"DEH_10, 1",2,Serranidae,Aethaloperca,rogaa
+"DEH_10, 1",2,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_10, 1",1,Balistidae,Balistoides,conspicillum
+"DEH_10, 1",1,Balistidae,Balistoides,viridescens
+"DEH_10, 1",1,Carangidae,Caranx,lugubris
+"DEH_10, 1",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_1, 6",2,Siganidae,Siganus,corallinus
+"DEH_1, 6",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_10, 2",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_1, 5",10,Labridae,Cirrhilabrus,sp1
+"DEH_1, 5",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_1, 5",2,Scombridae,Gymnosarda,unicolor
+"DEH_1, 5",1,Labridae,Iniistius,pavo
+"DEH_1, 5",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_1, 5",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_1, 6",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_1, 6",7,Acanthuridae,Acanthurus,auranticavus
+"DEH_10, 1",1,Pomacentridae,Chromis,nitida
+"DEH_1, 6",1,Lutjanidae,Aprion,virescens
+"DEH_1, 6",1,Carangidae,Caranx,lugubris
+"DEH_1, 6",10,Labridae,Cirrhilabrus,punctatus
+"DEH_1, 6",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_1, 6",1,Labridae,Labroides,dimidiatus
+"DEH_1, 6",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_1, 6",1,Lutjanidae,Lutjanus,bohar
+"DEH_1, 5",1,Dasyatidae,Pastinachus,ater
+"DEH_10, 2",1,Serranidae,Cephalopholis,formosa
+"DEH_10, 1",1,Octopodidae,Unknown,sp1
+"DEH_10, 1",2,Serranidae,Variola,albimarginata
+"DEH_10, 1",3,Zanclidae,Zanclus,cornutus
+"DEH_10, 2",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_10, 2",1,Serranidae,Aethaloperca,rogaa
+"DEH_10, 2",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_10, 2",1,Balistidae,Balistoides,viridescens
+"DEH_10, 1",2,Chaetodontidae,Chaetodon,auriga
+"DEH_10, 2",1,Carangidae,Caranx,melampygus
+"DEH_10, 1",1,Nemipteridae,Scolopsis,xenochrous
+"DEH_10, 2",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_10, 2",2,Chaetodontidae,Chaetodon,ornatissimus
+"DEH_10, 2",2,Chaetodontidae,Coradion,altivelis
+"DEH_10, 2",2,Acanthuridae,Ctenochaetus,striatus
+"DEH_10, 2",1,Pomacanthidae,Genicanthus,lamarck
+"DEH_10, 2",1,Scombridae,Gymnosarda,unicolor
+"DEH_13, 2",1,Labridae,Novaculichthys,taeniourus
+"DEH_10, 2",1,Labridae,Bodianus,axillaris
+"DEH_10, 1",1,Acanthuridae,Naso,vlamingii
+"DEH_1, 5",1,Carangidae,Carangoides,ferdau
+"DEH_10, 1",3,Pomacentridae,Dascyllus,trimaculatus
+"DEH_10, 1",1,Carangidae,Elagatis,bipinnulata
+"DEH_10, 1",1,Pomacanthidae,Genicanthus,lamarck
+"DEH_10, 1",3,Labridae,Halichoeres,marginatus
+"DEH_10, 1",1,Labridae,Labroides,dimidiatus
+"DEH_10, 1",5,Lethrinidae,Lethrinus,ravus
+"DEH_10, 1",2,Carcharhinidae,Triaenodon,obesus
+"DEH_10, 1",1,Lutjanidae,Lutjanus,bohar
+"DEH_10, 1",1,Balistidae,Sufflamen,fraenatum
+"DEH_10, 1",8,Balistidae,Odonus,niger
+"DEH_10, 1",1,Labridae,Oxycheilinus,digrammus
+"DEH_10, 1",1,Mullidae,Parupeneus,barberinus
+"DEH_10, 1",3,Mullidae,Parupeneus,multifasciatus
+"DEH_10, 1",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_10, 1",1,Scaridae,Scarus,forsteni
+"DEH_10, 1",1,Scaridae,Scarus,rubroviolaceus
+"DEH_10, 1",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_10, 1",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_1, 3",2,Labridae,Coris,aurilineata
+"DEH_1, 5",2,Carangidae,Carangoides,orthogrammus
+"DEH_1, 2",1,Nemipteridae,Scolopsis,xenochrous
+"DEH_1, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_1, 2",1,Hydrophiidae,Unknown,sp12
+"DEH_1, 2",1,Chelonidae,Unknown,sp2
+"DEH_1, 2",1,Serranidae,Variola,albimarginata
+"DEH_1, 3",7,Acanthuridae,Acanthurus,auranticavus
+"DEH_1, 2",1,Pomacentridae,Pomacentrus,moluccensis
+"DEH_1, 3",10,Labridae,Cirrhilabrus,temminckii
+"DEH_1, 2",3,Pomacentridae,Pomacentrus,coelestis
+"DEH_1, 3",1,Labridae,Labroides,dimidiatus
+"DEH_1, 3",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_1, 3",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_1, 3",2,Malacanthidae,Malacanthus,brevirostris
+"DEH_1, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_1, 3",1,Mullidae,Parupeneus,cyclostomus
+"DEH_1, 3",4,Mullidae,Parupeneus,multifasciatus
+"DEH_1, 3",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_1, 2",1,Pomacentridae,Dascyllus,trimaculatus
+"DEH_1, 2",1,Balistidae,Balistoides,conspicillum
+"DEH_1, 2",1,Balistidae,Balistoides,viridescens
+"DEH_1, 2",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_1, 2",1,Pomacanthidae,Centropyge,tibicen
+"DEH_1, 2",1,Chaetodontidae,Chaetodon,auriga
+"DEH_1, 2",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_1, 2",1,Pomacentridae,Chromis,amboinensis
+"DEH_1, 2",1,Balistidae,Pseudobalistes,fuscus
+"DEH_1, 2",1,Pomacentridae,Dascyllus,aruanus
+"DEH_1, 3",2,Nemipteridae,Pentapodus,nagasakiensis
+"DEH_1, 2",1,Labridae,Labroides,dimidiatus
+"DEH_1, 2",6,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_1, 2",1,Acanthuridae,Naso,brachycentron
+"DEH_1, 2",1,Mullidae,Parupeneus,barberinus
+"DEH_1, 2",2,Mullidae,Parupeneus,multifasciatus
+"DEH_1, 2",2,Mullidae,Parupeneus,pleurostigma
+"DEH_1, 2",1,Dasyatidae,Pateobatis,fai
+"DEH_1, 2",2,Labridae,Cirrhilabrus,sp
+"DEH_1, 4",3,Mullidae,Parupeneus,multifasciatus
+"DEH_1, 4",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_1, 4",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_1, 4",1,Lethrinidae,Lethrinus,ravus
+"DEH_1, 4",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_1, 4",1,Lutjanidae,Lutjanus,bohar
+"DEH_1, 4",3,Lutjanidae,Lutjanus,decussatus
+"DEH_1, 4",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_1, 3",1,Mullidae,Parupeneus,pleurostigma
+"DEH_1, 4",3,Mullidae,Parupeneus,barberinus
+"DEH_1, 4",1,Pomacentridae,Chromis,amboinensis
+"DEH_1, 4",2,Mullidae,Parupeneus,pleurostigma
+"DEH_1, 4",4,Nemipteridae,Pentapodus,emeryii
+"DEH_1, 4",2,Nemipteridae,Scolopsis,xenochrous
+"DEH_1, 4",1,Balistidae,Sufflamen,fraenatum
+"DEH_1, 4",1,Mullidae,Upeneus,tragula
+"DEH_1, 4",1,Serranidae,Variola,albimarginata
+"DEH_1, 5",1,Lutjanidae,Aprion,virescens
+"DEH_1, 4",2,Pinguipedidae,Parapercis,nebulosa
+"DEH_1, 4",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_10, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_1, 3",1,Ephippidae,Platax,batavianus
+"DEH_1, 3",2,Pomacanthidae,Pomacanthus,sexstriatus
+"DEH_1, 3",1,Pomacentridae,Pomacentrus,coelestis
+"DEH_1, 3",1,Siganidae,Siganus,argenteus
+"DEH_1, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_1, 3",1,Scaridae,Unknown,sp21
+"DEH_1, 4",2,Labridae,Halichoeres,melanochir
+"DEH_1, 4",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_1, 4",3,Lethrinidae,Gymnocranius,grandoculis
+"DEH_1, 4",1,Labridae,Bodianus,axillaris
+"DEH_1, 4",3,Pomacanthidae,Centropyge,bicolor
+"DEH_1, 4",1,Serranidae,Cephalopholis,urodeta
+"DEH_1, 4",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_1, 4",1,Chaetodontidae,Chaetodon,lunula
+"DEH_1, 4",1,Labridae,Cheilio,inermis
+"DEH_1, 4",1,Scaridae,Chlorurus,sordidus
+"DEH_1, 3",2,Nemipteridae,Pentapodus,emeryii
+"DEH_1, 3",1,Muraenidae,Unknown,sp6
+"DEH_13, 1",2,Lutjanidae,Lutjanus,bohar
+"DEH_12, 3",1,Antennaridae,Antennarius,sp
+"DEH_13, 1",1,Scaridae,Chlorurus,microrhinos
+"DEH_13, 1",1,Pomacentridae,Chromis,xanthura
+"DEH_13, 1",1,Echeneidae,Echeneis,naucrates
+"DEH_13, 1",2,Labridae,Halichoeres,hortulanus
+"DEH_13, 1",7,Kyphosidae,Kyphosus,cinerascens
+"DEH_13, 1",1,Labridae,Labroides,dimidiatus
+"DEH_13, 1",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_13, 1",2,Lutjanidae,Lutjanus,bohar
+"DEH_13, 1",2,Chaetodontidae,Chaetodon,auriga
+"DEH_13, 1",3,Lutjanidae,Lutjanus,decussatus
+"DEH_13, 1",1,Lutjanidae,Lutjanus,rivulatus
+"DEH_13, 1",2,Lutjanidae,Macolor,macularis
+"DEH_13, 1",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_13, 1",6,Acanthuridae,Naso,caesius
+"DEH_13, 1",4,Acanthuridae,Naso,tonganus
+"DEH_13, 1",1,Acanthuridae,Naso,vlamingii
+"DEH_13, 1",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_13, 1",1,Pomacentridae,Abudefduf,vaigiensis
+"DEH_10, 2",1,Labridae,Labroides,dimidiatus
+"DEH_12, 3",1,Carangidae,Caranx,melampygus
+"DEH_12, 3",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_12, 3",3,Lethrinidae,Lethrinus,olivaceus
+"DEH_12, 3",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_12, 3",3,Acanthuridae,Naso,hexacanthus
+"DEH_12, 3",2,Pinguipedidae,Parapercis,nebulosa
+"DEH_13, 1",1,Labridae,Cheilinus,undulatus
+"DEH_12, 3",1,Balistidae,Pseudobalistes,fuscus
+"DEH_13, 1",3,Mullidae,Parupeneus,multifasciatus
+"DEH_13, 1",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_13, 1",2,Pomacentridae,Amblyglyphidodon,aureus
+"DEH_13, 1",1,Balistidae,Balistoides,viridescens
+"DEH_13, 1",1,Labridae,Bodianus,axillaris
+"DEH_13, 1",30,Caesionidae,Caesio,lunaris
+"DEH_13, 1",4,Caesionidae,Caesio,teres
+"DEH_13, 1",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_12, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_13, 2",1,Labridae,Halichoeres,hortulanus
+"DEH_13, 1",1,Zanclidae,Zanclus,cornutus
+"DEH_13, 2",3,Acanthuridae,Acanthurus,auranticavus
+"DEH_13, 2",1,Labridae,Anampses,femininus
+"DEH_13, 2",1,Balistidae,Balistoides,conspicillum
+"DEH_13, 2",1,Monacanthidae,Cantherhines,dumerilii
+"DEH_13, 2",1,Carangidae,Caranx,ignobilis
+"DEH_13, 2",1,Carangidae,Caranx,melampygus
+"DEH_13, 1",1,Dasyatidae,Neotrygon,australiae
+"DEH_13, 2",1,Labridae,Coris,pictoides
+"DEH_13, 1",3,Pomacentridae,Unknown,sp5
+"DEH_13, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_13, 2",1,Lutjanidae,Lutjanus,bohar
+"DEH_13, 2",1,Lutjanidae,Lutjanus,decussatus
+"DEH_13, 2",2,Lutjanidae,Macolor,sp
+"DEH_13, 2",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_13, 2",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_3, 1",1,Balistidae,Pseudobalistes,flavimarginatus
+"DEH_13, 2",1,Pomacentridae,Chromis,amboinensis
+"DEH_13, 1",1,Siganidae,Siganus,argenteus
+"DEH_12, 3",1,Monacanthidae,Aluterus,scriptus
+"DEH_13, 1",1,Ephippidae,Platax,batavianus
+"DEH_13, 1",1,Serranidae,Plectropomus,laevis
+"DEH_13, 1",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_13, 1",13,Pomacentridae,Pomacentrus,coelestis
+"DEH_13, 1",10,Caesionidae,Pterocaesio,marri
+"DEH_13, 1",30,Caesionidae,Pterocaesio,pisang
+"DEH_13, 1",1,Pomacentridae,Unknown,sp6
+"DEH_13, 1",1,Scaridae,Scarus,rubroviolaceus
+"DEH_13, 1",1,Scaridae,Unknown,sp5
+"DEH_13, 1",2,Carcharhinidae,Triaenodon,obesus
+"DEH_13, 1",1,Acanthuridae,Unknown,sp1
+"DEH_13, 1",1,Hydrophiidae,Unknown,sp1
+"DEH_13, 1",1,Labridae,Unknown,sp11
+"DEH_13, 1",1,Labridae,Unknown,sp12
+"DEH_13, 1",1,Labridae,Unknown,sp13
+"DEH_13, 1",1,Hydrophiidae,Unknown,sp2
+"DEH_13, 1",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_13, 1",1,Caesionidae,Pterocaesio,tile
+"DEH_10, 3",1,Acanthuridae,Naso,hexacanthus
+"DEH_12, 3",3,Carangidae,Carangoides,orthogrammus
+"DEH_10, 3",1,Carangidae,Caranx,lugubris
+"DEH_10, 3",2,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_10, 3",2,Echeneidae,Echeneis,naucrates
+"DEH_10, 3",7,Carangidae,Elagatis,bipinnulata
+"DEH_10, 3",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_10, 3",4,Lethrinidae,Lethrinus,amboinensis
+"DEH_10, 3",1,Balistidae,Balistoides,conspicillum
+"DEH_10, 3",4,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_10, 3",1,Lutjanidae,Aprion,virescens
+"DEH_10, 3",30,Acanthuridae,Naso,lopezi
+"DEH_10, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_10, 3",3,Mullidae,Parupeneus,cyclostomus
+"DEH_10, 3",1,Balistidae,Pseudobalistes,flavimarginatus
+"DEH_10, 3",1,Hydrophiidae,Unknown,sp5
+"DEH_12, 1",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_12, 1",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_10, 3",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_10, 2",1,Pomacentridae,Pomacentrus,moluccensis
+"DEH_10, 2",3,Lethrinidae,Lethrinus,ravus
+"DEH_10, 2",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_10, 2",1,Lutjanidae,Lutjanus,bohar
+"DEH_10, 2",3,Lutjanidae,Lutjanus,decussatus
+"DEH_10, 2",25,Acanthuridae,Naso,lopezi
+"DEH_10, 2",1,Mullidae,Parupeneus,barberinus
+"DEH_10, 2",1,Mullidae,Parupeneus,multifasciatus
+"DEH_10, 3",1,Carangidae,Carangoides,plagiotaenia
+"DEH_10, 2",1,Pomacentridae,Pomacentrus,bankanensis
+"DEH_12, 1",1,Carangidae,Carangoides,orthogrammus
+"DEH_10, 2",2,Serranidae,Pseudanthias,lori
+"DEH_10, 2",3,Nemipteridae,Scolopsis,xenochrous
+"DEH_10, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_10, 2",1,Scaridae,Unknown,sp14
+"DEH_10, 2",1,Mullidae,Unknown,sp2
+"DEH_10, 2",1,Serranidae,Variola,albimarginata
+"DEH_10, 2",3,Zanclidae,Zanclus,cornutus
+"DEH_10, 2",2,Pomacanthidae,Pomacanthus,imperator
+"DEH_12, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_12, 1",1,Hydrophiidae,Unknown,sp
+"DEH_12, 2",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_12, 2",1,Lutjanidae,Aprion,virescens
+"DEH_12, 2",1,Carangidae,Carangoides,orthogrammus
+"DEH_12, 2",1,Carangidae,Caranx,melampygus
+"DEH_12, 2",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_12, 2",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_12, 1",1,Balistidae,Balistoides,conspicillum
+"DEH_12, 2",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_12, 1",1,Nemipteridae,Scolopsis,xenochrous
+"DEH_12, 2",6,Lethrinidae,Lethrinus,ravus
+"DEH_12, 2",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_12, 2",2,Mullidae,Parupeneus,barberinus
+"DEH_12, 2",1,Mullidae,Parupeneus,cyclostomus
+"DEH_12, 2",1,Balistidae,Pseudobalistes,fuscus
+"DEH_12, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_12, 2",1,Hydrophiidae,Unknown,sp
+"DEH_12, 2",2,Scombridae,Gymnosarda,unicolor
+"DEH_12, 1",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_13, 2",2,Acanthuridae,Naso,vlamingii
+"DEH_12, 1",1,Carangidae,Caranx,lugubris
+"DEH_12, 1",1,Carangidae,Caranx,melampygus
+"DEH_12, 1",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_12, 1",1,Labridae,Cirrhilabrus,sp
+"DEH_12, 1",1,Echeneidae,Echeneis,naucrates
+"DEH_12, 1",1,Muraenidae,Echidna,nebulosa
+"DEH_12, 1",1,Balistidae,Sufflamen,fraenatum
+"DEH_12, 1",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_12, 1",1,Sphyrnidae,Sphyrna,mokarran
+"DEH_12, 1",9,Lethrinidae,Lethrinus,ravus
+"DEH_12, 1",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_12, 1",2,Acanthuridae,Naso,hexacanthus
+"DEH_12, 1",1,Acanthuridae,Naso,vlamingii
+"DEH_12, 1",1,Mullidae,Parupeneus,barberinus
+"DEH_12, 1",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_12, 1",1,Balistidae,Pseudobalistes,fuscus
+"DEH_12, 1",1,Balistidae,Balistoides,viridescens
+"DEH_12, 1",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_7, 1",1,Mullidae,Parupeneus,heptacanthus
+"DEH_7, 2",5,Carangidae,Carangoides,plagiotaenia
+"DEH_7, 1",6,Acanthuridae,Acanthurus,auranticavus
+"DEH_7, 1",1,Lutjanidae,Aprion,virescens
+"DEH_7, 1",3,Carangidae,Carangoides,orthogrammus
+"DEH_7, 1",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_7, 1",1,Scombridae,Gymnosarda,unicolor
+"DEH_7, 1",3,Lethrinidae,Lethrinus,olivaceus
+"DEH_6, 3",1,Ephippidae,Platax,orbicularis
+"DEH_7, 1",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_6, 3",12,Acanthuridae,Naso,hexacanthus
+"DEH_7, 1",1,Ephippidae,Platax,orbicularis
+"DEH_7, 2",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_7, 2",3,Acanthuridae,Acanthurus,pyroferus
+"DEH_7, 2",2,Serranidae,Aethaloperca,rogaa
+"DEH_7, 2",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_7, 2",1,Balistidae,Balistoides,viridescens
+"DEH_3, 1",1,Mullidae,Parupeneus,multifasciatus
+"DEH_7, 1",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_6, 3",2,Carangidae,Carangoides,orthogrammus
+"DEH_6, 2",1,Carangidae,Carangoides,orthogrammus
+"DEH_6, 2",1,Carangidae,Caranx,lugubris
+"DEH_6, 2",1,Carangidae,Caranx,melampygus
+"DEH_6, 2",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_6, 2",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_6, 2",1,Scaridae,Unknown,sp8
+"DEH_6, 2",2,Scaridae,Unknown,sp9
+"DEH_6, 3",1,Hydrophiidae,Unknown,sp
+"DEH_6, 3",1,Carangidae,Carangoides,caeruleopinnatus
+"DEH_7, 2",1,Pomacanthidae,Centropyge,tibicen
+"DEH_6, 3",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_6, 3",2,Labridae,Cirrhilabrus,sp
+"DEH_6, 3",60,Carangidae,Elagatis,bipinnulata
+"DEH_6, 3",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_6, 3",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_6, 3",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_6, 3",1,Lutjanidae,Lutjanus,bohar
+"DEH_6, 3",1,Lutjanidae,Aphareus,rutilans
+"DEH_7, 2",1,Sphyrnidae,Sphyrna,lewini
+"DEH_7, 2",1,Labridae,Bodianus,axillaris
+"DEH_7, 2",1,Mullidae,Parupeneus,barberinus
+"DEH_7, 2",1,Mullidae,Parupeneus,heptacanthus
+"DEH_7, 2",2,Mullidae,Parupeneus,multifasciatus
+"DEH_7, 2",1,Nemipteridae,Pentapodus,emeryii
+"DEH_7, 2",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_7, 2",1,Pomacentridae,Pomacentrus,moluccensis
+"DEH_7, 2",2,Acanthuridae,Naso,caesius
+"DEH_7, 2",2,Nemipteridae,Scolopsis,xenochrous
+"DEH_7, 2",50,Lutjanidae,Lutjanus,vitta
+"DEH_7, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_7, 2",1,Holocentridae,Unknown,sp1
+"DEH_7, 2",1,Hydrophiidae,Unknown,sp6
+"DEH_7, 2",2,Serranidae,Variola,albimarginata
+"DEH_7, 2",3,Zanclidae,Zanclus,cornutus
+"DEH_7, 3",1,Lutjanidae,Aprion,virescens
+"DEH_7, 3",1,Carangidae,Carangoides,caeruleopinnatus
+"DEH_7, 2",1,Pomacanthidae,Pygoplites,diacanthus
+"DEH_7, 2",3,Pomacanthidae,Genicanthus,melanospilos
+"DEH_7, 2",1,Serranidae,Cephalopholis,formosa
+"DEH_7, 2",1,Serranidae,Cephalopholis,leopardus
+"DEH_7, 2",2,Chaetodontidae,Chaetodon,auriga
+"DEH_7, 2",1,Chaetodontidae,Chaetodon,lineolatus
+"DEH_7, 2",1,Pomacentridae,Chromis,weberi
+"DEH_7, 2",1,Pomacentridae,Chrysiptera,rollandi
+"DEH_7, 2",2,Chaetodontidae,Coradion,altivelis
+"DEH_7, 2",2,Acanthuridae,Naso,vlamingii
+"DEH_7, 2",2,Pomacanthidae,Genicanthus,lamarck
+"DEH_6, 2",1,Myliobatidae,Aetobatus,ocellatus
+"DEH_7, 2",1,Carangidae,Gnathanodon,speciosus
+"DEH_7, 2",1,Labridae,Halichoeres,marginatus
+"DEH_7, 2",1,Labridae,Labroides,dimidiatus
+"DEH_7, 2",1,Lethrinidae,Lethrinus,ravus
+"DEH_7, 2",4,Lutjanidae,Lutjanus,bohar
+"DEH_7, 2",3,Lutjanidae,Lutjanus,bohar
+"DEH_7, 2",1,Lutjanidae,Lutjanus,decussatus
+"DEH_7, 2",1,Chaetodontidae,Forcipiger,longirostris
+"DEH_5, 6",8,Lutjanidae,Lutjanus,vitta
+"DEH_6, 2",1,Balistidae,Balistoides,viridescens
+"DEH_5, 6",1,Pomacentridae,Dascyllus,trimaculatus
+"DEH_5, 6",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_5, 6",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_5, 6",3,Lethrinidae,Lethrinus,ravus
+"DEH_5, 6",1,Lutjanidae,Lutjanus,decussatus
+"DEH_5, 6",1,Lutjanidae,Lutjanus,fulviflamma
+"DEH_5, 6",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_5, 6",5,Lutjanidae,Lutjanus,kasmira
+"DEH_5, 6",15,Caesionidae,Caesio,teres
+"DEH_5, 6",3,Pomacentridae,Neoglyphidodon,melas
+"DEH_5, 6",2,Nemipteridae,Pentapodus,emeryii
+"DEH_5, 6",1,Balistidae,Pseudobalistes,fuscus
+"DEH_5, 6",25,Caesionidae,Pterocaesio,marri
+"DEH_5, 6",1,Carangidae,Scomberoides,tol
+"DEH_5, 6",1,Pomacentridae,Stegastes,fasciolatus
+"DEH_5, 6",1,Lutjanidae,Symphorus,nematophorus
+"DEH_5, 6",4,Lutjanidae,Lutjanus,gibbus
+"DEH_5, 5",1,Hydrophiidae,Unknown,sp14
+"DEH_5, 5",2,Pomacanthidae,Pygoplites,diacanthus
+"DEH_5, 5",3,Scaridae,Scarus,flavipectoralis
+"DEH_5, 5",1,Nemipteridae,Scolopsis,bilineata
+"DEH_5, 5",2,Siganidae,Siganus,corallinus
+"DEH_5, 5",1,Siganidae,Siganus,virgatus
+"DEH_5, 5",1,Balistidae,Sufflamen,chrysopterum
+"DEH_5, 5",2,Labridae,Thalassoma,lunare
+"DEH_5, 6",2,Pomacentridae,Chromis,opercularis
+"DEH_5, 5",1,Pomacentridae,Unknown,sp12
+"DEH_5, 6",3,Carangidae,Unknown,sp4
+"DEH_5, 5",1,Scaridae,Unknown,sp23
+"DEH_5, 5",1,Serranidae,Variola,albimarginata
+"DEH_5, 5",4,Zanclidae,Zanclus,cornutus
+"DEH_5, 6",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_5, 6",1,Pomacentridae,Amblyglyphidodon,aureus
+"DEH_5, 6",5,Lutjanidae,Aprion,virescens
+"DEH_5, 6",1,Labridae,Bodianus,axillaris
+"DEH_5, 5",3,Pomacentridae,Unknown,sp11
+"DEH_6, 1",2,Pomacanthidae,Pomacanthus,sexstriatus
+"DEH_6, 1",1,Malacanthidae,Malacanthus,latovittatus
+"DEH_6, 1",2,Acanthuridae,Naso,annulatus
+"DEH_6, 1",6,Acanthuridae,Naso,hexacanthus
+"DEH_6, 1",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_6, 1",2,Mullidae,Parupeneus,barberinus
+"DEH_6, 1",3,Mullidae,Parupeneus,multifasciatus
+"DEH_6, 1",4,Nemipteridae,Pentapodus,emeryii
+"DEH_5, 6",1,Labridae,Thalassoma,lunare
+"DEH_6, 1",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_6, 1",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_6, 1",1,Nemipteridae,Scolopsis,xenochrous
+"DEH_6, 1",2,Siganidae,Siganus,argenteus
+"DEH_6, 1",2,Balistidae,Sufflamen,fraenatum
+"DEH_6, 1",1,Carcharhinidae,Triaenodon,obesus
+"DEH_6, 1",2,Serranidae,Variola,albimarginata
+"DEH_6, 1",3,Zanclidae,Zanclus,cornutus
+"DEH_7, 3",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_6, 1",1,Ephippidae,Platax,batavianus
+"DEH_6, 1",1,Pomacentridae,Chrysiptera,rollandi
+"DEH_6, 2",1,Lutjanidae,Aprion,virescens
+"DEH_6, 1",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_6, 1",3,Acanthuridae,Acanthurus,olivaceus
+"DEH_6, 1",2,Acanthuridae,Acanthurus,pyroferus
+"DEH_6, 1",5,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_6, 1",1,Lutjanidae,Aprion,virescens
+"DEH_6, 1",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_6, 1",1,Lutjanidae,Macolor,niger
+"DEH_6, 1",1,Scaridae,Chlorurus,sordidus
+"DEH_6, 1",1,Lutjanidae,Lutjanus,bohar
+"DEH_6, 1",3,Chaetodontidae,Coradion,altivelis
+"DEH_6, 1",2,Chaetodontidae,Forcipiger,longirostris
+"DEH_6, 1",1,Pomacanthidae,Genicanthus,lamarck
+"DEH_6, 1",1,Carangidae,Gnathanodon,speciosus
+"DEH_6, 1",1,Labridae,Halichoeres,marginatus
+"DEH_6, 1",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_6, 1",11,Lethrinidae,Lethrinus,ravus
+"DEH_5, 6",1,Scombridae,Unknown,sp1
+"DEH_6, 1",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_8, 6",2,Chaetodontidae,Chaetodon,auriga
+"DEH_8, 4",4,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 5",1,Sepiidae,Unknown,sp1
+"DEH_8, 5",1,Hydrophiidae,Unknown,sp10
+"DEH_8, 5",1,Labridae,Unknown,sp19
+"DEH_8, 5",2,Mullidae,Upeneus,tragula
+"DEH_8, 6",2,Balistidae,Abalistes,stellatus
+"DEH_8, 6",1,Lutjanidae,Aprion,virescens
+"DEH_8, 5",2,Microdesmidae,Ptereleotris,hanae
+"DEH_8, 6",5,Caesionidae,Caesio,teres
+"DEH_8, 5",4,Serranidae,Pseudanthias,sp6
+"DEH_8, 6",1,Labridae,Coris,pictoides
+"DEH_8, 6",1,Echeneidae,Echeneis,naucrates
+"DEH_8, 6",2,Serranidae,Epinephelus,maculatus
+"DEH_8, 6",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_8, 6",16,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 6",13,Lutjanidae,Lutjanus,gibbus
+"DEH_8, 6",1,Balistidae,Melichthys,vidua
+"DEH_8, 6",2,Balistidae,Balistoides,viridescens
+"DEH_8, 5",1,Monacanthidae,Eubalichthys,caeruleoguttatus
+"DEH_7, 3",1,Lethrinidae,Gymnocranius,euanus
+"DEH_8, 4",3,Nemipteridae,Pentapodus,vitta
+"DEH_8, 4",2,Microdesmidae,Ptereleotris,hanae
+"DEH_8, 4",1,Rhinidae,Rhynchobatus,djiddensis
+"DEH_8, 4",1,Hydrophiidae,Unknown,sp
+"DEH_8, 4",1,Hydrophiidae,Unknown,sp9
+"DEH_8, 5",2,Balistidae,Abalistes,stellatus
+"DEH_8, 5",1,Rhinidae,Rhynchobatus,djiddensis
+"DEH_8, 5",5,Labridae,Coris,caudimacula
+"DEH_8, 6",1,Scaridae,Scarus,forsteni
+"DEH_8, 5",1,Triakidae,Hemitriakis,falcata
+"DEH_8, 5",2,Labridae,Labroides,dimidiatus
+"DEH_8, 5",1,Tetraodontidae,Lagocephalus,sceleratus
+"DEH_8, 5",10,Labridae,Leptojulis,cyanopleura
+"DEH_8, 5",5,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 5",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_8, 5",1,Dasyatidae,Pastinachus,ater
+"DEH_8, 5",1,Pomacentridae,Chrysiptera,tricincta
+"DEH_9, 3",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_9, 2",1,Mullidae,Parupeneus,barberinus
+"DEH_9, 2",6,Serranidae,Pseudanthias,sp
+"DEH_9, 2",1,Balistidae,Sufflamen,fraenatum
+"DEH_9, 2",1,Serranidae,Unknown,sp2
+"DEH_9, 3",1,Balistidae,Abalistes,stellatus
+"DEH_9, 3",2,Acanthuridae,Acanthurus,dussumieri
+"DEH_9, 3",1,Lutjanidae,Aprion,virescens
+"DEH_8, 6",1,Dasyatidae,Neotrygon,australiae
+"DEH_9, 3",1,Carangidae,Carangoides,orthogrammus
+"DEH_9, 2",6,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_9, 3",1,Labridae,Iniistius,pavo
+"DEH_9, 3",3,Lethrinidae,Lethrinus,amboinensis
+"DEH_9, 3",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_9, 3",2,Malacanthidae,Malacanthus,latovittatus
+"DEH_9, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_9, 3",1,Sphyrnidae,Sphyrna,mokarran
+"DEH_9, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_9, 3",1,Carangidae,Carangoides,ferdau
+"DEH_9, 2",20,Labridae,Cirrhilabrus,sp
+"DEH_8, 4",1,Ostraciidae,Lactoria,cornuta
+"DEH_8, 6",2,Nemipteridae,Scolopsis,xenochrous
+"DEH_8, 6",1,Balistidae,Sufflamen,fraenatum
+"DEH_8, 6",1,Lutjanidae,Symphorus,nematophorus
+"DEH_8, 6",1,Dasyatidae,Taeniurops,meyeni
+"DEH_8, 6",1,Carcharhinidae,Triaenodon,obesus
+"DEH_8, 6",2,Hydrophiidae,Unknown,sp
+"DEH_9, 2",1,Balistidae,Odonus,niger
+"DEH_9, 2",1,Carangidae,Carangoides,orthogrammus
+"DEH_9, 2",2,Malacanthidae,Malacanthus,latovittatus
+"DEH_9, 2",2,Labridae,Coris,aurilineata
+"DEH_9, 2",5,Labridae,Coris,pictoides
+"DEH_9, 2",1,Serranidae,Epinephelus,maculatus
+"DEH_9, 2",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_9, 2",1,Labridae,Labroides,dimidiatus
+"DEH_9, 2",1,Ostraciidae,Lactoria,diaphana
+"DEH_9, 2",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_8, 6",1,Rhinidae,Rhynchobatus,djiddensis
+"DEH_9, 2",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_7, 5",1,Nemipteridae,Pentapodus,emeryii
+"DEH_8, 4",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_7, 5",1,Lethrinidae,Lethrinus,nebulosus
+"DEH_7, 5",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_7, 5",2,Lethrinidae,Lethrinus,ravus
+"DEH_7, 5",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_7, 5",1,Dasyatidae,Neotrygon,australiae
+"DEH_7, 5",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_7, 5",3,Labridae,Labroides,dimidiatus
+"DEH_7, 5",4,Mullidae,Parupeneus,pleurostigma
+"DEH_7, 5",1,Chaetodontidae,Coradion,altivelis
+"DEH_7, 5",12,Carangidae,Unknown,sp1
+"DEH_8, 1",1,Balistidae,Abalistes,stellatus
+"DEH_8, 1",1,Labridae,Coris,caudimacula
+"DEH_8, 1",9,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 1",20,Lethrinidae,Lethrinus,semicinctus
+"DEH_8, 1",1,Mobulidae,Manta,birostris
+"DEH_8, 1",4,Mullidae,Parupeneus,barberinoides
+"DEH_7, 5",2,Mullidae,Parupeneus,barberinus
+"DEH_7, 4",2,Carcharhinidae,Triaenodon,obesus
+"DEH_5, 5",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_7, 3",15,Nemipteridae,Pentapodus,vitta
+"DEH_7, 3",8,Lethrinidae,Unknown,sp2
+"DEH_7, 4",1,Lutjanidae,Aprion,virescens
+"DEH_7, 4",1,Balistidae,Balistoides,viridescens
+"DEH_7, 4",1,Echeneidae,Echeneis,naucrates
+"DEH_7, 4",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_7, 5",2,Lethrinidae,Lethrinus,amboinensis
+"DEH_7, 4",2,Mullidae,Parupeneus,heptacanthus
+"DEH_8, 1",8,Nemipteridae,Pentapodus,vitta
+"DEH_7, 4",1,Acanthuridae,Unknown,sp3
+"DEH_7, 5",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_7, 5",1,Lutjanidae,Aprion,virescens
+"DEH_7, 5",1,Carangidae,Carangoides,ferdau
+"DEH_7, 5",1,Carangidae,Carangoides,gymnostethus
+"DEH_7, 5",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_7, 5",1,Chaetodontidae,Chaetodon,lunula
+"DEH_7, 4",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 3",7,Nemipteridae,Scolopsis,xenochrous
+"DEH_8, 3",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_8, 3",17,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 3",15,Lethrinidae,Lethrinus,semicinctus
+"DEH_8, 3",1,Acanthuridae,Naso,caesius
+"DEH_8, 3",1,Mullidae,Parupeneus,barberinoides
+"DEH_8, 3",2,Mullidae,Parupeneus,multifasciatus
+"DEH_8, 3",25,Nemipteridae,Pentapodus,aureofasciatus
+"DEH_8, 1",9,Mullidae,Parupeneus,multifasciatus
+"DEH_8, 3",2,Pomacanthidae,Pomacanthus,imperator
+"DEH_8, 3",1,Chaetodontidae,Coradion,altivelis
+"DEH_8, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_8, 3",1,Muraenidae,Unknown,sp4
+"DEH_8, 3",2,Serranidae,Variola,albimarginata
+"DEH_8, 4",2,Balistidae,Abalistes,stellatus
+"DEH_8, 4",5,Carangidae,Carangoides,gymnostethus
+"DEH_8, 4",1,Echeneidae,Echeneis,naucrates
+"DEH_8, 4",2,Labridae,Labroides,dimidiatus
+"DEH_8, 3",1,Nemipteridae,Pentapodus,emeryii
+"DEH_8, 2",1,Rachycentridae,Rachycentron,canadum
+"DEH_7, 3",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_8, 1",5,Nemipteridae,Scolopsis,xenochrous
+"DEH_8, 1",1,Muraenidae,Unknown,sp4
+"DEH_8, 2",1,Balistidae,Abalistes,stellatus
+"DEH_8, 2",2,Labridae,Coris,pictoides
+"DEH_8, 2",1,Labridae,Iniistius,pavo
+"DEH_8, 2",8,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_8, 3",1,Labridae,Labroides,dimidiatus
+"DEH_8, 2",6,Nemipteridae,Pentapodus,vitta
+"DEH_8, 3",1,Hemigaleidae,Hemipristis,elongata
+"DEH_8, 2",1,Rhinidae,Rhynchobatus,djiddensis
+"DEH_8, 2",2,Lethrinidae,Unknown,sp3
+"DEH_8, 3",1,Balistidae,Abalistes,stellatus
+"DEH_8, 3",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_8, 3",2,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_8, 3",2,Carangidae,Carangoides,caeruleopinnatus
+"DEH_8, 3",1,Chaetodontidae,Chaetodon,kleinii
+"DEH_8, 1",3,Nemipteridae,Pentapodus,emeryii
+"DEH_8, 2",3,Mullidae,Parupeneus,barberinoides
+"DEH_3, 4",1,Scaridae,Unknown,sp18
+"DEH_3, 4",1,Echeneidae,Echeneis,naucrates
+"DEH_3, 4",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_3, 4",1,Pomacanthidae,Pomacanthus,semicirculatus
+"DEH_3, 4",15,Pomacentridae,Pomacentrus,bankanensis
+"DEH_3, 4",7,Pomacentridae,Pomacentrus,coelestis
+"DEH_3, 4",1,Nemipteridae,Scolopsis,xenochrous
+"DEH_3, 4",2,Siganidae,Siganus,punctatus
+"DEH_3, 4",3,Mullidae,Parupeneus,multifasciatus
+"DEH_3, 4",1,Carcharhinidae,Triaenodon,obesus
+"DEH_3, 4",1,Balistidae,Odonus,niger
+"DEH_3, 4",1,Serranidae,Variola,albimarginata
+"DEH_3, 4",2,Zanclidae,Zanclus,cornutus
+"DEH_3, 4",2,Acanthuridae,Zebrasoma,scopas
+"DEH_3, 6",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 6",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_3, 6",2,Chaetodontidae,Chaetodon,auriga
+"DEH_3, 6",1,Echeneidae,Echeneis,naucrates
+"DEH_3, 4",1,Balistidae,Sufflamen,chrysopterum
+"DEH_3, 4",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 3",8,Acanthuridae,Acanthurus,dussumieri
+"DEH_3, 4",1,Labridae,Gomphosus,varius
+"DEH_3, 4",1,Labridae,Halichoeres,hortulanus
+"DEH_3, 4",1,Labridae,Halichoeres,marginatus
+"DEH_3, 4",1,Labridae,Halichoeres,melanochir
+"DEH_3, 4",1,Labridae,Hemigymnus,melapterus
+"DEH_3, 4",1,Labridae,Hologymnosus,doliatus
+"DEH_3, 4",1,Nemipteridae,Pentapodus,emeryii
+"DEH_3, 4",1,Lethrinidae,Lethrinus,atkinsoni
+"DEH_3, 6",3,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_3, 4",1,Lutjanidae,Lutjanus,bohar
+"DEH_3, 4",1,Lutjanidae,Lutjanus,decussatus
+"DEH_3, 4",1,Lutjanidae,Lutjanus,semicinctus
+"DEH_3, 4",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_3, 4",2,Acanthuridae,Naso,caesius
+"DEH_3, 4",2,Acanthuridae,Naso,lituratus
+"DEH_3, 4",1,Dasyatidae,Neotrygon,australiae
+"DEH_3, 4",2,Labridae,Labroides,dimidiatus
+"DEH_4, 2",1,Lethrinidae,Lethrinus,nebulosus
+"DEH_4, 1",1,Tetraodontidae,Unknown,sp4
+"DEH_4, 2",1,Lutjanidae,Aprion,virescens
+"DEH_4, 2",1,Carangidae,Carangoides,ferdau
+"DEH_4, 2",1,Carangidae,Carangoides,orthogrammus
+"DEH_4, 2",3,Carangidae,Caranx,melampygus
+"DEH_4, 2",4,Labridae,Cirrhilabrus,sp
+"DEH_4, 2",1,Fistulariidae,Fistularia,sp
+"DEH_3, 6",1,Labridae,Hologymnosus,doliatus
+"DEH_4, 2",1,Lethrinidae,Lethrinus,amboinensis
+"DEH_4, 1",1,Lutjanidae,Aprion,virescens
+"DEH_4, 2",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 2",1,Mullidae,Parupeneus,barberinus
+"DEH_4, 2",1,Mullidae,Parupeneus,cyclostomus
+"DEH_4, 2",1,Pomacentridae,Pomacentrus,coelestis
+"DEH_4, 2",1,Balistidae,Pseudobalistes,fuscus
+"DEH_4, 2",1,Siganidae,Siganus,punctatus
+"DEH_5, 5",20,Caesionidae,Pterocaesio,marri
+"DEH_4, 2",2,Lethrinidae,Gymnocranius,grandoculis
+"DEH_3, 6",2,Pomacentridae,Pomacentrus,coelestis
+"DEH_3, 4",4,Labridae,Cirrhilabrus,exquisitus
+"DEH_3, 6",2,Lutjanidae,Lutjanus,gibbus
+"DEH_3, 6",3,Malacanthidae,Malacanthus,brevirostris
+"DEH_3, 6",1,Malacanthidae,Malacanthus,latovittatus
+"DEH_3, 6",1,Dasyatidae,Neotrygon,australiae
+"DEH_3, 6",1,Mullidae,Parupeneus,barberinus
+"DEH_3, 6",1,Mullidae,Parupeneus,multifasciatus
+"DEH_4, 1",2,Pomacentridae,Unknown,sp10
+"DEH_3, 6",1,Nemipteridae,Pentapodus,emeryii
+"DEH_4, 1",4,Carangidae,Carangoides,ferdau
+"DEH_3, 6",1,Scaridae,Scarus,oviceps
+"DEH_3, 6",2,Balistidae,Sufflamen,chrysopterum
+"DEH_3, 6",1,Balistidae,Sufflamen,fraenatum
+"DEH_3, 6",1,Carcharhinidae,Triaenodon,obesus
+"DEH_3, 6",1,Chelonidae,Unknown,sp1
+"DEH_3, 6",1,Hydrophiidae,Unknown,sp11
+"DEH_3, 6",4,Labridae,Unknown,sp11
+"DEH_3, 6",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_3, 6",1,Mullidae,Parupeneus,pleurostigma
+"DEH_3, 3",2,Chaetodontidae,Chaetodon,auriga
+"DEH_3, 4",2,Chaetodontidae,Forcipiger,longirostris
+"DEH_3, 2",2,Balistidae,Sufflamen,fraenatum
+"DEH_3, 2",1,Carcharhinidae,Triaenodon,obesus
+"DEH_3, 3",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_3, 3",3,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 3",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_3, 3",1,Lutjanidae,Aprion,virescens
+"DEH_3, 2",1,Balistidae,Pseudobalistes,flavimarginatus
+"DEH_3, 3",2,Carangidae,Caranx,melampygus
+"DEH_3, 2",3,Mullidae,Parupeneus,multifasciatus
+"DEH_3, 3",1,Labridae,Cheilinus,chlorourus
+"DEH_3, 3",1,Labridae,Cheilinus,trilobatus
+"DEH_3, 3",3,Labridae,Cirrhilabrus,sp
+"DEH_3, 3",1,Labridae,Coris,aurilineata
+"DEH_3, 3",1,Echeneidae,Echeneis,naucrates
+"DEH_3, 3",1,Labridae,Hologymnosus,doliatus
+"DEH_3, 3",2,Labridae,Labroides,dimidiatus
+"DEH_3, 3",5,Caesionidae,Caesio,teres
+"DEH_3, 2",3,Labridae,Coris,aurilineata
+"DEH_3, 1",2,Siganidae,Siganus,argenteus
+"DEH_3, 1",2,Balistidae,Sufflamen,fraenatum
+"DEH_3, 1",2,Serranidae,Variola,albimarginata
+"DEH_3, 2",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 2",3,Lutjanidae,Aphareus,rutilans
+"DEH_3, 2",3,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_3, 2",1,Lutjanidae,Aprion,virescens
+"DEH_3, 2",2,Siganidae,Siganus,argenteus
+"DEH_3, 2",2,Chaetodontidae,Chaetodon,ephippium
+"DEH_3, 3",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_3, 2",2,Labridae,Coris,pictoides
+"DEH_3, 2",1,Fistulariidae,Fistularia,sp
+"DEH_3, 2",2,Labridae,Hologymnosus,doliatus
+"DEH_3, 2",4,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_3, 2",2,Malacanthidae,Malacanthus,brevirostris
+"DEH_3, 2",1,Dasyatidae,Neotrygon,australiae
+"DEH_3, 2",1,Balistidae,Odonus,niger
+"DEH_3, 2",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,lunula
+"DEH_3, 4",2,Acanthuridae,Acanthurus,thompsoni
+"DEH_3, 4",1,Pomacanthidae,Apolemichthys,trimaculatus
+"DEH_3, 4",1,Tetraodontidae,Arothron,sp
+"DEH_3, 4",2,Pomacanthidae,Centropyge,bicolor
+"DEH_3, 4",2,Pomacanthidae,Centropyge,tibicen
+"DEH_3, 4",2,Serranidae,Cephalopholis,urodeta
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,ephippium
+"DEH_3, 3",4,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_3, 4",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,punctatofasciatus
+"DEH_3, 4",1,Chaetodontidae,Chaetodon,trifascialis
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,ulietensis
+"DEH_3, 4",1,Labridae,Cheilinus,chlorourus
+"DEH_3, 4",2,Scaridae,Chlorurus,sordidus
+"DEH_3, 4",1,Labridae,Choerodon,jordani
+"DEH_3, 4",50,Pomacentridae,Chromis,amboinensis
+"DEH_3, 4",2,Chaetodontidae,Chaetodon,kleinii
+"DEH_3, 3",2,Siganidae,Siganus,argenteus
+"DEH_4, 3",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_3, 3",3,Balistidae,Melichthys,vidua
+"DEH_3, 3",1,Mullidae,Parupeneus,barberinus
+"DEH_3, 3",2,Mullidae,Parupeneus,multifasciatus
+"DEH_3, 3",2,Pomacanthidae,Pomacanthus,sexstriatus
+"DEH_3, 3",2,Pomacentridae,Pomacentrus,coelestis
+"DEH_3, 3",1,Scaridae,Scarus,oviceps
+"DEH_3, 4",3,Acanthuridae,Acanthurus,pyroferus
+"DEH_3, 3",2,Nemipteridae,Scolopsis,xenochrous
+"DEH_3, 4",1,Acanthuridae,Acanthurus,nigros
+"DEH_3, 3",1,Balistidae,Sufflamen,chrysopterum
+"DEH_3, 3",1,Balistidae,Sufflamen,fraenatum
+"DEH_3, 3",1,Carcharhinidae,Triaenodon,obesus
+"DEH_3, 3",1,Hydrophiidae,Unknown,sp
+"DEH_3, 3",1,Gobiidae,Unknown,sp1
+"DEH_3, 3",1,Serranidae,Variola,albimarginata
+"DEH_3, 3",2,Zanclidae,Zanclus,cornutus
+"DEH_3, 3",1,Lutjanidae,Lutjanus,decussatus
+"DEH_3, 3",1,Scaridae,Scarus,rubroviolaceus
+"DEH_5, 2",1,Lethrinidae,Lethrinus,ravus
+"DEH_4, 5",2,Scombridae,Gymnosarda,unicolor
+"DEH_5, 1",1,Mullidae,Parupeneus,cyclostomus
+"DEH_5, 1",1,Serranidae,Plectropomus,sp1
+"DEH_5, 1",1,Hydrophiidae,Unknown,sp
+"DEH_5, 1",1,Gobiidae,Unknown,sp3
+"DEH_5, 2",3,Acanthuridae,Acanthurus,dussumieri
+"DEH_5, 2",1,Lutjanidae,Aprion,virescens
+"DEH_5, 1",7,Lethrinidae,Gymnocranius,grandoculis
+"DEH_5, 2",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_5, 1",1,Lutjanidae,Aprion,virescens
+"DEH_5, 2",9,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_5, 2",2,Acanthuridae,Naso,annulatus
+"DEH_5, 2",6,Mullidae,Parupeneus,heptacanthus
+"DEH_5, 2",1,Dasyatidae,Pastinachus,ater
+"DEH_5, 2",1,Nemipteridae,Pentapodus,emeryii
+"DEH_5, 2",1,Balistidae,Pseudobalistes,fuscus
+"DEH_5, 2",1,Carcharhinidae,Triaenodon,obesus
+"DEH_5, 2",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_4, 5",1,Tetraodontidae,Unknown,sp5
+"DEH_4, 3",3,Acanthuridae,Acanthurus,auranticavus
+"DEH_4, 5",7,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 5",3,Lutjanidae,Lutjanus,bohar
+"DEH_4, 5",1,Acanthuridae,Naso,annulatus
+"DEH_4, 5",1,Nemipteridae,Pentapodus,emeryii
+"DEH_4, 5",1,Ephippidae,Platax,batavianus
+"DEH_4, 5",3,Nemipteridae,Scolopsis,xenochrous
+"DEH_5, 1",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 5",2,Carcharhinidae,Triaenodon,obesus
+"DEH_5, 4",1,Dasyatidae,Taeniura,lymma
+"DEH_4, 6",3,Carangidae,Carangoides,ferdau
+"DEH_4, 6",30,Carangidae,Carangoides,orthogrammus
+"DEH_4, 6",1,Carangidae,Carangoides,plagiotaenia
+"DEH_4, 6",3,Labridae,Cheilio,inermis
+"DEH_4, 6",1,Lethrinidae,Lethrinus,ravus
+"DEH_4, 6",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 6",12,Carangidae,Unknown,sp5
+"DEH_4, 5",2,Balistidae,Sufflamen,fraenatum
+"DEH_5, 5",1,Lutjanidae,Lutjanus,gibbus
+"DEH_5, 5",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_5, 5",1,Labridae,Hemigymnus,melapterus
+"DEH_5, 5",2,Lethrinidae,Lethrinus,obsoletus
+"DEH_5, 5",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_5, 5",1,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_5, 5",5,Lethrinidae,Lethrinus,semicinctus
+"DEH_5, 5",1,Lutjanidae,Lutjanus,bohar
+"DEH_5, 4",1,Balistidae,Abalistes,stellatus
+"DEH_5, 5",3,Lutjanidae,Lutjanus,decussatus
+"DEH_5, 5",1,Labridae,Coris,batuensis
+"DEH_5, 5",1,Lutjanidae,Macolor,niger
+"DEH_5, 5",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_5, 5",2,Mullidae,Parupeneus,barberinus
+"DEH_5, 5",1,Mullidae,Parupeneus,cyclostomus
+"DEH_5, 5",1,Mullidae,Parupeneus,multifasciatus
+"DEH_5, 5",3,Nemipteridae,Pentapodus,emeryii
+"DEH_9, 3",1,Acanthuridae,Unknown,sp2
+"DEH_5, 5",2,Lutjanidae,Lutjanus,bohar
+"DEH_5, 5",1,Serranidae,Cephalopholis,boenak
+"DEH_4, 5",6,Carangidae,Gnathanodon,speciosus
+"DEH_5, 4",1,Labridae,Unknown,sp22
+"DEH_5, 5",2,Acanthuridae,Acanthurus,auranticavus
+"DEH_5, 5",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_5, 5",2,Acanthuridae,Acanthurus,pyroferus
+"DEH_5, 5",1,Labridae,Bodianus,mesothorax
+"DEH_5, 5",22,Caesionidae,Caesio,teres
+"DEH_5, 5",1,Serranidae,Gracila,albomarginata
+"DEH_5, 5",1,Pomacanthidae,Centropyge,tibicen
+"DEH_5, 5",1,Acanthuridae,Ctenochaetus,striatus
+"DEH_5, 5",1,Serranidae,Cephalopholis,formosa
+"DEH_5, 5",2,Chaetodontidae,Chaetodon,lineolatus
+"DEH_5, 5",1,Chaetodontidae,Chaetodon,lunula
+"DEH_5, 5",2,Chaetodontidae,Chaetodon,ornatissimus
+"DEH_5, 5",1,Labridae,Cheilinus,chlorourus
+"DEH_5, 5",1,Pomacentridae,Chromis,amboinensis
+"DEH_5, 5",1,Chaetodontidae,Coradion,chrysozonus
+"DEH_5, 4",1,Lutjanidae,Aprion,virescens
+"DEH_5, 5",1,Pomacanthidae,Centropyge,bicolor
+"DEH_4, 4",10,Caesionidae,Caesio,caerulaurea
+"DEH_4, 5",2,Lethrinidae,Lethrinus,olivaceus
+"DEH_4, 3",2,Pomacanthidae,Pomacanthus,imperator
+"DEH_4, 3",15,Caesionidae,Pterocaesio,marri
+"DEH_4, 3",2,Siganidae,Siganus,punctatus
+"DEH_4, 3",2,Carcharhinidae,Triaenodon,obesus
+"DEH_4, 3",1,Scaridae,Unknown,sp19
+"DEH_4, 3",1,Labridae,Unknown,sp21
+"DEH_4, 3",3,Mullidae,Parupeneus,multifasciatus
+"DEH_4, 4",1,Acanthuridae,Acanthurus,olivaceus
+"DEH_4, 3",1,Pinguipedidae,Parapercis,nebulosa
+"DEH_4, 4",2,Caesionidae,Caesio,lunaris
+"DEH_4, 4",20,Caesionidae,Caesio,teres
+"DEH_4, 4",2,Carangidae,Caranx,ignobilis
+"DEH_4, 4",2,Carangidae,Caranx,melampygus
+"DEH_4, 4",1,Serranidae,Cephalopholis,argus
+"DEH_4, 4",1,Scaridae,Cetoscarus,ocellatus
+"DEH_4, 4",1,Pomacentridae,Chromis,amboinensis
+"DEH_4, 4",1,Acanthuridae,Acanthurus,auranticavus
+"DEH_4, 3",1,Lethrinidae,Lethrinus,olivaceus
+"DEH_4, 3",1,Lutjanidae,Aprion,virescens
+"DEH_4, 3",1,Balistidae,Balistoides,conspicillum
+"DEH_4, 3",3,Caesionidae,Caesio,teres
+"DEH_4, 3",3,Carangidae,Caranx,melampygus
+"DEH_4, 3",1,Chaetodontidae,Chaetodon,auriga
+"DEH_4, 3",1,Echeneidae,Echeneis,naucrates
+"DEH_4, 3",1,Serranidae,Epinephelus,fuscoguttatus
+"DEH_4, 3",2,Nemipteridae,Pentapodus,emeryii
+"DEH_4, 3",1,Lethrinidae,Lethrinus,nebulosus
+"DEH_4, 4",1,Lethrinidae,Gymnocranius,grandoculis
+"DEH_4, 3",2,Lethrinidae,Lethrinus,rubrioperculatus
+"DEH_4, 3",3,Lutjanidae,Lutjanus,bohar
+"DEH_4, 3",2,Lutjanidae,Lutjanus,decussatus
+"DEH_4, 3",15,Lutjanidae,Lutjanus,gibbus
+"DEH_4, 3",1,Lutjanidae,Macolor,niger
+"DEH_4, 3",1,Malacanthidae,Malacanthus,brevirostris
+"DEH_4, 3",1,Acanthuridae,Naso,annulatus
+"DEH_4, 3",1,Labridae,Labroides,dimidiatus
+"DEH_4, 5",1,Lutjanidae,Aprion,virescens
+"DEH_4, 4",3,Scaridae,Scarus,rubroviolaceus
+"DEH_4, 4",2,Siganidae,Siganus,punctatus
+"DEH_4, 4",2,Siganidae,Siganus,virgatus
+"DEH_4, 4",1,Balistidae,Sufflamen,fraenatum
+"DEH_4, 4",1,Carcharhinidae,Triaenodon,obesus
+"DEH_4, 4",1,Pomacentridae,Unknown,sp11
+"DEH_4, 4",1,Scaridae,Unknown,sp20
+"DEH_4, 4",2,Acanthuridae,Ctenochaetus,striatus
+"DEH_4, 5",1,Acanthuridae,Acanthurus,dussumieri
+"DEH_4, 4",2,Pomacanthidae,Pomacanthus,sexstriatus
+"DEH_4, 5",30,Carangidae,Carangoides,ferdau
+"DEH_4, 5",1,Carangidae,Carangoides,orthogrammus
+"DEH_4, 5",3,Carangidae,Carangoides,plagiotaenia
+"DEH_4, 5",1,Carcharhinidae,Carcharhinus,amblyrhynchos
+"DEH_4, 5",1,Chaetodontidae,Chaetodon,lineolatus
+"DEH_4, 5",10,Labridae,Coris,pictoides
+"DEH_4, 5",6,Fistulariidae,Fistularia,sp
+"DEH_4, 4",1,Serranidae,Variola,albimarginata
+"DEH_4, 4",3,Lutjanidae,Lutjanus,quinquelineatus
+"DEH_5, 5",2,Pomacanthidae,Pomacanthus,sexstriatus
+"DEH_4, 4",1,Scombridae,Gymnosarda,unicolor
+"DEH_4, 4",1,Labridae,Halichoeres,marginatus
+"DEH_4, 4",1,Chaetodontidae,Heniochus,acuminatus
+"DEH_4, 4",1,Lethrinidae,Lethrinus,atkinsoni
+"DEH_4, 4",1,Lethrinidae,Lethrinus,obsoletus
+"DEH_4, 4",4,Lutjanidae,Lutjanus,bohar
+"DEH_4, 4",1,Pomacanthidae,Pygoplites,diacanthus
+"DEH_4, 4",30,Lutjanidae,Lutjanus,gibbus
+"DEH_4, 4",1,Caesionidae,Pterocaesio,marri
+"DEH_4, 4",4,Lutjanidae,Macolor,niger
+"DEH_4, 4",1,Lethrinidae,Monotaxis,grandoculis
+"DEH_4, 4",16,Acanthuridae,Naso,annulatus
+"DEH_4, 4",1,Acanthuridae,Naso,lituratus
+"DEH_4, 4",2,Acanthuridae,Naso,vlamingii
+"DEH_4, 4",1,Nemipteridae,Pentapodus,emeryii
+"DEH_4, 4",1,Pomacanthidae,Pomacanthus,imperator
+"DEH_4, 4",2,Chaetodontidae,Forcipiger,longirostris
+"DEH_4, 4",4,Lutjanidae,Lutjanus,decussatus

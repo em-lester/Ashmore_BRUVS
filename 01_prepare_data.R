@@ -262,3 +262,23 @@ shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
   unique()%>%
   glimpse()
 
+## Add in MaxN for mesos 
+
+dir()
+
+MaxN <- read.csv("MaxN_04_16.csv")%>%
+  dplyr::rename(OP_CODE= OpCode)%>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
+  dplyr::select(OP_CODE, Scientific, MaxN)%>%
+  glimpse()
+
+maxn_shark_meso_meta_behaviour_size_dat <- shark_meso_meta_behaviour_size_dat %>%
+  inner_join(MaxN,shark_meso_meta_behaviour_size_dat, by=c("OP_CODE", "Scientific"))%>%
+  glimpse()
+
+
+
+
+# One last edit, change size class of sharks to "shark"
+
