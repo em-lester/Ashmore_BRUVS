@@ -48,46 +48,42 @@ rm(list=ls())
 library(FSSgam)
 
 # Bring in and format the data----
-name<-"TOA.R1"
 
-dat <-read.csv(paste(d.dir, paste("relative_influnce_predators_competitors_rawdata.csv", sep='.'), sep = '/'))
-colnames(dat)
+name<-"Ashmore_BRUVS_Arrival"
+dir()
 
-glimpse(dat)
+dt.dir
 
-summary(dat$gen.sp)
-
-dat <- dat %>%  
-  rename(response = timetofarrival)%>%
-  rename(reef.cover = biota.stony.corals)%>%
-  mutate(year=as.factor(year))%>%
-  mutate(gen.sp=as.factor(gen.sp))%>%
-  mutate(species=as.factor(species))%>%
-  mutate(sharkspecies=as.factor(sharkspecies))%>%
-  mutate(sharkgen.sp=as.factor(sharkgen.sp))%>%
-  mutate(mean.lat=as.factor(mean.lat))%>%
-  mutate(size_class_new=as.factor(size_class_new))%>%
-  mutate(shark.presence=as.factor(shark.presence))%>%
-  mutate(status=as.factor(status))%>%
-  mutate(sharkmaxn = replace_na(sharkmaxn, 0))%>%
-  filter(!sd.relief=="NA")%>%
-  filter(!size_class_new=="NA")%>%
-  filter(gen.sp %in% c("Lutjanus.sebae", "Aprion.virescens", "Lethrinus.olivaceus", "Lutjanus.bohar","Lethrinus.nebulosus","Symphorus.nematophorus",
-                       "Lethrinus.atkinsoni", "Lethrinus.punctulatus","Lethrinus.rubrioperculatus", "Lutjanus.carponotatus",
-                       "Lutjanus.vitta", "Lutjanus.quinquelineatus"))%>%
-  droplevels()%>%
+dat <-read.csv(paste(dt.dir, paste("Ashmore_04_06_tidy.csv", sep='.'), sep = '/'))%>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  dplyr::rename(Opcode = OP_CODE)%>%
+  dplyr::mutate(Year=as.factor(Year))%>%
+  dplyr::mutate(Scientific=as.factor(Scientific))%>%
+  dplyr::mutate(Habitat=as.factor(Habitat))%>%
+  dplyr::mutate(Complexity=as.factor(Complexity))%>%
+  dplyr::mutate(Gensp=as.factor(Gensp))%>%
+  dplyr::mutate(Size_class=as.factor(Size_class))%>%
+  dplyr::mutate(Shark_present=as.factor(Shark_present))%>%
+  filter(!Size_class=="NA")%>%
+  rename(response = TimeFirstSeen)%>%
+  dplyr::select(Opcode, Year, Family:response, Depth, Coral, Habitat, Complexity, Gensp, Length, Size_class, Shark_present, MaxN)%>%
+  unique()%>%
+  dplyr::group_by(Opcode)%>%
+  dplyr::mutate(SumMaxN = sum(MaxN))%>%
+  ungroup()%>%
   glimpse()
 
-summary(dat$gen.sp)
+summary(dat$Size_class)
+
 
 # Set predictor variables---
-pred.vars=c("sd.relief","dst2ramp","reef.cover","depth","sharkmaxn", "large", "small", "all.sum.maxn") 
+pred.vars=c("Depth","Coral","MaxN", "SumMaxN") 
 
 # Check for correlation of predictor variables- remove anything highly correlated (>0.95)---
 
 round(cor(dat[,pred.vars]),2)
 summary(dat$response)
-plot(dat$large)
+plot(dat$response)
 
 
 # Plot of likely transformations - thanks to Anna Cresswell for this loop!
@@ -105,32 +101,13 @@ for (i in pred.vars) {
 
 # Review of individual predictors - we have to make sure they have an even distribution---
 #If the data are squewed to low numbers try sqrt>log or if squewed to high numbers try ^2 of ^3
-# log transform distance to ramp, depth, maxn of large, medium, small
+# log transform MaxN, coral cover data is patchy, depth looks pretty good!
 
-# Review of individual predictors - we have to make sure they have an even distribution---
-#If the data are squewed to low numbers try sqrt>log or if squewed to high numbers try ^2 of ^3
-# log transform distance to ramp and gravity
 
-dat$log.depth <- log(dat$depth+1)
-dat$log.dst2ramp <- log(dat$dst2ramp+1)
-dat$sqrt.dst2ramp <- sqrt(dat$dst2ramp)
-dat$sqrt.depth <- sqrt(dat$depth)
-dat$log.large <- log(dat$large+1)
-#dat$log.medium <- log(dat$medium+1)
-dat$log.small <- log(dat$small+1)
-dat$log.all <- log(dat$all.sum.maxn+1)
+dat$log.MaxN<- log(dat$MaxN+1)
 
-summary(dat$log.depth)
-summary(dat$log.dst2ramp)
-summary(dat$sqrt.depth)
-summary(dat$response)
-summary(dat$log.large)
-#summary(dat$log.medium)
-summary(dat$log.small)
-summary(dat$log.all)
 
-plot(dat$response)
-
+summary(dat$log.MaxN)
 
 
 # # Re-set the predictors for modeling----
