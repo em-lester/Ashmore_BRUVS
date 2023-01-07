@@ -277,8 +277,11 @@ maxn_shark_meso_meta_behaviour_size_dat <- shark_meso_meta_behaviour_size_dat %>
   inner_join(MaxN,shark_meso_meta_behaviour_size_dat, by=c("OP_CODE", "Scientific"))%>%
   glimpse()
 
+## Write csv file in tidy data directory 
 
+setwd(dt.dir)
 
+write.csv(maxn_shark_meso_meta_behaviour_size_dat,"Ashmore_04_06_tidy.csv")
 
-# One last edit, change size class of sharks to "shark"
+# One last edit, change size class of sharks to "shark" oer perhaps just filter out before modelling??
 
