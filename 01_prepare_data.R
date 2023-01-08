@@ -1,4 +1,5 @@
-## prepare BRUV data for GAMM analysis ###
+## Script 1 ##
+## prepare BRUV data for GAMM analysis ##
 
 library(plyr)
 library(dplyr)
@@ -186,7 +187,7 @@ species_analysed <- read.csv("Ashmorebehaviour_zoe_analysis.csv")%>%
 
 summary(as.factor(species_analysed$Scientific))
 
-# To do: 
+# To do: ----
 # Add in size classes
 # Use fish base max length and size categories from Speed et al. (2020) 
 # Protection from illegal fishing and shark recovery restructures mesopredatory fish communities on a coral reef
@@ -194,7 +195,7 @@ summary(as.factor(species_analysed$Scientific))
 #install.packages("rfishbase")
 library("rfishbase")
 
-# Make a species list with families from meta_behaviour_dat df
+# Make a species list with families from meta_behaviour_dat df ----
 
 head(meta_behaviour_dat)
 
@@ -226,7 +227,7 @@ size_classes <- lengthdat %>%
 
 head(size_classes)
 
-# need to make new genus species list to match fishbase data
+# need to make new genus species list to match fishbase data ----
 
 meta_behaviour_data <- meta_behaviour_dat %>%
   dplyr::mutate(Gensp=paste(Genus,Species, sep=" "))%>%
@@ -252,7 +253,7 @@ meso_meta_behaviour_size_dat <- meta_behaviour_size_dat %>%
 
 summary(meso_meta_behaviour_size_dat$OP_CODE)
 
-## Add in Shark present column
+## Add in Shark present column ----
 
 shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
   dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
@@ -262,7 +263,9 @@ shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
   unique()%>%
   glimpse()
 
-## Add in MaxN for mesos 
+summary(shark_meso_meta_behaviour_size_dat$OP_CODE)
+
+## Add in MaxN for mesos -----
 
 dir()
 
@@ -270,11 +273,78 @@ MaxN <- read.csv("MaxN_04_16.csv")%>%
   dplyr::rename(OP_CODE= OpCode)%>%
   dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
   dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
+  dplyr::mutate(Scientific=as.factor(Scientific))%>%
   dplyr::select(OP_CODE, Scientific, MaxN)%>%
   glimpse()
 
 maxn_shark_meso_meta_behaviour_size_dat <- shark_meso_meta_behaviour_size_dat %>%
-  inner_join(MaxN,shark_meso_meta_behaviour_size_dat, by=c("OP_CODE", "Scientific"))%>%
+  dplyr::mutate(Scientific=paste(Family,Genus,Species,sep=" "))%>%
+  dplyr::mutate(Scientific=as.factor(Scientific))%>%
+  left_join(MaxN,shark_meso_meta_behaviour_size_dat,  by=c("OP_CODE", "Scientific"))%>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  droplevels()%>%
+  glimpse()
+
+# Calculate Max N per size class -----
+
+MaxN_mesos <- maxn_shark_meso_meta_behaviour_size_dat %>%
+  dplyr::select(OP_CODE, Scientific, Size_class, MaxN)%>%
+  dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
+  unique()%>%
+  dplyr::group_by(OP_CODE)%>%
+  dplyr::mutate(SumMaxN = sum(MaxN))%>%
+  ungroup%>%
+  droplevels()%>%
+  dplyr::select(OP_CODE, SumMaxN)%>%
+  unique()%>%
+  glimpse()
+
+small <- MaxN_mesos %>%
+  filter(Size_class == "Small")%>%
+  droplevels()%>%
+  unique()%>%
+  dplyr::group_by(OP_CODE)%>%
+  dplyr::mutate(Small_MaxN = sum(MaxN))%>%
+  ungroup%>%
+  dplyr::select(OP_CODE, Small_MaxN)%>%
+  unique()%>%
+  glimpse()
+
+medium <- MaxN_mesos %>%
+  filter(Size_class == "Medium")%>%
+  droplevels()%>%
+  unique()%>%
+  dplyr::group_by(OP_CODE)%>%
+  dplyr::mutate(Medium_MaxN = sum(MaxN))%>%
+  ungroup%>%
+  dplyr::select(OP_CODE, Medium_MaxN)%>%
+  unique()%>%
+  glimpse()
+
+large <- MaxN_mesos %>%
+  filter(Size_class == "Large")%>%
+  droplevels()%>%
+  unique()%>%
+  dplyr::group_by(OP_CODE)%>%
+  dplyr::mutate(Large_MaxN = sum(MaxN))%>%
+  ungroup%>%
+  dplyr::select(OP_CODE, Large_MaxN)%>%
+  unique()%>%
+  glimpse()
+
+## Combine data sets
+
+cdat_sum <- left_join(MaxN_mesos,maxn_shark_meso_meta_behaviour_size_dat ,  by=c("OP_CODE"))%>%
+  glimpse()
+
+cdat_small <- full_join( cdat_sum, small,  by=c("OP_CODE"))%>%
+  glimpse()
+
+cdat_medium <- full_join(cdat_small, medium,  by=c("OP_CODE"))%>%
+  glimpse()
+
+
+cdat_large <- full_join(cdat_medium, large,  by=c("OP_CODE"))%>%
   glimpse()
 
 ## Write csv file in tidy data directory 
