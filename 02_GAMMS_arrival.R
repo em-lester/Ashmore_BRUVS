@@ -1,9 +1,12 @@
 ## Script 2 ##
 ## run GAMMs for time to arrival ##
 
-# Script information----
+# Current bugs: 
+# These are only videos where sharks are present.. The others must have been lost in joins and filtering.. 
 
 # set working directories ----
+
+rm(list=ls())
 
 w.dir <- ("~/Repositories/Ashmore_BRUVS")
 
@@ -40,7 +43,6 @@ library(ggplot2)
 library(RCurl) #needed to download data from GitHub
 library(patchwork)
 library(png)
-rm(list=ls())
 
 
 # install package----
@@ -52,9 +54,7 @@ library(FSSgam)
 name<-"Ashmore_BRUVS_Arrival"
 dir()
 
-dt.dir
-
-dat <-read.csv(paste(dt.dir, paste("Ashmore_04_06_tidy.csv", sep='.'), sep = '/'))%>%
+dat <-read.csv(paste(dt.dir, paste("Ashmore_04_16_tidy.csv", sep='.'), sep = '/'))%>%
   dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
   dplyr::rename(Opcode = OP_CODE)%>%
   dplyr::mutate(Year=as.factor(Year))%>%
@@ -66,18 +66,19 @@ dat <-read.csv(paste(dt.dir, paste("Ashmore_04_06_tidy.csv", sep='.'), sep = '/'
   dplyr::mutate(Shark_present=as.factor(Shark_present))%>%
   filter(!Size_class=="NA")%>%
   rename(response = TimeFirstSeen)%>%
-  dplyr::select(Opcode, Year, Family:response, Depth, Coral, Habitat, Complexity, Gensp, Length, Size_class, Shark_present, MaxN)%>%
+  dplyr::select(Opcode, Year, Family:response, Depth, Coral, Habitat, Complexity, Gensp, Length, Size_class, Shark_present, MaxN, Small_MaxN, Medium_MaxN, Large_MaxN)%>%
   unique()%>%
   dplyr::group_by(Opcode)%>%
   dplyr::mutate(SumMaxN = sum(MaxN))%>%
   ungroup()%>%
+  filter(!Depth=="NA")%>%
   glimpse()
 
 summary(dat$Size_class)
 
 
 # Set predictor variables---
-pred.vars=c("Depth","Coral","MaxN", "SumMaxN") 
+pred.vars=c("Depth","Coral","MaxN", "SumMaxN", "Small_MaxN", "Medium_MaxN", "Large_MaxN") 
 
 # Check for correlation of predictor variables- remove anything highly correlated (>0.95)---
 
@@ -101,17 +102,17 @@ for (i in pred.vars) {
 
 # Review of individual predictors - we have to make sure they have an even distribution---
 #If the data are squewed to low numbers try sqrt>log or if squewed to high numbers try ^2 of ^3
-# log transform MaxN, coral cover data is patchy, depth looks pretty good!
+# log transform MaxNs, coral cover data is patchy, depth looks pretty good!
 
 
-dat$log.MaxN<- log(dat$MaxN+1)
-
-
-summary(dat$log.MaxN)
+dat$log.SumMaxN<- log(dat$SumMaxN+1)
+dat$log.Small_MaxN<- log(dat$Small_MaxN+1)
+dat$log.Medium_MaxN<- log(dat$Medium_MaxN+1)
+dat$log.Large_MaxN<- log(dat$Large_MaxN+1)
 
 
 # # Re-set the predictors for modeling----
-pred.vars=c("sd.relief", "sqrt.dst2ramp",  "reef.cover",  "log.large",  "log.small", "log.all") 
+pred.vars=c("Depth","Coral","log.SumMaxN", "log.Small_MaxN", "log.Medium_MaxN", "log.Large_MaxN") 
 
 
 #### Plot all against response
@@ -119,17 +120,18 @@ library(viridis)
 colnames(dat)
 
 
-ggreef <- ggplot(dat, aes(x=reef.cover, y=response, fill=size_class_new, colour=size_class_new))+ facet_wrap(~size_class_new)+
+ggdepth <- ggplot(dat, aes(x=Depth, y=response, fill=Size_class, colour=Size_class))+ facet_wrap(~Size_class)+
   geom_point(size=3, alpha=0.7)+
   scale_fill_viridis_d()+
   scale_colour_viridis_d()+
   theme_classic()
-ggreef+ theme(axis.text.x=element_text(size=15),
+ggdepth+ theme(axis.text.x=element_text(size=15),
               axis.text.y=element_text(size=15),
               axis.title=element_text(size=20),
               strip.text =element_text(size=12),
               legend.position="none")
 
+summary(dat$Shark_present)
 ggstatus <- ggplot(dat, aes(x=status, y=response,fill=size_class_new, colour=size_class_new))+ facet_wrap(~size_class_new)+
   geom_violin(size=3, alpha=0.7)+
   scale_fill_viridis_d()+
