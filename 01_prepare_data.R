@@ -255,15 +255,18 @@ summary(meso_meta_behaviour_size_dat$OP_CODE)
 
 ## Add in Shark present column ----
 
+colnames(meso_meta_behaviour_size_dat)
+
 shark_meso_meta_behaviour_size_dat <- meso_meta_behaviour_size_dat %>%
   dplyr::mutate(OP_CODE=as.factor(OP_CODE))%>%
   dplyr::group_by(OP_CODE)%>%
-  mutate(Shark_present = any(Family %in% c("Carcharhinidae", "Sphyrnidae", "Ginglymostomatidae"), na.rm = FALSE)) %>%
+  mutate(Shark_present = ifelse(Treatment %in%  "absent", "No","Yes"))%>%
+  dplyr::mutate(Shark_present=as.factor(Shark_present))%>%
   ungroup()%>%
   unique()%>%
   glimpse()
 
-summary(shark_meso_meta_behaviour_size_dat$OP_CODE)
+summary(shark_meso_meta_behaviour_size_dat$Shark_present)
 
 ## Add in MaxN for mesos -----
 
@@ -295,7 +298,7 @@ MaxN_mesos <- maxn_shark_meso_meta_behaviour_size_dat %>%
   dplyr::mutate(SumMaxN = sum(MaxN))%>%
   ungroup%>%
   droplevels()%>%
-  dplyr::select(OP_CODE, SumMaxN)%>%
+  #dplyr::select(OP_CODE, SumMaxN)%>%
   unique()%>%
   glimpse()
 
@@ -334,7 +337,10 @@ large <- MaxN_mesos %>%
 
 ## Combine data sets
 
-cdat_sum <- left_join(MaxN_mesos,maxn_shark_meso_meta_behaviour_size_dat ,  by=c("OP_CODE"))%>%
+cdat_sum <- MaxN_mesos %>%
+  dplyr::select(OP_CODE, SumMaxN)%>%
+  unique()%>%
+  left_join(MaxN_mesos,maxn_shark_meso_meta_behaviour_size_dat ,  by=c("OP_CODE"))%>%
   glimpse()
 
 cdat_small <- full_join( cdat_sum, small,  by=c("OP_CODE"))%>%
@@ -345,13 +351,16 @@ cdat_medium <- full_join(cdat_small, medium,  by=c("OP_CODE"))%>%
 
 
 cdat_large <- full_join(cdat_medium, large,  by=c("OP_CODE"))%>%
+  mutate(Small_MaxN = ifelse(is.na(Small_MaxN), 0, Small_MaxN),
+         Medium_MaxN = ifelse(is.na(Medium_MaxN), 0, Medium_MaxN),
+         Large_MaxN = ifelse(is.na(Large_MaxN), 0, Large_MaxN))%>%
   glimpse()
 
 ## Write csv file in tidy data directory 
 
 setwd(dt.dir)
 
-write.csv(maxn_shark_meso_meta_behaviour_size_dat,"Ashmore_04_06_tidy.csv")
+write.csv(cdat_large,"Ashmore_04_16_tidy.csv")
 
 # One last edit, change size class of sharks to "shark" oer perhaps just filter out before modelling??
 

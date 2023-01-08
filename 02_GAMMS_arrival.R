@@ -2,7 +2,7 @@
 ## run GAMMs for time to arrival ##
 
 # Current bugs: 
-# These are only videos where sharks are present.. The others must have been lost in joins and filtering.. 
+# These are only videos says sharks are present so error in cleaning script. The others must have been lost in joins and filtering.. 
 
 # set working directories ----
 
