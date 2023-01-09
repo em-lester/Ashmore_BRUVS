@@ -16,16 +16,17 @@ dr.dir <- (paste(w.dir, "Data/Raw", sep='/'))
 
 # Set graph directory - to save plots
 p.dir <- paste(w.dir, "Plots", sep='/')
-w.dir <- "C:/Users/elester/OneDrive - Australian Institute of Marine Science/Documents/Repositories/NWAUS_fish"
+#w.dir <- "C:/Users/emily/OneDrive/Documents/Repositories/Ashmore_BRUVS"
 
 # Set model output directory
 m.dir <- paste(w.dir,"Model_Outputs/Arrival", sep="/")
 
+getwd()
 setwd(w.dir)
 dir()
 
 # librarys----
-detach("package:plyr", unload=TRUE)#will error - don't worry
+#detach("package:plyr", unload=TRUE)#will error - don't worry
 library(tidyr)
 library(dplyr)
 options(dplyr.width = Inf) #enables head() to display all coloums
@@ -75,6 +76,7 @@ dat <-read.csv(paste(dt.dir, paste("Ashmore_04_16_tidy.csv", sep='.'), sep = '/'
   glimpse()
 
 summary(dat$Size_class)
+summary(dat$Complexity)
 
 summary(dat$Family)
 
