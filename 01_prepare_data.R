@@ -340,7 +340,7 @@ large <- MaxN_mesos %>%
 cdat_sum <- MaxN_mesos %>%
   dplyr::select(OP_CODE, SumMaxN)%>%
   unique()%>%
-  left_join(MaxN_mesos,maxn_shark_meso_meta_behaviour_size_dat ,  by=c("OP_CODE"))%>%
+  left_join(MaxN_mesos,maxn_shark_meso_meta_behaviour_size_dat ,  by=c("OP_CODE", "SumMaxN"))%>%
   glimpse()
 
 cdat_small <- full_join( cdat_sum, small,  by=c("OP_CODE"))%>%
@@ -356,11 +356,17 @@ cdat_large <- full_join(cdat_medium, large,  by=c("OP_CODE"))%>%
          Large_MaxN = ifelse(is.na(Large_MaxN), 0, Large_MaxN))%>%
   glimpse()
 
+
+## Combine with full data 
+
+finaldat <- left_join(maxn_shark_meso_meta_behaviour_size_dat, cdat_large ,  by=c("OP_CODE"))%>%
+  glimpse()
+
 ## Write csv file in tidy data directory 
 
 setwd(dt.dir)
 
-write.csv(cdat_large,"Ashmore_04_16_tidy.csv")
+write.csv(finaldat,"Ashmore_04_16_tidy.csv")
 
 # One last edit, change size class of sharks to "shark" oer perhaps just filter out before modelling??
 
