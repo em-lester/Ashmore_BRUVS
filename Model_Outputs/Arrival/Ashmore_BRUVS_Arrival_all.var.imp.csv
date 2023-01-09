@@ -1,0 +1,4 @@
+"","Depth","log.SumMaxN","log.Small_MaxN","log.Medium_MaxN","log.Large_MaxN","Year","Shark_present","Complexity"
+"Medium",0.522,0.052,0.004,0.265,0.002,0.107,0.197,0.612
+"Large",0.144,0.048,0.165,0.127,0.566,0.054,0.062,0.262
+"Small",0.184,0.186,0.124,0.158,0.068,0.373,0.144,0.03
